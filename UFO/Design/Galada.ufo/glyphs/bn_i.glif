@@ -6,6 +6,9 @@
     <contour>
       <point x="484" y="702" type="move"/>
       <point x="534" y="838"/>
+      <point x="571" y="914"/>
+      <point x="458" y="931" type="curve" smooth="yes"/>
+      <point x="345" y="948"/>
     </contour>
     <component base="bn_ha"/>
   </outline>
