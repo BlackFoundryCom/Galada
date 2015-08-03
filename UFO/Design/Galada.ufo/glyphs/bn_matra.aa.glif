@@ -28,7 +28,7 @@
       <point x="431" y="362" type="line"/>
       <point x="471.543774662" y="554.10026566"/>
       <point x="381" y="632"/>
-      <point x="281" y="632" type="curve"/>
+      <point x="281" y="632" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
