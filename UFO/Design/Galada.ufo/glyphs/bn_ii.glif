@@ -32,14 +32,17 @@
       <point x="-7" y="632" type="line"/>
     </contour>
     <contour>
-      <point x="701" y="577" type="line"/>
-      <point x="599" y="417"/>
-      <point x="592" y="123"/>
-      <point x="645" y="0" type="curve"/>
-      <point x="686" y="0" type="line"/>
-      <point x="653" y="177"/>
-      <point x="685" y="391"/>
-      <point x="796" y="499" type="curve"/>
+      <point x="701.0" y="577.0" type="line"/>
+      <point x="639.0" y="480.0"/>
+      <point x="612.0" y="334.0"/>
+      <point x="612.0" y="207.0" type="curve" smooth="yes"/>
+      <point x="613.0" y="124.0"/>
+      <point x="624.0" y="49.0"/>
+      <point x="645.0" y="0.0" type="curve"/>
+      <point x="686.0" y="0.0" type="line"/>
+      <point x="653.0" y="177.0"/>
+      <point x="685.0" y="391.0"/>
+      <point x="796.0" y="499.0" type="curve"/>
     </contour>
     <contour>
       <point x="218" y="-14" type="curve" smooth="yes"/>
