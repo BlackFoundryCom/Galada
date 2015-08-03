@@ -65,6 +65,23 @@
       <point x="91" y="757"/>
       <point x="-15" y="690"/>
     </contour>
+    <contour>
+      <point x="533" y="326" type="move"/>
+      <point x="533" y="232"/>
+      <point x="364" y="162"/>
+      <point x="79" y="135" type="curve"/>
+      <point x="96" y="21" type="line"/>
+      <point x="238" y="-6"/>
+      <point x="381" y="-69"/>
+      <point x="483" y="-172" type="curve"/>
+      <point x="524" y="-172" type="line"/>
+      <point x="461" y="-77"/>
+      <point x="375" y="-2"/>
+      <point x="283" y="41" type="curve"/>
+      <point x="512" y="106"/>
+      <point x="642" y="243"/>
+      <point x="642" y="350" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>
