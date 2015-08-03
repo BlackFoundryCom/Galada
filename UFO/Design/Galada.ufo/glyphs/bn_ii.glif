@@ -71,15 +71,5 @@
       <point x="-21" y="135" type="curve"/>
       <point x="-4" y="21" type="line"/>
     </contour>
-    <contour>
-      <point x="-4" y="21" type="move"/>
-      <point x="138" y="-6"/>
-      <point x="281" y="-69"/>
-      <point x="383" y="-172" type="curve"/>
-      <point x="424" y="-172" type="line"/>
-      <point x="357" y="-71"/>
-      <point x="266" y="9"/>
-      <point x="168" y="55" type="curve"/>
-    </contour>
   </outline>
 </glyph>
