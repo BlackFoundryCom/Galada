@@ -101,6 +101,24 @@
       <point x="248" y="316"/>
       <point x="366" y="316" type="curve"/>
     </contour>
+    <contour>
+      <point x="324" y="560" type="move"/>
+      <point x="235" y="560"/>
+      <point x="182" y="510"/>
+      <point x="182" y="440" type="curve" smooth="yes"/>
+      <point x="182" y="399"/>
+      <point x="203" y="359"/>
+      <point x="260" y="359" type="curve" smooth="yes"/>
+      <point x="284" y="359"/>
+      <point x="306" y="370"/>
+      <point x="327" y="390" type="curve"/>
+      <point x="305" y="406"/>
+      <point x="283" y="447"/>
+      <point x="283" y="472" type="curve" smooth="yes"/>
+      <point x="283" y="492"/>
+      <point x="292" y="513"/>
+      <point x="324" y="513" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>
