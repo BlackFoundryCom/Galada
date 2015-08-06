@@ -5,15 +5,15 @@
   <outline>
     <contour>
       <point x="474" y="603" type="line"/>
-      <point x="308.919569072" y="539.008147561"/>
-      <point x="175" y="466"/>
+      <point x="309.01500228" y="539.045141333"/>
+      <point x="174.641351716" y="465.464696979"/>
       <point x="39" y="345" type="curve"/>
       <point x="55" y="241" type="line"/>
       <point x="61" y="241"/>
       <point x="67" y="242"/>
       <point x="73" y="242" type="curve" smooth="yes"/>
-      <point x="177" y="242"/>
-      <point x="341.0" y="174.173913043"/>
+      <point x="177.415584416" y="242.0"/>
+      <point x="341.0" y="174.844720497"/>
       <point x="341" y="38" type="curve" smooth="yes"/>
       <point x="341" y="26"/>
       <point x="340" y="13"/>
@@ -22,12 +22,12 @@
       <point x="367" y="44"/>
       <point x="369" y="61"/>
       <point x="369" y="77" type="curve" smooth="yes"/>
-      <point x="369.0" y="230.515837104"/>
-      <point x="220" y="321"/>
+      <point x="369.0" y="231.099547511"/>
+      <point x="220.035566381" y="321.274028189"/>
       <point x="160" y="341" type="curve"/>
       <point x="148" y="257" type="line"/>
-      <point x="261" y="362"/>
-      <point x="358.107217903" y="406.816404223"/>
+      <point x="260.900578559" y="361.503014864"/>
+      <point x="358.206269395" y="406.859355755"/>
       <point x="460" y="451" type="curve"/>
     </contour>
     <contour>
@@ -69,7 +69,6 @@
       <point x="605" y="381"/>
       <point x="549" y="400" type="curve"/>
     </contour>
-    <component base="bn_ka" xOffset="83"/>
   </outline>
   <lib>
     <dict>
