@@ -46,13 +46,12 @@
       <point x="1044" y="627" type="line"/>
     </contour>
     <contour>
-      <point x="240" y="751" type="move"/>
+      <point x="589" y="751" type="line"/>
       <point x="-23" y="751" type="line"/>
       <point x="-7" y="627" type="line"/>
       <point x="431" y="627" type="line"/>
       <point x="297" y="0" type="line" smooth="yes"/>
       <point x="432" y="0" type="line" smooth="yes"/>
-      <point x="589" y="751" type="line" smooth="yes"/>
     </contour>
   </outline>
   <lib>
