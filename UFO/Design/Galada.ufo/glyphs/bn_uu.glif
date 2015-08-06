@@ -26,7 +26,7 @@
       <point x="734" y="727" type="curve"/>
     </contour>
     <contour>
-      <point x="609" y="751" type="move"/>
+      <point x="609" y="751" type="line"/>
       <point x="436" y="751"/>
       <point x="373" y="680"/>
       <point x="330" y="513" type="curve" smooth="yes"/>
@@ -75,7 +75,6 @@
       <point x="618" y="627" type="curve"/>
       <point x="925" y="627" type="line"/>
       <point x="909" y="751" type="line"/>
-      <point x="540" y="751" type="line"/>
     </contour>
     <contour>
       <point x="340" y="751" type="move"/>
