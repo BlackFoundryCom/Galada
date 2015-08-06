@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>750</integer>
+	<integer>1100</integer>
 	<key>capHeight</key>
 	<integer>750</integer>
 	<key>copyright</key>
 	<string></string>
 	<key>descender</key>
-	<integer>-250</integer>
+	<integer>-350</integer>
 	<key>familyName</key>
 	<string>Galada</string>
 	<key>italicAngle</key>
@@ -24,7 +24,7 @@
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>3</integer>
 	<key>openTypeHheaAscender</key>
-	<integer>750</integer>
+	<integer>1100</integer>
 	<key>openTypeHheaCaretOffset</key>
 	<integer>0</integer>
 	<key>openTypeHheaCaretSlopeRise</key>
@@ -32,7 +32,7 @@
 	<key>openTypeHheaCaretSlopeRun</key>
 	<integer>0</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>-250</integer>
+	<integer>-350</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>9</integer>
 	<key>openTypeNameDesigner</key>
@@ -118,9 +118,9 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>1000</integer>
+	<integer>1100</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>250</integer>
+	<integer>350</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>0</integer>
