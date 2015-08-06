@@ -4,9 +4,9 @@
   <unicode hex="0990"/>
   <outline>
     <contour>
-      <point x="678" y="348" type="line"/>
-      <point x="807.427582393" y="445.070686795"/>
-      <point x="871" y="566"/>
+      <point x="657" y="299" type="line"/>
+      <point x="803" y="408"/>
+      <point x="871.0" y="552.254125413"/>
       <point x="871" y="651" type="curve" smooth="yes"/>
       <point x="871" y="861"/>
       <point x="805.130733322" y="930.253849043"/>
@@ -21,9 +21,9 @@
       <point x="782.685217404" y="814.603917264"/>
       <point x="775" y="738"/>
       <point x="775" y="595" type="curve" smooth="yes"/>
-      <point x="775" y="538"/>
-      <point x="733.616573766" y="472.13498015"/>
-      <point x="648" y="373" type="curve"/>
+      <point x="775.0" y="525.418918919"/>
+      <point x="730" y="443"/>
+      <point x="627" y="324" type="curve"/>
     </contour>
     <component base="bn_e"/>
   </outline>
