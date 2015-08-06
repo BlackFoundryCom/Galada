@@ -32,25 +32,7 @@
       <point x="-7" y="627" type="line"/>
     </contour>
     <contour>
-      <point x="498" y="0" type="curve" smooth="yes"/>
-      <point x="667" y="0"/>
-      <point x="768" y="126"/>
-      <point x="768" y="274" type="curve" smooth="yes"/>
-      <point x="768" y="355"/>
-      <point x="729" y="415"/>
-      <point x="687" y="444" type="curve"/>
-      <point x="592" y="383"/>
-      <point x="512" y="352"/>
-      <point x="470" y="352" type="curve" smooth="yes"/>
-      <point x="445" y="352"/>
-      <point x="433" y="370"/>
-      <point x="444" y="418" type="curve" smooth="yes"/>
-      <point x="495" y="634" type="line" smooth="yes"/>
-      <point x="367" y="678" type="line"/>
-      <point x="311" y="440" type="line" smooth="yes"/>
-      <point x="287" y="330"/>
-      <point x="365" y="244"/>
-      <point x="494" y="244" type="curve" smooth="yes"/>
+      <point x="494" y="244" type="move"/>
       <point x="555" y="244"/>
       <point x="616" y="278"/>
       <point x="678" y="304" type="curve"/>
@@ -73,6 +55,28 @@
       <point x="28" y="523" type="line"/>
       <point x="48" y="299"/>
       <point x="213" y="0"/>
+      <point x="498" y="0" type="curve" smooth="yes"/>
+      <point x="667" y="0"/>
+      <point x="768" y="126"/>
+      <point x="768" y="274" type="curve" smooth="yes"/>
+      <point x="768" y="355"/>
+      <point x="729" y="415"/>
+      <point x="687" y="444" type="curve"/>
+      <point x="592" y="383"/>
+      <point x="512" y="352"/>
+      <point x="470" y="352" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="470" y="352" type="move"/>
+      <point x="445" y="352"/>
+      <point x="433" y="370"/>
+      <point x="444" y="418" type="curve" smooth="yes"/>
+      <point x="495" y="634" type="line" smooth="yes"/>
+      <point x="367" y="678" type="line"/>
+      <point x="311" y="440" type="line" smooth="yes"/>
+      <point x="287" y="330"/>
+      <point x="365" y="244"/>
+      <point x="494" y="244" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
