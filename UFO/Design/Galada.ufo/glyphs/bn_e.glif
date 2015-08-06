@@ -32,21 +32,21 @@
       <point x="500" y="242"/>
     </contour>
     <contour>
-      <point x="152" y="524" type="move"/>
-      <point x="181" y="596"/>
-      <point x="227" y="645"/>
-      <point x="305" y="645" type="curve" smooth="yes"/>
-      <point x="389" y="645"/>
-      <point x="473" y="561"/>
-      <point x="431" y="362" type="curve"/>
-      <point x="453" y="383" type="line"/>
-      <point x="505" y="616"/>
-      <point x="433" y="761"/>
-      <point x="275" y="761" type="curve" smooth="yes"/>
-      <point x="163" y="761"/>
-      <point x="44" y="664"/>
-      <point x="10" y="485" type="curve"/>
-      <point x="46" y="381" type="line"/>
+      <point x="252" y="524" type="move"/>
+      <point x="281" y="596"/>
+      <point x="327" y="645"/>
+      <point x="405" y="645" type="curve" smooth="yes"/>
+      <point x="489" y="645"/>
+      <point x="573" y="561"/>
+      <point x="531" y="362" type="curve"/>
+      <point x="553" y="383" type="line"/>
+      <point x="605" y="616"/>
+      <point x="533" y="761"/>
+      <point x="375" y="761" type="curve" smooth="yes"/>
+      <point x="263" y="761"/>
+      <point x="144" y="664"/>
+      <point x="110" y="485" type="curve"/>
+      <point x="146" y="381" type="line"/>
     </contour>
   </outline>
   <lib>
