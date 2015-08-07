@@ -32,36 +32,6 @@
       <point x="274" y="0" type="line" smooth="yes"/>
       <point x="409" y="0" type="line" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="160" y="368" type="curve" smooth="yes"/>
-      <point x="212" y="368"/>
-      <point x="281.0" y="241.16"/>
-      <point x="281" y="66" type="curve" smooth="yes"/>
-      <point x="281" y="45"/>
-      <point x="279" y="23"/>
-      <point x="274" y="0" type="curve"/>
-      <point x="309" y="26" type="line"/>
-      <point x="316" y="58"/>
-      <point x="319" y="88"/>
-      <point x="319" y="116" type="curve" smooth="yes"/>
-      <point x="319" y="340"/>
-      <point x="246" y="479"/>
-      <point x="113" y="479" type="curve" smooth="yes"/>
-      <point x="19" y="479"/>
-      <point x="-30" y="409"/>
-      <point x="-30" y="337" type="curve" smooth="yes"/>
-      <point x="-30" y="260"/>
-      <point x="15" y="212"/>
-      <point x="82" y="212" type="curve" smooth="yes"/>
-      <point x="110" y="212"/>
-      <point x="139" y="222"/>
-      <point x="163" y="245" type="curve"/>
-      <point x="141" y="261"/>
-      <point x="119" y="292"/>
-      <point x="119" y="321" type="curve" smooth="yes"/>
-      <point x="119" y="347"/>
-      <point x="128" y="368"/>
-    </contour>
   </outline>
   <lib>
     <dict>
