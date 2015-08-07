@@ -4,10 +4,10 @@
   <unicode hex="09B9"/>
   <outline>
     <contour>
-      <point x="585" y="627" type="line"/>
-      <point x="569" y="751" type="line"/>
-      <point x="-13" y="751" type="line"/>
-      <point x="3" y="627" type="line"/>
+      <point x="575" y="627" type="line"/>
+      <point x="559" y="751" type="line"/>
+      <point x="-23" y="751" type="line"/>
+      <point x="-7" y="627" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>585</integer>
+                  <integer>575</integer>
                   <key>y</key>
                   <integer>627</integer>
                 </dict>
@@ -43,7 +43,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>569</integer>
+                  <integer>559</integer>
                   <key>y</key>
                   <integer>751</integer>
                 </dict>
@@ -53,7 +53,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-13</integer>
+                  <integer>-23</integer>
                   <key>y</key>
                   <integer>751</integer>
                 </dict>
@@ -63,7 +63,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>3</integer>
+                  <integer>-7</integer>
                   <key>y</key>
                   <integer>627</integer>
                 </dict>
