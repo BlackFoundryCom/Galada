@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_matra.i" format="1">
-  <advance width="713"/>
+  <advance width="413"/>
   <unicode hex="09BF"/>
   <outline>
     <contour>
@@ -622,7 +622,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>713</integer>
+          <integer>413</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
