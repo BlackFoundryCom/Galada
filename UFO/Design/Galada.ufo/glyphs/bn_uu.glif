@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_uu" format="1">
-  <advance width="923"/>
+  <advance width="703"/>
   <unicode hex="098A"/>
   <outline>
     <contour>
@@ -9,16 +9,16 @@
       <point x="657" y="797"/>
       <point x="657" y="834" type="curve" smooth="yes"/>
       <point x="657.0" y="920.0"/>
-      <point x="620" y="959"/>
+      <point x="611.163687371" y="959.235371044"/>
       <point x="323" y="981" type="curve" smooth="yes"/>
-      <point x="151" y="993"/>
-      <point x="118.83528871" y="1009.52707613"/>
+      <point x="143.856135745" y="993.7052386"/>
+      <point x="119.006952704" y="1008.97775135"/>
       <point x="89" y="1105" type="curve"/>
       <point x="48" y="1105" type="line"/>
-      <point x="63.9931816925" y="911.082671978"/>
-      <point x="97" y="855"/>
+      <point x="63.9993761327" y="911.007564391"/>
+      <point x="89.0223539709" y="856.065783137"/>
       <point x="309" y="840" type="curve" smooth="yes"/>
-      <point x="539" y="824"/>
+      <point x="530.34720098" y="824.965095782"/>
       <point x="561.0" y="814.0"/>
       <point x="561" y="778" type="curve" smooth="yes"/>
       <point x="561" y="765"/>
@@ -859,7 +859,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>923</integer>
+          <integer>703</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
