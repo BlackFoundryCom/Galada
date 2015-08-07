@@ -43,20 +43,20 @@
       <point x="443" y="302" type="curve"/>
     </contour>
     <contour>
-      <point x="295" y="338" type="move"/>
-      <point x="295" y="275"/>
-      <point x="214" y="157"/>
-      <point x="111" y="157" type="curve" smooth="yes"/>
-      <point x="61" y="157"/>
-      <point x="8" y="177"/>
-      <point x="-37" y="228" type="curve"/>
-      <point x="-81" y="228" type="line"/>
-      <point x="-24" y="101"/>
-      <point x="49" y="46"/>
-      <point x="152" y="46" type="curve" smooth="yes"/>
-      <point x="215" y="46"/>
-      <point x="296" y="94"/>
-      <point x="394" y="228" type="curve" smooth="yes"/>
+      <point x="285" y="338" type="move"/>
+      <point x="285" y="275"/>
+      <point x="204" y="157"/>
+      <point x="101" y="157" type="curve" smooth="yes"/>
+      <point x="51" y="157"/>
+      <point x="-2" y="177"/>
+      <point x="-47" y="228" type="curve"/>
+      <point x="-91" y="228" type="line"/>
+      <point x="-34" y="101"/>
+      <point x="39" y="46"/>
+      <point x="142" y="46" type="curve" smooth="yes"/>
+      <point x="205" y="46"/>
+      <point x="286" y="94"/>
+      <point x="384" y="228" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
