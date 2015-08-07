@@ -9,16 +9,16 @@
       <point x="567" y="797"/>
       <point x="567" y="834" type="curve" smooth="yes"/>
       <point x="567.0" y="934.0"/>
-      <point x="499" y="961"/>
+      <point x="506.949223702" y="960.670898025"/>
       <point x="263" y="981" type="curve" smooth="yes"/>
-      <point x="54" y="997"/>
-      <point x="27.9126877765" y="1011.28301203"/>
+      <point x="61.1849659657" y="996.810394371"/>
+      <point x="27.8282546292" y="1011.55669189"/>
       <point x="-1" y="1105" type="curve"/>
       <point x="-42" y="1105" type="line"/>
-      <point x="-25.0035020052" y="895.043260064"/>
-      <point x="-5" y="858"/>
+      <point x="-25.0068902525" y="895.085114884"/>
+      <point x="3.75771753811" y="857.784745675"/>
       <point x="249" y="840" type="curve" smooth="yes"/>
-      <point x="436" y="827"/>
+      <point x="444.547603732" y="826.817015479"/>
       <point x="471.0" y="814.0"/>
       <point x="471" y="778" type="curve" smooth="yes"/>
       <point x="471" y="765"/>
@@ -31,10 +31,10 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0061</real>
+        <real>0.502</real>
+        <real>0.0</real>
         <real>1.0</real>
-        <real>0.0546</real>
-        <real>0.7</real>
+        <real>0.63</real>
       </array>
     </dict>
   </lib>
