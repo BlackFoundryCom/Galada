@@ -55,8 +55,12 @@
       <point x="456" y="447"/>
     </contour>
     <contour>
-      <point x="239.204545455" y="627.0"/>
-      <point x="311.666666667" y="628.666666667"/>
+      <point x="189" y="627" type="line" smooth="yes"/>
+      <point x="236" y="627"/>
+      <point x="297" y="620"/>
+      <point x="297" y="576" type="curve" smooth="yes"/>
+      <point x="297" y="573"/>
+      <point x="297" y="570"/>
       <point x="296" y="566" type="curve"/>
       <point x="356" y="566" type="line"/>
       <point x="353" y="666"/>
