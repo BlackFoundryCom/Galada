@@ -20,13 +20,13 @@
     </contour>
     <contour>
       <point x="-7" y="627" type="line"/>
-      <point x="7" y="627" type="line" smooth="yes"/>
-      <point x="60.7169811321" y="627"/>
-      <point x="119.56255733" y="547.639692088"/>
+      <point x="1" y="627" type="line" smooth="yes"/>
+      <point x="61" y="627"/>
+      <point x="120" y="548"/>
       <point x="80" y="362" type="curve"/>
       <point x="102" y="383" type="line"/>
-      <point x="162.567642327" y="674.734143876"/>
-      <point x="93.5416666667" y="751"/>
+      <point x="163" y="675"/>
+      <point x="94" y="751"/>
       <point x="-14" y="751" type="curve" smooth="yes"/>
       <point x="-23" y="751" type="line"/>
     </contour>
