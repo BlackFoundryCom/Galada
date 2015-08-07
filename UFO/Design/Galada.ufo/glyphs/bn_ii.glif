@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ii" format="1">
-  <advance width="793"/>
+  <advance width="763"/>
   <unicode hex="0988"/>
   <outline>
     <contour>
@@ -8,8 +8,8 @@
       <point x="674" y="747"/>
       <point x="707" y="797"/>
       <point x="707" y="834" type="curve" smooth="yes"/>
-      <point x="707" y="927"/>
-      <point x="645.066194761" y="957.293328347"/>
+      <point x="707.0" y="927.0"/>
+      <point x="637.101621329" y="957.939803464"/>
       <point x="353" y="981" type="curve" smooth="yes"/>
       <point x="136" y="998"/>
       <point x="98" y="1011"/>
@@ -18,8 +18,8 @@
       <point x="45" y="903"/>
       <point x="77" y="859"/>
       <point x="339" y="840" type="curve" smooth="yes"/>
-      <point x="586.533772914" y="823.186385236"/>
-      <point x="611" y="814"/>
+      <point x="577.803026382" y="823.779417076"/>
+      <point x="611.0" y="814.0"/>
       <point x="611" y="778" type="curve" smooth="yes"/>
       <point x="611" y="765"/>
       <point x="603" y="749"/>
@@ -52,12 +52,12 @@
       <point x="295" y="46"/>
       <point x="376" y="94"/>
       <point x="474" y="228" type="curve" smooth="yes"/>
-      <point x="523.623252156" y="296.110346097"/>
-      <point x="577" y="417"/>
+      <point x="522.964577842" y="295.206283313"/>
+      <point x="581.197198338" y="418.659500029"/>
       <point x="694" y="471" type="curve"/>
       <point x="627" y="585" type="line"/>
-      <point x="553" y="541"/>
-      <point x="490.565458561" y="455.834654431"/>
+      <point x="555.868924177" y="542.681511852"/>
+      <point x="489.886182351" y="454.809331851"/>
       <point x="439" y="378" type="curve"/>
       <point x="416" y="488"/>
       <point x="331" y="583"/>
@@ -949,7 +949,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>793</integer>
+          <integer>763</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
