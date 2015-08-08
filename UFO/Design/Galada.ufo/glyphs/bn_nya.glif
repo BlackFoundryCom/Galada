@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_nya" format="1">
-  <advance width="1158"/>
+  <advance width="928"/>
   <unicode hex="099E"/>
   <outline>
     <contour>
       <point x="726" y="54" type="curve" smooth="yes"/>
       <point x="795.591549296" y="54.0"/>
-      <point x="848" y="95"/>
+      <point x="848.0" y="101.666666667"/>
       <point x="848" y="197" type="curve" smooth="yes"/>
-      <point x="848" y="268"/>
-      <point x="818" y="335"/>
+      <point x="848.0" y="271.966480447"/>
+      <point x="819.273760955" y="332.904457785"/>
       <point x="787" y="386" type="curve"/>
       <point x="862.136311997" y="437.783133944"/>
       <point x="918.0" y="516.868544601"/>
@@ -49,10 +49,10 @@
       <point x="697" y="321"/>
       <point x="718" y="332"/>
       <point x="732" y="345" type="curve"/>
-      <point x="744" y="318"/>
-      <point x="751" y="280"/>
+      <point x="745.264264836" y="315.155404118"/>
+      <point x="751.0" y="283.125"/>
       <point x="751" y="255" type="curve" smooth="yes"/>
-      <point x="751" y="207"/>
+      <point x="751.0" y="212.714285714"/>
       <point x="723.367088608" y="181.0"/>
     </contour>
     <contour>
@@ -1056,7 +1056,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1158</integer>
+          <integer>928</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
