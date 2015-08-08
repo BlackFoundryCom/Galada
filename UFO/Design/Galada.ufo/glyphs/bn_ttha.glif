@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ttha" format="1">
-  <advance width="524"/>
+  <advance width="483"/>
   <unicode hex="09A0"/>
   <outline>
     <contour>
@@ -14,10 +14,10 @@
       <point x="284" y="522"/>
       <point x="123" y="365"/>
       <point x="-21" y="268" type="curve"/>
-      <point x="-45.8218258958" y="140.788142284"/>
-      <point x="36" y="-10"/>
+      <point x="-45.7855659516" y="140.973974498"/>
+      <point x="43.0677966102" y="-10.0"/>
       <point x="195" y="-10" type="curve" smooth="yes"/>
-      <point x="324" y="-10"/>
+      <point x="330.23880597" y="-10.0"/>
       <point x="416.0" y="102.0"/>
       <point x="416" y="228" type="curve" smooth="yes"/>
       <point x="416.0" y="432.0"/>
@@ -34,10 +34,10 @@
       <point x="330.0" y="448.0"/>
       <point x="330" y="262" type="curve" smooth="yes"/>
       <point x="330.0" y="141.0"/>
-      <point x="259" y="46"/>
+      <point x="264.588235294" y="46.0"/>
       <point x="191" y="46" type="curve" smooth="yes"/>
-      <point x="131" y="46"/>
-      <point x="106.101550671" y="108.44896086"/>
+      <point x="138.813953488" y="46.0"/>
+      <point x="106.191015139" y="108.844487983"/>
       <point x="125" y="192" type="curve"/>
       <point x="267" y="293"/>
       <point x="361" y="460"/>
@@ -113,7 +113,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>524</integer>
+          <integer>483</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
