@@ -4,26 +4,26 @@
   <unicode hex="099F"/>
   <outline>
     <contour>
-      <point x="524" y="702" type="line"/>
-      <point x="584" y="747"/>
-      <point x="617" y="797"/>
-      <point x="617" y="834" type="curve" smooth="yes"/>
-      <point x="617" y="934"/>
-      <point x="547" y="958"/>
-      <point x="263" y="981" type="curve" smooth="yes"/>
-      <point x="77" y="995"/>
-      <point x="57.7379769021" y="1011.84931625"/>
+      <point x="514" y="702" type="line"/>
+      <point x="574" y="747"/>
+      <point x="607" y="797"/>
+      <point x="607" y="834" type="curve" smooth="yes"/>
+      <point x="607" y="934"/>
+      <point x="537" y="958"/>
+      <point x="253" y="981" type="curve" smooth="yes"/>
+      <point x="74" y="995"/>
+      <point x="57.6568985518" y="1012.11212194"/>
       <point x="29" y="1105" type="curve"/>
       <point x="-12" y="1105" type="line"/>
-      <point x="4.98951521218" y="895.129517967"/>
-      <point x="20" y="856"/>
-      <point x="249" y="840" type="curve" smooth="yes"/>
-      <point x="488" y="823"/>
-      <point x="521" y="814"/>
-      <point x="521" y="778" type="curve" smooth="yes"/>
-      <point x="521" y="765"/>
-      <point x="513" y="749"/>
-      <point x="494" y="727" type="curve"/>
+      <point x="4.98626336934" y="895.16968779"/>
+      <point x="19" y="856"/>
+      <point x="239" y="840" type="curve" smooth="yes"/>
+      <point x="478" y="823"/>
+      <point x="511" y="814"/>
+      <point x="511" y="778" type="curve" smooth="yes"/>
+      <point x="511" y="765"/>
+      <point x="503" y="749"/>
+      <point x="484" y="727" type="curve"/>
     </contour>
     <component base="bn_ddha"/>
   </outline>
