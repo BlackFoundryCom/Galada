@@ -11,8 +11,8 @@
     </contour>
     <contour>
       <point x="446" y="582" type="line"/>
-      <point x="487" y="443"/>
-      <point x="593.631738137" y="314.208279514"/>
+      <point x="486.788650259" y="443.716527172"/>
+      <point x="597.89864329" y="315.321385206"/>
       <point x="727" y="349" type="curve"/>
       <point x="697" y="372" type="line"/>
       <point x="642.192381684" y="298.578473576"/>
@@ -29,8 +29,8 @@
       <point x="771.93651325" y="300.625248835"/>
       <point x="814" y="355" type="curve"/>
       <point x="744" y="483" type="line"/>
-      <point x="653.077165695" y="445.673783812"/>
-      <point x="551" y="456"/>
+      <point x="656.027329659" y="446.884903755"/>
+      <point x="550.396848543" y="456.449679818"/>
       <point x="494" y="592" type="curve"/>
     </contour>
     <contour>
@@ -686,10 +686,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.502</real>
-        <real>0.0</real>
         <real>1.0</real>
-        <real>0.63</real>
+        <real>1.0</real>
+        <real>0.4</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>
