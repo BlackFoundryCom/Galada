@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ka" format="1">
-  <advance width="724"/>
+  <advance width="704"/>
   <unicode hex="0995"/>
   <outline>
     <contour>
@@ -55,8 +55,8 @@
       <point x="612" y="118"/>
       <point x="649" y="186"/>
       <point x="649" y="278" type="curve" smooth="yes"/>
-      <point x="649" y="405"/>
-      <point x="535.008163265" y="529.0"/>
+      <point x="649.0" y="405.0"/>
+      <point x="529.987755102" y="529.0"/>
       <point x="410" y="529" type="curve" smooth="yes"/>
       <point x="283.3356974" y="529.0"/>
       <point x="108.091792012" y="404.214337479"/>
@@ -82,8 +82,8 @@
       <point x="191.824051491" y="300.560779437"/>
       <point x="311.377777778" y="395.0"/>
       <point x="427" y="395" type="curve" smooth="yes"/>
-      <point x="544.787878788" y="395.0"/>
-      <point x="586" y="315"/>
+      <point x="537.818181818" y="395.0"/>
+      <point x="586.0" y="315.0"/>
     </contour>
   </outline>
   <lib>
@@ -801,7 +801,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>724</integer>
+          <integer>704</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
