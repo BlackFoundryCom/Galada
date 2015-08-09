@@ -67,6 +67,12 @@
       <point x="872" y="567" type="curve" smooth="yes"/>
       <point x="879" y="567" type="line"/>
     </contour>
+    <contour>
+      <point x="515" y="567" type="line"/>
+      <point x="499" y="681" type="line"/>
+      <point x="-23" y="681" type="line"/>
+      <point x="-7" y="567" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
