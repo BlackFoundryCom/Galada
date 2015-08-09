@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_aa" format="1">
-  <advance width="1082"/>
+  <advance width="1042"/>
   <unicode hex="0986"/>
   <outline>
     <contour>
@@ -51,21 +51,21 @@
     </contour>
     <contour>
       <point x="754" y="567" type="curve" smooth="yes"/>
-      <point x="777" y="567"/>
-      <point x="831.388045686" y="486.820829759"/>
+      <point x="785.666666667" y="567.0"/>
+      <point x="832.996825526" y="494.369719774"/>
       <point x="792" y="302" type="curve"/>
       <point x="814" y="323" type="line"/>
-      <point x="870.663970173" y="595.384698728"/>
-      <point x="795" y="681"/>
+      <point x="871.174434766" y="597.838510979"/>
+      <point x="803.192982456" y="681.0"/>
       <point x="737" y="681" type="curve" smooth="yes"/>
-      <point x="644" y="681"/>
-      <point x="617.234529603" y="614.544186564"/>
+      <point x="649.379310345" y="681.0"/>
+      <point x="617.15679538" y="614.177378198"/>
       <point x="583" y="453" type="curve" smooth="yes"/>
       <point x="487" y="0" type="line" smooth="yes"/>
       <point x="602" y="0" type="line" smooth="yes"/>
       <point x="688" y="418" type="line" smooth="yes"/>
-      <point x="711.242852603" y="530.971074282"/>
-      <point x="713" y="567"/>
+      <point x="711.1512459" y="530.525823096"/>
+      <point x="718.697674419" y="567.0"/>
     </contour>
     <contour>
       <point x="272" y="500" type="curve" smooth="yes"/>
@@ -957,7 +957,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1082</integer>
+          <integer>1042</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
