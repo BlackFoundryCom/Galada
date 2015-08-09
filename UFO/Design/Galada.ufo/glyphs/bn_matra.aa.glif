@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_matra.aa" format="1">
-  <advance width="351"/>
+  <advance width="337"/>
   <unicode hex="09BE"/>
   <outline>
     <contour>
       <point x="323" y="681" type="line"/>
       <point x="313" y="681" type="line" smooth="yes"/>
-      <point x="249.0" y="681"/>
-      <point x="219" y="724"/>
+      <point x="241.380952381" y="681"/>
+      <point x="219.0" y="724.0"/>
       <point x="219" y="848" type="curve"/>
       <point x="185" y="848" type="line"/>
       <point x="2" y="0" type="line" smooth="yes"/>
@@ -279,7 +279,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>351</integer>
+          <integer>337</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
