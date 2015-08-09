@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ii" format="1">
-  <advance width="763"/>
+  <advance width="733"/>
   <unicode hex="0988"/>
   <outline>
     <contour>
@@ -8,8 +8,8 @@
       <point x="644" y="677"/>
       <point x="677" y="727"/>
       <point x="677" y="764" type="curve" smooth="yes"/>
-      <point x="677" y="844"/>
-      <point x="624.79061385" y="870.306250899"/>
+      <point x="677.0" y="844.0"/>
+      <point x="616.800300046" y="870.950158971"/>
       <point x="368" y="891" type="curve" smooth="yes"/>
       <point x="156.939729402" y="907.47299673"/>
       <point x="120.075968379" y="920.753757668"/>
@@ -18,8 +18,8 @@
       <point x="74" y="828"/>
       <point x="105.094024818" y="787.993203025"/>
       <point x="354" y="770" type="curve" smooth="yes"/>
-      <point x="570.452713212" y="755.696957277"/>
-      <point x="589" y="744"/>
+      <point x="561.66376181" y="756.277724991"/>
+      <point x="589.0" y="744.0"/>
       <point x="589" y="708" type="curve" smooth="yes"/>
       <point x="589" y="695"/>
       <point x="581" y="679"/>
@@ -55,11 +55,11 @@
       <point x="196" y="363"/>
       <point x="239.0" y="407.0"/>
       <point x="295" y="407" type="curve" smooth="yes"/>
-      <point x="330.25" y="407.0"/>
-      <point x="345" y="375"/>
+      <point x="324.375" y="407.0"/>
+      <point x="345.0" y="375.0"/>
       <point x="345" y="304" type="curve" smooth="yes"/>
-      <point x="345" y="232"/>
-      <point x="282.804347826" y="137.0"/>
+      <point x="345.0" y="232.0"/>
+      <point x="277.206521739" y="137.0"/>
       <point x="191" y="137" type="curve" smooth="yes"/>
       <point x="141" y="137"/>
       <point x="88" y="157"/>
@@ -68,8 +68,8 @@
       <point x="56" y="81"/>
       <point x="129" y="26"/>
       <point x="232" y="26" type="curve" smooth="yes"/>
-      <point x="289.79338843" y="26.0"/>
-      <point x="362" y="56"/>
+      <point x="287.190082645" y="26.0"/>
+      <point x="363.469996591" y="57.7505905708"/>
       <point x="444" y="168" type="curve" smooth="yes"/>
       <point x="493" y="235"/>
       <point x="551" y="359"/>
@@ -78,8 +78,8 @@
       <point x="526" y="483"/>
       <point x="460" y="395"/>
       <point x="409" y="318" type="curve"/>
-      <point x="386" y="428"/>
-      <point x="321.485436893" y="523.0"/>
+      <point x="386.130457228" y="427.376074126"/>
+      <point x="316.72815534" y="523.0"/>
       <point x="233" y="523" type="curve" smooth="yes"/>
       <point x="141.060606061" y="523.0"/>
       <point x="48.0" y="450.766990291"/>
@@ -937,7 +937,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>763</integer>
+          <integer>733</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
