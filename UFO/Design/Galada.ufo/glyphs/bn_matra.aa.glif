@@ -7,7 +7,7 @@
       <point x="317" y="681" type="line"/>
       <point x="307" y="681" type="line" smooth="yes"/>
       <point x="250.319148936" y="681"/>
-      <point x="233.0" y="724.0"/>
+      <point x="233" y="724"/>
       <point x="233" y="848" type="curve"/>
       <point x="199" y="848" type="line"/>
       <point x="16" y="0" type="line" smooth="yes"/>
@@ -33,6 +33,9 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>
