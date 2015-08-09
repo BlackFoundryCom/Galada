@@ -9,23 +9,23 @@
       <point x="567" y="727"/>
       <point x="567" y="764" type="curve" smooth="yes"/>
       <point x="567.0" y="844.0"/>
-      <point x="509" y="875"/>
+      <point x="517.08663298" y="874.047029758"/>
       <point x="308" y="891" type="curve" smooth="yes"/>
-      <point x="122" y="907"/>
-      <point x="114.769492146" y="905.50498001"/>
+      <point x="129.403063506" y="906.03043525"/>
+      <point x="114.664948375" y="905.84395527"/>
       <point x="81" y="1015" type="curve"/>
       <point x="48" y="1015" type="line"/>
-      <point x="64.0280060931" y="825.669178025"/>
-      <point x="74" y="787"/>
+      <point x="64.0242439709" y="825.713618094"/>
+      <point x="82.6041745275" y="786.05537915"/>
       <point x="294" y="770" type="curve" smooth="yes"/>
-      <point x="450" y="760"/>
+      <point x="458.605693419" y="759.264846081"/>
       <point x="479.0" y="744.0"/>
       <point x="479" y="708" type="curve" smooth="yes"/>
       <point x="479" y="695"/>
       <point x="471" y="679"/>
       <point x="452" y="657" type="curve"/>
     </contour>
-    <component base="bn_dda"/>
+    <component base="bn_dda" xOffset="2"/>
   </outline>
   <lib>
     <dict>
