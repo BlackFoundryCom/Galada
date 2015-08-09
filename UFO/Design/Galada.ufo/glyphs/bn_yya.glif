@@ -4,18 +4,18 @@
   <unicode hex="09DF"/>
   <outline>
     <contour>
-      <point x="70" y="-108" type="curve" smooth="yes"/>
-      <point x="108" y="-108"/>
-      <point x="141" y="-77"/>
-      <point x="141" y="-37" type="curve" smooth="yes"/>
-      <point x="141" y="1"/>
-      <point x="108" y="34"/>
-      <point x="70" y="34" type="curve" smooth="yes"/>
-      <point x="32" y="34"/>
-      <point x="-1" y="1"/>
-      <point x="-1" y="-37" type="curve" smooth="yes"/>
-      <point x="-1" y="-77"/>
-      <point x="32" y="-108"/>
+      <point x="70" y="-8" type="curve" smooth="yes"/>
+      <point x="108" y="-8"/>
+      <point x="141" y="23"/>
+      <point x="141" y="63" type="curve" smooth="yes"/>
+      <point x="141" y="101"/>
+      <point x="108" y="134"/>
+      <point x="70" y="134" type="curve" smooth="yes"/>
+      <point x="32" y="134"/>
+      <point x="-1" y="101"/>
+      <point x="-1" y="63" type="curve" smooth="yes"/>
+      <point x="-1" y="23"/>
+      <point x="32" y="-8"/>
     </contour>
     <component base="bn_ya"/>
   </outline>
