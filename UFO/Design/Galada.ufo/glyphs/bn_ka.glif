@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ka" format="1">
-  <advance width="684"/>
+  <advance width="664"/>
   <unicode hex="0995"/>
   <outline>
     <contour>
@@ -13,7 +13,7 @@
       <point x="327" y="510"/>
       <point x="326" y="506" type="curve"/>
       <point x="356" y="506" type="line"/>
-      <point x="352.818506054" y="612.049798215"/>
+      <point x="353" y="612"/>
       <point x="305" y="681"/>
       <point x="161" y="681" type="curve" smooth="yes"/>
       <point x="-23" y="681" type="line"/>
@@ -27,7 +27,7 @@
       <point x="650" y="681" type="line"/>
       <point x="602" y="681" type="line" smooth="yes"/>
       <point x="430" y="681"/>
-      <point x="361.827256832" y="631.497368175"/>
+      <point x="362" y="631"/>
       <point x="324" y="453" type="curve" smooth="yes"/>
       <point x="228" y="0" type="line" smooth="yes"/>
       <point x="343" y="0" type="line" smooth="yes"/>
@@ -55,11 +55,11 @@
       <point x="592" y="118"/>
       <point x="629" y="186"/>
       <point x="629" y="278" type="curve" smooth="yes"/>
-      <point x="629.0" y="405.0"/>
-      <point x="509.987755102" y="529.0"/>
+      <point x="629" y="405"/>
+      <point x="510" y="529"/>
       <point x="390" y="529" type="curve" smooth="yes"/>
-      <point x="263.3356974" y="529.0"/>
-      <point x="88.091792012" y="404.214337479"/>
+      <point x="263" y="529"/>
+      <point x="88" y="404"/>
       <point x="-19" y="304" type="curve"/>
       <point x="-3" y="191" type="line"/>
       <point x="-1" y="191"/>
@@ -79,11 +79,11 @@
       <point x="174" y="255"/>
       <point x="94" y="282" type="curve"/>
       <point x="106" y="220" type="line"/>
-      <point x="171.824051491" y="300.560779437"/>
-      <point x="291.377777778" y="395.0"/>
+      <point x="172" y="301"/>
+      <point x="291" y="395"/>
       <point x="407" y="395" type="curve" smooth="yes"/>
-      <point x="517.818181818" y="395.0"/>
-      <point x="566.0" y="315.0"/>
+      <point x="518" y="395"/>
+      <point x="566" y="315"/>
     </contour>
   </outline>
   <lib>
@@ -801,7 +801,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>684</integer>
+          <integer>664</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
