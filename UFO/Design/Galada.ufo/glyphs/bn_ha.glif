@@ -4,17 +4,17 @@
   <unicode hex="09B9"/>
   <outline>
     <contour>
-      <point x="495" y="567" type="line"/>
-      <point x="479" y="681" type="line"/>
+      <point x="485" y="567" type="line"/>
+      <point x="469" y="681" type="line"/>
       <point x="-23" y="681" type="line"/>
       <point x="-7" y="567" type="line"/>
     </contour>
     <contour>
-      <point x="406" y="308" type="curve" smooth="yes"/>
-      <point x="406" y="441"/>
-      <point x="316.198019802" y="523.0"/>
-      <point x="224" y="523" type="curve" smooth="yes"/>
-      <point x="106" y="523"/>
+      <point x="396" y="308" type="curve" smooth="yes"/>
+      <point x="396" y="441"/>
+      <point x="301" y="523"/>
+      <point x="214" y="523" type="curve" smooth="yes"/>
+      <point x="96" y="523"/>
       <point x="3" y="435"/>
       <point x="3" y="337" type="curve" smooth="yes"/>
       <point x="3" y="273"/>
@@ -27,13 +27,13 @@
       <point x="195" y="385"/>
       <point x="179" y="395" type="curve"/>
       <point x="198" y="412"/>
-      <point x="219" y="429"/>
-      <point x="269" y="429" type="curve" smooth="yes"/>
-      <point x="304.823529412" y="429.0"/>
-      <point x="317" y="401"/>
-      <point x="317" y="360" type="curve" smooth="yes"/>
-      <point x="317" y="269"/>
-      <point x="236.501506362" y="158.398856045"/>
+      <point x="209" y="429"/>
+      <point x="259" y="429" type="curve" smooth="yes"/>
+      <point x="289" y="429"/>
+      <point x="307" y="401"/>
+      <point x="307" y="360" type="curve" smooth="yes"/>
+      <point x="307" y="269"/>
+      <point x="229.003624869" y="158.797679528"/>
       <point x="-38" y="173" type="curve"/>
       <point x="-20" y="51" type="line"/>
       <point x="115" y="25"/>
@@ -43,8 +43,8 @@
       <point x="292" y="-60"/>
       <point x="220" y="16"/>
       <point x="137" y="67" type="curve"/>
-      <point x="280.928237712" y="85.3532652116"/>
-      <point x="406" y="164"/>
+      <point x="275.859595555" y="84.7069282922"/>
+      <point x="396" y="164"/>
     </contour>
   </outline>
   <lib>
