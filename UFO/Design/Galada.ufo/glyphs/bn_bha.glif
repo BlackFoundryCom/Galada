@@ -49,24 +49,6 @@
       <point x="524" y="89"/>
       <point x="524" y="255" type="curve"/>
     </contour>
-    <contour>
-      <point x="524" y="255" type="move"/>
-      <point x="524" y="398"/>
-      <point x="419" y="500"/>
-      <point x="298" y="500" type="curve" smooth="yes"/>
-      <point x="209" y="500"/>
-      <point x="153" y="449"/>
-      <point x="153" y="379" type="curve" smooth="yes"/>
-      <point x="153" y="315"/>
-      <point x="196" y="267"/>
-      <point x="267" y="267" type="curve" smooth="yes"/>
-      <point x="327" y="267"/>
-      <point x="385" y="311"/>
-      <point x="398" y="399" type="curve"/>
-      <point x="415" y="377"/>
-      <point x="425" y="345"/>
-      <point x="425" y="306" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
