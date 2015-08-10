@@ -51,6 +51,17 @@
       <point x="174" y="371"/>
       <point x="110" y="316" type="curve"/>
     </contour>
+    <contour>
+      <point x="121" y="330" type="move"/>
+      <point x="206" y="233" type="line"/>
+      <point x="276" y="307"/>
+      <point x="355" y="377"/>
+      <point x="439" y="433" type="curve"/>
+      <point x="455" y="387"/>
+      <point x="452" y="314"/>
+      <point x="439" y="255" type="curve"/>
+      <point x="475" y="327" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -407,9 +418,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>180</integer>
+                  <real>180.0</real>
                   <key>y</key>
-                  <integer>390</integer>
+                  <real>390.0</real>
                 </dict>
                 <dict>
                   <key>smooth</key>
