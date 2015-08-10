@@ -3,59 +3,6 @@
   <advance width="583"/>
   <unicode hex="09A6"/>
   <outline>
-    <contour>
-      <point x="222" y="418" type="line" smooth="yes"/>
-      <point x="247" y="533"/>
-      <point x="292" y="567"/>
-      <point x="382" y="567" type="curve" smooth="yes"/>
-      <point x="585" y="567" type="line"/>
-      <point x="569" y="681" type="line"/>
-      <point x="395" y="681" type="line" smooth="yes"/>
-      <point x="223" y="681"/>
-      <point x="155" y="615"/>
-      <point x="117" y="453" type="curve" smooth="yes"/>
-      <point x="70" y="251" type="line" smooth="yes"/>
-      <point x="191" y="277" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="167" y="177" type="line"/>
-      <point x="248" y="264"/>
-      <point x="315" y="325"/>
-      <point x="413" y="372" type="curve"/>
-      <point x="390" y="387" type="line"/>
-      <point x="342" y="306"/>
-      <point x="328.0" y="224.0"/>
-      <point x="328" y="161" type="curve" smooth="yes"/>
-      <point x="328" y="81"/>
-      <point x="357" y="18"/>
-      <point x="412" y="-39" type="curve"/>
-      <point x="445" y="-39" type="line"/>
-      <point x="419" y="11"/>
-      <point x="403" y="57"/>
-      <point x="403" y="116" type="curve" smooth="yes"/>
-      <point x="403" y="222"/>
-      <point x="471" y="336"/>
-      <point x="514" y="391" type="curve"/>
-      <point x="444" y="519" type="line"/>
-      <point x="304.145708888" y="460.319877855"/>
-      <point x="193.313979323" y="367.40839648"/>
-      <point x="70" y="251" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-7" y="567" type="line"/>
-      <point x="62" y="567" type="line" smooth="yes"/>
-      <point x="97" y="567"/>
-      <point x="121" y="547"/>
-      <point x="121" y="489" type="curve" smooth="yes"/>
-      <point x="121" y="479"/>
-      <point x="117" y="456"/>
-      <point x="112" y="430" type="curve"/>
-      <point x="155" y="498" type="line"/>
-      <point x="152" y="597"/>
-      <point x="112" y="681"/>
-      <point x="-10" y="681" type="curve" smooth="yes"/>
-      <point x="-23" y="681" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
