@@ -53,6 +53,20 @@
       <point x="185.0" y="36.0"/>
       <point x="183.0" y="23.0"/>
     </contour>
+    <contour>
+      <point x="484" y="494" type="line" smooth="yes"/>
+      <point x="495" y="546"/>
+      <point x="517" y="567"/>
+      <point x="547" y="567" type="curve" smooth="yes"/>
+      <point x="555" y="567" type="line"/>
+      <point x="539" y="681" type="line"/>
+      <point x="527" y="681" type="line" smooth="yes"/>
+      <point x="444" y="681"/>
+      <point x="399" y="623"/>
+      <point x="381" y="538" type="curve" smooth="yes"/>
+      <point x="267" y="0" type="line" smooth="yes"/>
+      <point x="382" y="0" type="line" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>
