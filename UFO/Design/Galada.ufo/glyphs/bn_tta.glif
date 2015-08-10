@@ -3,31 +3,6 @@
   <advance width="440"/>
   <unicode hex="099F"/>
   <outline>
-    <contour>
-      <point x="394" y="665" type="line"/>
-      <point x="420" y="705"/>
-      <point x="432" y="728"/>
-      <point x="432" y="754" type="curve" smooth="yes"/>
-      <point x="432" y="835"/>
-      <point x="330" y="880"/>
-      <point x="189" y="872" type="curve" smooth="yes"/>
-      <point x="-8" y="861"/>
-      <point x="62" y="947"/>
-      <point x="130" y="1001" type="curve"/>
-      <point x="65" y="1027" type="line"/>
-      <point x="28" y="992"/>
-      <point x="9" y="946"/>
-      <point x="9" y="912" type="curve" smooth="yes"/>
-      <point x="9" y="823"/>
-      <point x="96" y="755"/>
-      <point x="239" y="767" type="curve" smooth="yes"/>
-      <point x="350" y="776"/>
-      <point x="360" y="759"/>
-      <point x="360" y="737" type="curve" smooth="yes"/>
-      <point x="360" y="716"/>
-      <point x="330" y="672"/>
-      <point x="266" y="665" type="curve"/>
-    </contour>
     <component base="bn_ddha" yOffset="10"/>
   </outline>
   <lib>
