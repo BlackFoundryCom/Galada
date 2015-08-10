@@ -25,7 +25,7 @@
       <point x="330" y="672"/>
       <point x="266" y="665" type="curve"/>
     </contour>
-    <component base="bn_ddha"/>
+    <component base="bn_ddha" yOffset="5"/>
   </outline>
   <lib>
     <dict>
