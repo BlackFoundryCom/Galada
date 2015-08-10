@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_e" format="1">
-  <advance width="617.57089292"/>
+  <advance width="618"/>
   <unicode hex="098F"/>
   <outline>
     <contour>
@@ -11,7 +11,7 @@
       <point x="230" y="294"/>
       <point x="248" y="301"/>
       <point x="266" y="308" type="curve"/>
-      <point x="258.0" y="326.0"/>
+      <point x="258" y="326"/>
       <point x="254" y="345"/>
       <point x="254" y="360" type="curve" smooth="yes"/>
       <point x="254" y="452"/>
@@ -31,19 +31,19 @@
     </contour>
     <contour>
       <point x="178" y="227" type="curve" smooth="yes"/>
-      <point x="86.6288131107" y="231.726095874"/>
-      <point x="34.3455950825" y="284.846819861"/>
-      <point x="34.3455950825" y="396.136430604" type="curve" smooth="yes"/>
-      <point x="34.3455950825" y="426.134191578"/>
-      <point x="38.1442578871" y="460.358241499"/>
-      <point x="46.0" y="499.0" type="curve"/>
+      <point x="87" y="232"/>
+      <point x="34" y="285"/>
+      <point x="34" y="396" type="curve" smooth="yes"/>
+      <point x="34" y="426"/>
+      <point x="38" y="460"/>
+      <point x="46" y="499" type="curve"/>
       <point x="13" y="499" type="line"/>
-      <point x="2.25686516553" y="452.609190488"/>
-      <point x="-3.47859638898" y="405.44338392"/>
-      <point x="-3.47859638898" y="360.486512222" type="curve" smooth="yes"/>
-      <point x="-3.47859638898" y="221.316275291"/>
-      <point x="51.4842150272" y="103.314216291"/>
-      <point x="183.0" y="95.0" type="curve" smooth="yes"/>
+      <point x="2" y="453"/>
+      <point x="-3" y="405"/>
+      <point x="-3" y="360" type="curve" smooth="yes"/>
+      <point x="-3" y="221"/>
+      <point x="51" y="103"/>
+      <point x="183" y="95" type="curve" smooth="yes"/>
       <point x="327" y="86"/>
       <point x="342" y="72"/>
       <point x="342" y="35" type="curve" smooth="yes"/>
@@ -480,7 +480,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>617.57089292</real>
+          <integer>618</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
