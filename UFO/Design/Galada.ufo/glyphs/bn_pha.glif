@@ -41,7 +41,7 @@
       <point x="-7" y="567" type="line"/>
     </contour>
     <contour>
-      <point x="439" y="421" type="move" smooth="yes"/>
+      <point x="439" y="421" type="line" smooth="yes"/>
       <point x="352" y="0" type="line" smooth="yes"/>
       <point x="237" y="0" type="line" smooth="yes"/>
       <point x="341" y="488" type="line"/>
