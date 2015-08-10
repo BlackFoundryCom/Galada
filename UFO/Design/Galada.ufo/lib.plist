@@ -2,6 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.typemytype.robofont.Back.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>1.0</real>
+		<real>0.0</real>
+		<real>0.7</real>
+	</array>
 	<key>com.typemytype.robofont.binarySource</key>
 	<string>/Users/jeremiehornus/Documents/Typefactory-BitBucket/fonts/Google/Google_LobsterBengali/Lobster/Lobster_1.3.otf</string>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
@@ -99,6 +106,7 @@
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>mask</string>
+		<string>Back</string>
 	</array>
 	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
 	<array>
