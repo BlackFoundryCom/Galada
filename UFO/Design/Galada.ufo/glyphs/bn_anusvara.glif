@@ -32,22 +32,22 @@
       <point x="249" y="362" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="86" y="600" type="move" smooth="yes"/>
-      <point x="138" y="600"/>
-      <point x="197" y="535"/>
-      <point x="197" y="493" type="curve" smooth="yes"/>
-      <point x="197" y="474"/>
-      <point x="183" y="453"/>
-      <point x="150" y="453" type="curve"/>
+      <point x="150" y="600" type="move"/>
+      <point x="183" y="600"/>
+      <point x="197" y="579"/>
+      <point x="197" y="560" type="curve" smooth="yes"/>
+      <point x="197" y="518"/>
+      <point x="138" y="453"/>
+      <point x="86" y="453" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="140" y="362" type="move" smooth="yes"/>
-      <point x="240" y="362"/>
-      <point x="303" y="436"/>
-      <point x="303" y="506" type="curve" smooth="yes"/>
-      <point x="303" y="600"/>
-      <point x="203" y="691"/>
-      <point x="96" y="691" type="curve"/>
+      <point x="96" y="362" type="move"/>
+      <point x="203" y="362"/>
+      <point x="303" y="453"/>
+      <point x="303" y="547" type="curve" smooth="yes"/>
+      <point x="303" y="617"/>
+      <point x="240" y="691"/>
+      <point x="140" y="691" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
