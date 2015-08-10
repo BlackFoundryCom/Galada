@@ -5,11 +5,11 @@
   <outline>
     <contour>
       <point x="511" y="305" type="line"/>
-      <point x="690.35285139" y="398.069587748"/>
-      <point x="748" y="486"/>
+      <point x="684.757128198" y="395.165861119"/>
+      <point x="748.0" y="486.0"/>
       <point x="748" y="612" type="curve" smooth="yes"/>
-      <point x="748" y="740"/>
-      <point x="679.643663341" y="878.723058731"/>
+      <point x="748.0" y="740.0"/>
+      <point x="672.289788981" y="879.445875442"/>
       <point x="453" y="901" type="curve" smooth="yes"/>
       <point x="267" y="919"/>
       <point x="201" y="931"/>
@@ -18,12 +18,12 @@
       <point x="164" y="841"/>
       <point x="229" y="785"/>
       <point x="440" y="770" type="curve" smooth="yes"/>
-      <point x="642.957165264" y="755.571765503"/>
-      <point x="681" y="708"/>
+      <point x="634.916074567" y="756.143407021"/>
+      <point x="681.0" y="708.0"/>
       <point x="681" y="631" type="curve" smooth="yes"/>
-      <point x="681" y="541"/>
-      <point x="613.649928672" y="452.932926987"/>
-      <point x="487" y="404" type="curve"/>
+      <point x="681.0" y="538.224669604"/>
+      <point x="609" y="444"/>
+      <point x="487" y="397" type="curve"/>
     </contour>
     <component base="bn_o"/>
   </outline>
