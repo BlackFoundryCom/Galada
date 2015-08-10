@@ -3,6 +3,40 @@
   <advance width="440"/>
   <unicode hex="099F"/>
   <outline>
+    <contour>
+      <point x="394" y="665" type="line"/>
+      <point x="420" y="705"/>
+      <point x="432" y="728"/>
+      <point x="432" y="754" type="curve" smooth="yes"/>
+      <point x="432" y="835"/>
+      <point x="374" y="879"/>
+      <point x="238" y="884" type="curve" smooth="yes"/>
+      <point x="145.022229711" y="887.548769858"/>
+      <point x="121.058305363" y="892.105041117"/>
+      <point x="121.058305363" y="931.992563564" type="curve" smooth="yes"/>
+      <point x="121.058305363" y="948.304124234"/>
+      <point x="125.065817518" y="970.524167026"/>
+      <point x="130.0" y="1001.0" type="curve"/>
+      <point x="51" y="1031" type="line"/>
+      <point x="29" y="995"/>
+      <point x="19" y="958"/>
+      <point x="19" y="924" type="curve" smooth="yes"/>
+      <point x="19" y="835"/>
+      <point x="90" y="764"/>
+      <point x="201" y="764" type="curve" smooth="yes"/>
+      <point x="209" y="764"/>
+      <point x="217" y="764"/>
+      <point x="225" y="765" type="curve" smooth="yes"/>
+      <point x="243.400651494" y="766.685555862"/>
+      <point x="259.335071596" y="767.443808721"/>
+      <point x="273.133046654" y="767.443808721" type="curve" smooth="yes"/>
+      <point x="357.567176755" y="767.443808721"/>
+      <point x="362.0" y="739.050277241"/>
+      <point x="362.0" y="721.0" type="curve" smooth="yes"/>
+      <point x="362" y="700"/>
+      <point x="330" y="672"/>
+      <point x="266" y="665" type="curve"/>
+    </contour>
     <component base="bn_ddha" yOffset="10"/>
   </outline>
   <lib>
