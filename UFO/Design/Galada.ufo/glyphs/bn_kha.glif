@@ -19,30 +19,6 @@
       <point x="630" y="567" type="line"/>
     </contour>
     <contour>
-      <point x="392" y="475" type="move"/>
-      <point x="392" y="572"/>
-      <point x="313" y="668"/>
-      <point x="255" y="700" type="curve"/>
-      <point x="201" y="621"/>
-      <point x="174" y="551"/>
-      <point x="154" y="551" type="curve" smooth="yes"/>
-      <point x="133" y="551"/>
-      <point x="124" y="572"/>
-      <point x="118" y="596" type="curve"/>
-      <point x="66" y="591"/>
-      <point x="26" y="559"/>
-      <point x="26" y="505" type="curve" smooth="yes"/>
-      <point x="26" y="451"/>
-      <point x="74" y="412"/>
-      <point x="136" y="412" type="curve" smooth="yes"/>
-      <point x="182" y="412"/>
-      <point x="225" y="457"/>
-      <point x="303" y="567" type="curve"/>
-      <point x="308" y="562"/>
-      <point x="312" y="554"/>
-      <point x="312" y="541" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
       <point x="312" y="541" type="move"/>
       <point x="312" y="460"/>
       <point x="217" y="361"/>
