@@ -53,6 +53,9 @@
     </contour>
     <contour>
       <point x="249" y="309" type="move"/>
+      <point x="249" y="221"/>
+      <point x="149" y="94"/>
+      <point x="94" y="94" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
