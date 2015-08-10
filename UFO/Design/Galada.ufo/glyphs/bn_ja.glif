@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ja" format="1">
-  <advance width="853"/>
+  <advance width="793"/>
   <unicode hex="099C"/>
   <outline>
     <contour>
@@ -35,12 +35,12 @@
     </contour>
     <contour>
       <point x="281" y="108" type="curve" smooth="yes"/>
-      <point x="115" y="108"/>
-      <point x="22.9719542025" y="279.206417069"/>
+      <point x="120.96485623" y="108.0"/>
+      <point x="22.958614459" y="279.304597581"/>
       <point x="-2" y="463" type="curve"/>
       <point x="-35" y="463" type="line"/>
-      <point x="-13.0087139561" y="202.103379206"/>
-      <point x="101" y="-10"/>
+      <point x="-13.012877645" y="202.152775698"/>
+      <point x="106.560693642" y="-10.0"/>
       <point x="281" y="-10" type="curve" smooth="yes"/>
       <point x="418" y="-10"/>
       <point x="498" y="106"/>
@@ -681,7 +681,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>853</integer>
+          <integer>793</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
