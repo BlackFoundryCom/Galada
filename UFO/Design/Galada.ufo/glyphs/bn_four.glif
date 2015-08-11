@@ -8,14 +8,14 @@
       <point x="218" y="378"/>
       <point x="201" y="416"/>
       <point x="201" y="454" type="curve" smooth="yes"/>
-      <point x="201" y="514"/>
+      <point x="201.0" y="514.601769912"/>
       <point x="241.806122449" y="561.0"/>
       <point x="294" y="561" type="curve"/>
       <point x="345.529411765" y="561.0"/>
-      <point x="367" y="531"/>
+      <point x="367.0" y="531.594594595"/>
       <point x="367" y="493" type="curve" smooth="yes"/>
-      <point x="367" y="357"/>
-      <point x="26.0" y="353.87195122"/>
+      <point x="367.0" y="357.625"/>
+      <point x="26.0" y="353.280487805"/>
       <point x="26" y="151" type="curve" smooth="yes"/>
       <point x="26" y="50"/>
       <point x="122" y="-10"/>
@@ -23,12 +23,12 @@
       <point x="378" y="-10"/>
       <point x="477" y="52"/>
       <point x="477" y="150" type="curve" smooth="yes"/>
-      <point x="477.0" y="226.494382022"/>
-      <point x="419" y="264"/>
+      <point x="477.0" y="226.078651685"/>
+      <point x="419.072240405" y="264.29211313"/>
       <point x="315" y="333" type="curve"/>
       <point x="268" y="305" type="line"/>
-      <point x="332" y="274"/>
-      <point x="361.0" y="230.031496063"/>
+      <point x="331.591114348" y="273.70913421"/>
+      <point x="361.0" y="229.598425197"/>
       <point x="361" y="172" type="curve" smooth="yes"/>
       <point x="361" y="107"/>
       <point x="302" y="54"/>
@@ -36,14 +36,14 @@
       <point x="176" y="54"/>
       <point x="144" y="82"/>
       <point x="144" y="122" type="curve" smooth="yes"/>
-      <point x="144.0" y="255.821538462"/>
-      <point x="475" y="263"/>
+      <point x="144.0" y="255.418461538"/>
+      <point x="475.0" y="263.566153846"/>
       <point x="475" y="453" type="curve" smooth="yes"/>
-      <point x="475" y="554"/>
+      <point x="475.0" y="554.612903226"/>
       <point x="391.822580645" y="633.0"/>
       <point x="284" y="633" type="curve" smooth="yes"/>
       <point x="165.177083333" y="633.0"/>
-      <point x="97" y="559"/>
+      <point x="97.0" y="559.780487805"/>
       <point x="97" y="475" type="curve"/>
       <point x="97" y="400"/>
       <point x="161" y="362"/>
@@ -466,6 +466,13 @@
           <integer>600</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.9798</real>
+        <real>0.1633</real>
+        <real>0.8</real>
+      </array>
     </dict>
   </lib>
 </glyph>
