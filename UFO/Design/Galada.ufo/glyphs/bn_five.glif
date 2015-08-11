@@ -6,6 +6,10 @@
     <contour>
       <point x="74" y="681" type="move"/>
       <point x="158" y="644" type="line"/>
+      <point x="158" y="644"/>
+      <point x="158" y="301"/>
+      <point x="158" y="301" type="curve"/>
+      <point x="24" y="167"/>
     </contour>
   </outline>
 </glyph>
