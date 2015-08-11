@@ -30,5 +30,20 @@
       <point x="162" y="554"/>
       <point x="162" y="554" type="curve"/>
     </contour>
+    <contour>
+      <point x="-17" y="267" type="move"/>
+      <point x="-17" y="159"/>
+      <point x="53" y="118"/>
+      <point x="114" y="118" type="curve"/>
+      <point x="165" y="118"/>
+      <point x="217" y="155"/>
+      <point x="217" y="218" type="curve" smooth="yes"/>
+      <point x="217" y="264"/>
+      <point x="186" y="298"/>
+      <point x="136" y="298" type="curve" smooth="yes"/>
+      <point x="82" y="298"/>
+      <point x="51" y="265"/>
+      <point x="51" y="207" type="curve"/>
+    </contour>
   </outline>
 </glyph>
