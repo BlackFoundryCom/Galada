@@ -30,9 +30,7 @@
       <point x="291" y="577"/>
       <point x="364" y="544"/>
       <point x="404" y="565" type="curve"/>
-    </contour>
-    <contour>
-      <point x="379" y="579" type="move"/>
+      <point x="379" y="579" type="line"/>
       <point x="326" y="521"/>
       <point x="304.0" y="453.0"/>
       <point x="304" y="382" type="curve"/>
