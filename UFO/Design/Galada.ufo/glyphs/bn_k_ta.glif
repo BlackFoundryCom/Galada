@@ -10,10 +10,10 @@
     </contour>
     <contour>
       <point x="202" y="355" type="line"/>
-      <point x="225.098872928" y="409.23213644"/>
-      <point x="289" y="454"/>
+      <point x="224.841055848" y="408.626826774"/>
+      <point x="292.821917808" y="454.0"/>
       <point x="358" y="454" type="curve" smooth="yes"/>
-      <point x="406" y="454"/>
+      <point x="412.954545455" y="454.0"/>
       <point x="436.0" y="434.0"/>
       <point x="436" y="402" type="curve" smooth="yes"/>
       <point x="436.0" y="375.647058824"/>
@@ -54,9 +54,9 @@
       <point x="522.0" y="329.0"/>
       <point x="522" y="380" type="curve" smooth="yes"/>
       <point x="522.0" y="439.0"/>
-      <point x="459" y="500"/>
+      <point x="465.278688525" y="500.0"/>
       <point x="349" y="500" type="curve" smooth="yes"/>
-      <point x="210" y="500"/>
+      <point x="215.0" y="500.0"/>
       <point x="81.0" y="440.0"/>
       <point x="81" y="346" type="curve"/>
       <point x="81" y="300"/>
@@ -68,6 +68,31 @@
       <point x="229" y="372"/>
       <point x="204" y="394"/>
       <point x="177" y="401" type="curve"/>
+    </contour>
+    <contour>
+      <point x="439" y="421" type="move"/>
+      <point x="414" y="373" type="line"/>
+      <point x="510" y="373"/>
+      <point x="556" y="320"/>
+      <point x="567" y="267" type="curve"/>
+      <point x="555" y="280"/>
+      <point x="537" y="288"/>
+      <point x="513" y="288" type="curve" smooth="yes"/>
+      <point x="454" y="288"/>
+      <point x="427" y="249"/>
+      <point x="427" y="204" type="curve" smooth="yes"/>
+      <point x="427" y="155"/>
+      <point x="466" y="124"/>
+      <point x="511" y="124" type="curve" smooth="yes"/>
+      <point x="594" y="124"/>
+      <point x="629" y="185"/>
+      <point x="629" y="268" type="curve" smooth="yes"/>
+      <point x="629" y="382"/>
+      <point x="518" y="497"/>
+      <point x="405" y="497" type="curve" smooth="yes"/>
+      <point x="383" y="497"/>
+      <point x="361" y="496"/>
+      <point x="341" y="488" type="curve"/>
     </contour>
   </outline>
   <lib>
