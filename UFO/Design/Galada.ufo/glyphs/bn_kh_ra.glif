@@ -2,6 +2,60 @@
 <glyph name="bn_kh_ra" format="1">
   <advance width="644"/>
   <outline>
+    <contour>
+      <point x="176" y="227" type="curve" smooth="yes"/>
+      <point x="91" y="232"/>
+      <point x="42" y="285"/>
+      <point x="42" y="396" type="curve" smooth="yes"/>
+      <point x="42" y="426"/>
+      <point x="46" y="460"/>
+      <point x="54" y="499" type="curve"/>
+      <point x="21" y="499" type="line"/>
+      <point x="9" y="447"/>
+      <point x="0" y="394"/>
+      <point x="0" y="343" type="curve" smooth="yes"/>
+      <point x="0" y="213"/>
+      <point x="52" y="103"/>
+      <point x="181" y="95" type="curve" smooth="yes"/>
+      <point x="289" y="89"/>
+      <point x="300" y="72"/>
+      <point x="300" y="35" type="curve" smooth="yes"/>
+      <point x="300" y="26"/>
+      <point x="299" y="13"/>
+      <point x="296" y="0" type="curve"/>
+      <point x="322" y="26" type="line"/>
+      <point x="326" y="44"/>
+      <point x="328" y="61"/>
+      <point x="328" y="77" type="curve" smooth="yes"/>
+      <point x="328" y="175"/>
+      <point x="274" y="222"/>
+    </contour>
+    <contour>
+      <point x="411" y="546" type="curve" smooth="yes"/>
+      <point x="296" y="0" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="502" y="438" type="line" smooth="yes"/>
+      <point x="532" y="581"/>
+      <point x="463" y="691"/>
+      <point x="391" y="691" type="curve" smooth="yes"/>
+      <point x="255" y="691"/>
+      <point x="117" y="501"/>
+      <point x="117" y="391" type="curve" smooth="yes"/>
+      <point x="117" y="322"/>
+      <point x="160" y="284"/>
+      <point x="220" y="284" type="curve" smooth="yes"/>
+      <point x="264" y="284"/>
+      <point x="317" y="309"/>
+      <point x="317" y="380" type="curve" smooth="yes"/>
+      <point x="317" y="422"/>
+      <point x="288" y="452"/>
+      <point x="255" y="461" type="curve"/>
+      <point x="255" y="532"/>
+      <point x="339" y="616"/>
+      <point x="381" y="616" type="curve" smooth="yes"/>
+      <point x="412" y="616"/>
+      <point x="419" y="583"/>
+    </contour>
     <component base="bn_k_tta"/>
   </outline>
 </glyph>
