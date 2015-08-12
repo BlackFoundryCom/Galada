@@ -69,47 +69,6 @@
       <point x="-23" y="681" type="line"/>
       <point x="-7" y="567" type="line"/>
     </contour>
-    <contour>
-      <point x="178" y="0" type="curve"/>
-      <point x="204" y="26" type="line"/>
-      <point x="211" y="58"/>
-      <point x="214" y="75"/>
-      <point x="214" y="91" type="curve" smooth="yes"/>
-      <point x="214" y="155"/>
-      <point x="167" y="215"/>
-      <point x="101" y="253" type="curve"/>
-      <point x="160" y="281"/>
-      <point x="232" y="302"/>
-      <point x="309" y="302" type="curve" smooth="yes"/>
-      <point x="418" y="302"/>
-      <point x="482" y="265"/>
-      <point x="492" y="220" type="curve"/>
-      <point x="481" y="234"/>
-      <point x="464" y="242"/>
-      <point x="441" y="242" type="curve" smooth="yes"/>
-      <point x="386" y="242"/>
-      <point x="360" y="203"/>
-      <point x="360" y="157" type="curve" smooth="yes"/>
-      <point x="360" y="108"/>
-      <point x="397" y="76"/>
-      <point x="440" y="76" type="curve" smooth="yes"/>
-      <point x="518" y="76"/>
-      <point x="551" y="138"/>
-      <point x="551" y="222" type="curve" smooth="yes"/>
-      <point x="551" y="315"/>
-      <point x="432" y="414"/>
-      <point x="312" y="414" type="curve" smooth="yes"/>
-      <point x="200" y="414"/>
-      <point x="34" y="381"/>
-      <point x="-49" y="304" type="curve"/>
-      <point x="-33" y="191" type="line"/>
-      <point x="-26" y="191" type="line" smooth="yes"/>
-      <point x="76" y="191"/>
-      <point x="185" y="141"/>
-      <point x="185" y="49" type="curve" smooth="yes"/>
-      <point x="185" y="36"/>
-      <point x="183" y="23"/>
-    </contour>
   </outline>
   <lib>
     <dict>
