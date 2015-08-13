@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asa_ba" format="1">
+  <advance width="464"/>
+  <outline>
+    <contour>
+      <point x="55" y="-8" type="curve" smooth="yes"/>
+      <point x="93" y="-8"/>
+      <point x="126" y="23"/>
+      <point x="126" y="63" type="curve" smooth="yes"/>
+      <point x="126" y="101"/>
+      <point x="93" y="134"/>
+      <point x="55" y="134" type="curve" smooth="yes"/>
+      <point x="17" y="134"/>
+      <point x="-16" y="101"/>
+      <point x="-16" y="63" type="curve" smooth="yes"/>
+      <point x="-16" y="23"/>
+      <point x="17" y="-8"/>
+    </contour>
+    <component base="bn_ba"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.3072</real>
+        <real>0.9788</real>
+        <real>0.8</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
