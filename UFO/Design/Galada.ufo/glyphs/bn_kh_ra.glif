@@ -3,29 +3,29 @@
   <advance width="644"/>
   <outline>
     <contour>
-      <point x="173" y="135" type="curve" smooth="yes"/>
-      <point x="68" y="146"/>
-      <point x="27" y="161"/>
-      <point x="27" y="204" type="curve" smooth="yes"/>
-      <point x="27" y="221"/>
-      <point x="31" y="242"/>
-      <point x="39" y="266" type="curve"/>
-      <point x="6" y="266" type="line"/>
-      <point x="-6" y="234"/>
-      <point x="-15" y="201"/>
-      <point x="-15" y="169" type="curve" smooth="yes"/>
-      <point x="-15" y="74"/>
-      <point x="15" y="43"/>
-      <point x="169" y="29" type="curve" smooth="yes"/>
-      <point x="314" y="16"/>
-      <point x="353" y="-6"/>
-      <point x="346" y="-31" type="curve"/>
-      <point x="352" y="-15" type="line"/>
-      <point x="356" y="-4"/>
-      <point x="358" y="7"/>
-      <point x="358" y="17" type="curve" smooth="yes"/>
-      <point x="358" y="84"/>
-      <point x="323" y="119"/>
+      <point x="173" y="145" type="curve" smooth="yes"/>
+      <point x="68" y="156"/>
+      <point x="27" y="171"/>
+      <point x="27" y="214" type="curve" smooth="yes"/>
+      <point x="27" y="231"/>
+      <point x="31" y="252"/>
+      <point x="39" y="276" type="curve"/>
+      <point x="6" y="276" type="line"/>
+      <point x="-6" y="244"/>
+      <point x="-15" y="211"/>
+      <point x="-15" y="179" type="curve" smooth="yes"/>
+      <point x="-15" y="84"/>
+      <point x="15" y="53"/>
+      <point x="169" y="39" type="curve" smooth="yes"/>
+      <point x="314" y="26"/>
+      <point x="353" y="4"/>
+      <point x="346" y="-21" type="curve"/>
+      <point x="352" y="-5" type="line"/>
+      <point x="356" y="6"/>
+      <point x="358" y="17"/>
+      <point x="358" y="27" type="curve" smooth="yes"/>
+      <point x="358" y="94"/>
+      <point x="323" y="129"/>
     </contour>
     <component base="bn_kha"/>
   </outline>
