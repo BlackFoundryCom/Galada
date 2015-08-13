@@ -3,18 +3,18 @@
   <advance width="1"/>
   <outline>
     <contour>
-      <point x="0" y="-70" type="curve" smooth="yes"/>
-      <point x="38" y="-70"/>
-      <point x="71" y="-39"/>
-      <point x="71" y="1" type="curve" smooth="yes"/>
-      <point x="71" y="39"/>
-      <point x="38" y="72"/>
-      <point x="0" y="72" type="curve" smooth="yes"/>
-      <point x="-38" y="72"/>
-      <point x="-71" y="39"/>
-      <point x="-71" y="1" type="curve" smooth="yes"/>
-      <point x="-71" y="-39"/>
-      <point x="-38" y="-70"/>
+      <point x="0" y="-71" type="curve" smooth="yes"/>
+      <point x="38" y="-71"/>
+      <point x="71" y="-40"/>
+      <point x="71" y="0" type="curve" smooth="yes"/>
+      <point x="71" y="38"/>
+      <point x="38" y="71"/>
+      <point x="0" y="71" type="curve" smooth="yes"/>
+      <point x="-38" y="71"/>
+      <point x="-71" y="38"/>
+      <point x="-71" y="0" type="curve" smooth="yes"/>
+      <point x="-71" y="-40"/>
+      <point x="-38" y="-71"/>
     </contour>
   </outline>
 </glyph>
