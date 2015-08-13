@@ -50,6 +50,10 @@
       <point x="515" y="184"/>
       <point x="420" y="148" type="curve"/>
     </contour>
+    <contour>
+      <point x="420" y="148" type="move"/>
+      <point x="444" y="22" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
