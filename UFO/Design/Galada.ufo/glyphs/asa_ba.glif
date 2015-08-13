@@ -3,14 +3,14 @@
   <advance width="464"/>
   <outline>
     <contour>
-      <point x="271" y="214" type="line"/>
-      <point x="271" y="258"/>
-      <point x="225" y="335"/>
-      <point x="148" y="384" type="curve"/>
-      <point x="86" y="297" type="line"/>
-      <point x="161" y="279"/>
-      <point x="240" y="201"/>
-      <point x="240" y="131" type="curve"/>
+      <point x="133" y="-4" type="line"/>
+      <point x="133" y="40"/>
+      <point x="87" y="117"/>
+      <point x="10" y="166" type="curve"/>
+      <point x="-52" y="79" type="line"/>
+      <point x="23" y="61"/>
+      <point x="102" y="-17"/>
+      <point x="102" y="-87" type="curve"/>
     </contour>
     <component base="bn_ba"/>
   </outline>
