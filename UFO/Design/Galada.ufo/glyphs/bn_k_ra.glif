@@ -30,6 +30,12 @@
       <point x="628" y="268"/>
       <point x="628" y="217" type="curve"/>
     </contour>
+    <contour>
+      <point x="568" y="567" type="line"/>
+      <point x="552" y="681" type="line"/>
+      <point x="-23" y="681" type="line"/>
+      <point x="-7" y="567" type="line"/>
+    </contour>
     <component base="bn_t_ra"/>
   </outline>
   <lib>
