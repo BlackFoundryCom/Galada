@@ -2,6 +2,16 @@
 <glyph name="asa_ba" format="1">
   <advance width="464"/>
   <outline>
+    <contour>
+      <point x="271" y="214" type="line"/>
+      <point x="271" y="258"/>
+      <point x="225" y="335"/>
+      <point x="148" y="384" type="curve"/>
+      <point x="86" y="297" type="line"/>
+      <point x="161" y="279"/>
+      <point x="240" y="201"/>
+      <point x="240" y="131" type="curve"/>
+    </contour>
     <component base="bn_ba"/>
   </outline>
   <lib>
