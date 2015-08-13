@@ -2,6 +2,31 @@
 <glyph name="bn_kh_ra" format="1">
   <advance width="644"/>
   <outline>
+    <contour>
+      <point x="133" y="-185" type="curve" smooth="yes"/>
+      <point x="28" y="-174"/>
+      <point x="-13" y="-159"/>
+      <point x="-13" y="-116" type="curve" smooth="yes"/>
+      <point x="-13" y="-99"/>
+      <point x="-9" y="-78"/>
+      <point x="-1" y="-54" type="curve"/>
+      <point x="-34" y="-54" type="line"/>
+      <point x="-46" y="-86"/>
+      <point x="-55" y="-119"/>
+      <point x="-55" y="-151" type="curve" smooth="yes"/>
+      <point x="-55" y="-246"/>
+      <point x="-25" y="-277"/>
+      <point x="129" y="-291" type="curve" smooth="yes"/>
+      <point x="274" y="-304"/>
+      <point x="313" y="-326"/>
+      <point x="306" y="-351" type="curve"/>
+      <point x="312" y="-335" type="line"/>
+      <point x="316" y="-324"/>
+      <point x="318" y="-313"/>
+      <point x="318" y="-303" type="curve" smooth="yes"/>
+      <point x="318" y="-236"/>
+      <point x="283" y="-201"/>
+    </contour>
     <component base="bn_kha"/>
   </outline>
 </glyph>
