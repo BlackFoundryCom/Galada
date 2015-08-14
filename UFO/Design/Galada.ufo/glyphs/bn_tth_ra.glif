@@ -33,6 +33,12 @@
       <point x="209" y="-47"/>
       <point x="184" y="3"/>
     </contour>
+    <contour>
+      <point x="485" y="567" type="line"/>
+      <point x="469" y="681" type="line"/>
+      <point x="-23" y="681" type="line"/>
+      <point x="-7" y="567" type="line"/>
+    </contour>
     <component base="bn_ttha"/>
   </outline>
 </glyph>
