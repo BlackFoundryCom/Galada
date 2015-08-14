@@ -27,6 +27,12 @@
       <point x="610" y="-38"/>
       <point x="579" y="9"/>
     </contour>
+    <contour>
+      <point x="795" y="567" type="line"/>
+      <point x="779" y="681" type="line"/>
+      <point x="-23" y="681" type="line"/>
+      <point x="-7" y="567" type="line"/>
+    </contour>
     <component base="bn_ja"/>
   </outline>
 </glyph>
