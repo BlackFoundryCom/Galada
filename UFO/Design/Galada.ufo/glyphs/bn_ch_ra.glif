@@ -33,6 +33,18 @@
       <point x="206" y="-235"/>
       <point x="175" y="-188"/>
     </contour>
+    <contour>
+      <point x="8" y="567" type="line" smooth="yes"/>
+      <point x="83" y="567"/>
+      <point x="93" y="551"/>
+      <point x="118" y="504" type="curve"/>
+      <point x="137" y="533" type="line"/>
+      <point x="102" y="634"/>
+      <point x="69" y="681"/>
+      <point x="-9" y="681" type="curve" smooth="yes"/>
+      <point x="-23" y="681" type="line"/>
+      <point x="-7" y="567" type="line"/>
+    </contour>
     <component base="bn_cha"/>
   </outline>
 </glyph>
