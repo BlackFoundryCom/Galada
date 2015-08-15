@@ -3,9 +3,9 @@
   <advance width="864"/>
   <outline>
     <contour>
-      <point x="307" y="-126" type="line"/>
-      <point x="285" y="-59"/>
-      <point x="257.632794251" y="-0.943122506433"/>
+      <point x="332" y="-161" type="line"/>
+      <point x="305" y="-78"/>
+      <point x="269.498153957" y="-7.28971025623"/>
       <point x="211" y="24" type="curve"/>
       <point x="242" y="51"/>
       <point x="282.682487116" y="78.1172100518"/>
@@ -16,9 +16,9 @@
       <point x="73" y="61" type="curve"/>
       <point x="84" y="-7" type="line"/>
       <point x="89" y="-7" type="line" smooth="yes"/>
-      <point x="171.896174863" y="-7"/>
-      <point x="250" y="-53"/>
-      <point x="274" y="-126" type="curve"/>
+      <point x="183.098360656" y="-7"/>
+      <point x="268" y="-68"/>
+      <point x="299" y="-161" type="curve"/>
     </contour>
     <component base="bn_ri"/>
   </outline>
