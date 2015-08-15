@@ -69,6 +69,18 @@
       <point x="-23" y="681" type="line"/>
       <point x="-7" y="567" type="line"/>
     </contour>
+    <contour>
+      <point x="588" y="567" type="line" smooth="yes"/>
+      <point x="683" y="567"/>
+      <point x="703" y="545"/>
+      <point x="728" y="504" type="curve"/>
+      <point x="747" y="533" type="line"/>
+      <point x="709" y="625"/>
+      <point x="639" y="681"/>
+      <point x="521" y="681" type="curve" smooth="yes"/>
+      <point x="417" y="681" type="line"/>
+      <point x="433" y="567" type="line"/>
+    </contour>
     <component base="bn_na" xOffset="440"/>
   </outline>
 </glyph>
