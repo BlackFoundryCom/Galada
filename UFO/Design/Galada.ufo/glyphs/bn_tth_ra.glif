@@ -9,9 +9,9 @@
       <point x="369" y="120" type="line"/>
     </contour>
     <contour>
-      <point x="4" y="-124" type="curve" smooth="yes"/>
-      <point x="-100.192307692" y="-124.0"/>
-      <point x="-112" y="-98"/>
+      <point x="14" y="-124" type="curve" smooth="yes"/>
+      <point x="-82" y="-124"/>
+      <point x="-112.0" y="-98.0"/>
       <point x="-112" y="-66" type="curve" smooth="yes"/>
       <point x="-112" y="-44"/>
       <point x="-99" y="-13"/>
@@ -20,10 +20,10 @@
       <point x="-144" y="-31"/>
       <point x="-162" y="-71"/>
       <point x="-162" y="-116" type="curve" smooth="yes"/>
-      <point x="-162" y="-188"/>
-      <point x="-129.901408451" y="-237.0"/>
-      <point x="11" y="-237" type="curve" smooth="yes"/>
-      <point x="138" y="-237"/>
+      <point x="-162.0" y="-188.0"/>
+      <point x="-112" y="-237"/>
+      <point x="21" y="-237" type="curve" smooth="yes"/>
+      <point x="148" y="-237"/>
       <point x="167" y="-258"/>
       <point x="167" y="-300" type="curve"/>
       <point x="173" y="-284" type="line"/>
@@ -31,7 +31,7 @@
       <point x="184" y="-261"/>
       <point x="184" y="-250" type="curve" smooth="yes"/>
       <point x="184" y="-184"/>
-      <point x="151" y="-124"/>
+      <point x="161" y="-124"/>
     </contour>
     <component base="bn_ttha"/>
   </outline>
