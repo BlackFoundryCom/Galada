@@ -80,11 +80,11 @@
     </contour>
     <contour>
       <point x="322" y="260" type="move"/>
-      <point x="388" y="326"/>
-      <point x="477" y="395"/>
-      <point x="567" y="395" type="curve" smooth="yes"/>
-      <point x="663" y="395"/>
-      <point x="712" y="335"/>
+      <point x="372.121634866" y="310.121634866"/>
+      <point x="459" y="342"/>
+      <point x="539" y="342" type="curve" smooth="yes"/>
+      <point x="652" y="342"/>
+      <point x="716.548280515" y="310.604677239"/>
       <point x="723" y="276" type="curve"/>
       <point x="710" y="291"/>
       <point x="691" y="300"/>
@@ -98,11 +98,11 @@
       <point x="752" y="118"/>
       <point x="789" y="186"/>
       <point x="789" y="278" type="curve" smooth="yes"/>
-      <point x="789" y="405"/>
-      <point x="670" y="529"/>
-      <point x="550" y="529" type="curve" smooth="yes"/>
-      <point x="429" y="529"/>
-      <point x="265" y="401"/>
+      <point x="789.0" y="378.183266932"/>
+      <point x="656" y="476"/>
+      <point x="522" y="476" type="curve" smooth="yes"/>
+      <point x="410" y="476"/>
+      <point x="250.005317707" y="387.014575169"/>
       <point x="161" y="304" type="curve"/>
     </contour>
   </outline>
