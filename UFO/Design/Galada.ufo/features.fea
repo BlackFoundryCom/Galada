@@ -23,6 +23,9 @@ feature mark{
 }mark;
 
 
+feature init{
+    sub bn_ekaar by bn_ekaar.init;
+    }init;
 
 
 
