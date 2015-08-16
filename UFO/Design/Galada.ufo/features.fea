@@ -11,7 +11,8 @@ table GDEF {
   GlyphClassDef , , @COMBINING_MARKS, ;
 } GDEF;
 
-feature mark{
+
+feature blwm{
 
 	markClass [bn_ukaar bn_uukaar] <anchor 0 0> @BOTTOM_MARKS;
 
@@ -20,21 +21,19 @@ feature mark{
 	position base [bn_ka] <anchor 242 0> mark @BOTTOM_MARKS;
 	position base [bn_ta] <anchor 312 48> mark @BOTTOM_MARKS;
 
-}mark;
+}blwm;
 
 
 feature init{
     sub bn_ekaar by bn_ekaar.init;
-    }init;
+}init;
 
 
+feature abvm{
 
+	markClass [bn_ikaar] <anchor 0 567> @TOP_MARKS;
 
-
-
-
-
-
-
-
+	position base [bn_na bn_ka] <anchor 0 567> mark @TOP_MARKS;
+     pos [bn_na bn_ka]' bn_ikaar <297 0 0 0>;
+}abvm;
 
