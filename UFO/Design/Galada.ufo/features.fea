@@ -7,21 +7,69 @@ languagesystem beng dflt;
     bn_uukaar
 ];
 
+@CONSONANTS = [
+bn_a
+bn_aa
+bn_i
+bn_ii
+bn_u
+bn_uu
+bn_ri
+bn_li
+bn_e
+bn_ai
+bn_o
+bn_au
+bn_ka
+bn_kha
+bn_ga
+bn_gha
+bn_nga
+bn_ca
+bn_cha
+bn_ja
+bn_jha
+bn_nya
+bn_tta
+bn_ttha
+bn_dda
+bn_ddha
+bn_nna
+bn_ta
+bn_tha
+bn_da
+bn_dha
+bn_na
+bn_pa
+bn_pha
+bn_ba
+bn_bha
+bn_ma
+bn_ya
+bn_ra
+bn_la
+bn_sha
+bn_ssa
+bn_sa
+bn_ha
+bn_khanda_ta
+bn_rra
+bn_rha
+bn_yya
+bn_rri
+bn_lli
+asa_ra
+asa_ba
+];
+
+@LIGATURES = [
+    bn_ikaar
+];
+
+
 table GDEF {
-  GlyphClassDef , , @COMBINING_MARKS, ;
+  GlyphClassDef @CONSONANTS, @LIGATURES, @COMBINING_MARKS, ;
 } GDEF;
-
-
-feature blwm{
-
-	markClass [bn_ukaar bn_uukaar] <anchor 0 0> @BOTTOM_MARKS;
-
-	position base [bn_ddha] <anchor 195 0> mark @BOTTOM_MARKS;
-	position base [bn_tta] <anchor 195 0> mark @BOTTOM_MARKS;
-	position base [bn_ka] <anchor 242 0> mark @BOTTOM_MARKS;
-	position base [bn_ta] <anchor 312 48> mark @BOTTOM_MARKS;
-
-}blwm;
 
 
 feature init{
@@ -31,9 +79,124 @@ feature init{
 
 feature abvm{
 
-	markClass [bn_ikaar] <anchor 0 567> @TOP_MARKS;
+	markClass [bn_ikaar] <anchor 0 0> @ABVM_MARKS;
 
-	position base [bn_na bn_ka] <anchor 0 567> mark @TOP_MARKS;
-     pos [bn_na bn_ka]' bn_ikaar <297 0 0 0>;
+position base bn_a <anchor 0 0> mark @ABVM_MARKS;
+position base bn_aa <anchor 0 0> mark @ABVM_MARKS;
+position base bn_i <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ii <anchor 0 0> mark @ABVM_MARKS;
+position base bn_u <anchor 0 0> mark @ABVM_MARKS;
+position base bn_uu <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ri <anchor 0 0> mark @ABVM_MARKS;
+position base bn_li <anchor 0 0> mark @ABVM_MARKS;
+position base bn_e <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ai <anchor 0 0> mark @ABVM_MARKS;
+position base bn_o <anchor 0 0> mark @ABVM_MARKS;
+position base bn_au <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ka <anchor 0 0> mark @ABVM_MARKS;
+position base bn_kha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ga <anchor 0 0> mark @ABVM_MARKS;
+position base bn_gha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_nga <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ca <anchor 0 0> mark @ABVM_MARKS;
+position base bn_cha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ja <anchor 0 0> mark @ABVM_MARKS;
+position base bn_jha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_nya <anchor 0 0> mark @ABVM_MARKS;
+position base bn_tta <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ttha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_dda <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ddha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_nna <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ta <anchor 0 0> mark @ABVM_MARKS;
+position base bn_tha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_da <anchor 0 0> mark @ABVM_MARKS;
+position base bn_dha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_na <anchor 0 0> mark @ABVM_MARKS;
+position base bn_pa <anchor 0 0> mark @ABVM_MARKS;
+position base bn_pha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ba <anchor 0 0> mark @ABVM_MARKS;
+position base bn_bha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ma <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ya <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ra <anchor 0 0> mark @ABVM_MARKS;
+position base bn_la <anchor 0 0> mark @ABVM_MARKS;
+position base bn_sha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ssa <anchor 0 0> mark @ABVM_MARKS;
+position base bn_sa <anchor 0 0> mark @ABVM_MARKS;
+position base bn_ha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_khanda_ta <anchor 0 0> mark @ABVM_MARKS;
+position base bn_rra <anchor 0 0> mark @ABVM_MARKS;
+position base bn_rha <anchor 0 0> mark @ABVM_MARKS;
+position base bn_yya <anchor 0 0> mark @ABVM_MARKS;
+position base bn_rri <anchor 0 0> mark @ABVM_MARKS;
+position base bn_lli <anchor 0 0> mark @ABVM_MARKS;
+position base asa_ra <anchor 0 0> mark @ABVM_MARKS;
+position base asa_ba <anchor 0 0> mark @ABVM_MARKS;
+    
+    lookup ikaarPos {
+        lookupflag IgnoreMarks;
+        pos @CONSONANTS' bn_ikaar <297 0 0 0>;
+    } ikaarPos;
+     
 }abvm;
+
+
+feature blwm{
+
+	markClass [bn_ukaar bn_uukaar] <anchor 0 0> @BLWM_MARKS;
+    
+    lookupflag IgnoreLigatures;
+    
+	position base [bn_bha] <anchor 309 40> mark @BLWM_MARKS;
+	position base [bn_ddha] <anchor 195 0> mark @BLWM_MARKS;
+	position base [bn_dda] <anchor 323 0> mark @BLWM_MARKS;
+	position base [bn_sa] <anchor 401 0> mark @BLWM_MARKS;
+	position base [bn_li] <anchor 188 0> mark @BLWM_MARKS;
+	position base [bn_au] <anchor 323 0> mark @BLWM_MARKS;
+	position base [bn_la] <anchor 421 0> mark @BLWM_MARKS;
+	position base [bn_uu] <anchor 362 0> mark @BLWM_MARKS;
+	position base [bn_kha] <anchor 403 0> mark @BLWM_MARKS;
+	position base [bn_ha] <anchor 113 0> mark @BLWM_MARKS;
+	position base [bn_na] <anchor 242 0> mark @BLWM_MARKS;
+	position base [bn_dha] <anchor 301 0> mark @BLWM_MARKS;
+	position base [bn_ri] <anchor 373 0> mark @BLWM_MARKS;
+	position base [bn_jha] <anchor 242 0> mark @BLWM_MARKS;
+	position base [bn_ja] <anchor 293 0> mark @BLWM_MARKS;
+	position base [bn_gha] <anchor 321 0> mark @BLWM_MARKS;
+	position base [bn_ttha] <anchor 223 0> mark @BLWM_MARKS;
+	position base [bn_tta] <anchor 195 0> mark @BLWM_MARKS;
+	position base [bn_u] <anchor 302 0> mark @BLWM_MARKS;
+	position base [bn_nga] <anchor 303 0> mark @BLWM_MARKS;
+	position base [bn_ba] <anchor 242 0> mark @BLWM_MARKS;
+	position base [bn_sha] <anchor 377 0> mark @BLWM_MARKS;
+	position base [bn_ga] <anchor 374 0> mark @BLWM_MARKS;
+	position base [bn_a] <anchor 481 0> mark @BLWM_MARKS;
+	position base [bn_e] <anchor 360 0> mark @BLWM_MARKS;
+	position base [bn_i] <anchor 120 -4> mark @BLWM_MARKS;
+	position base [bn_cha] <anchor 174 -53> mark @BLWM_MARKS;
+	position base [bn_o] <anchor 323 0> mark @BLWM_MARKS;
+	position base [asa_ra] <anchor 242 0> mark @BLWM_MARKS;
+	position base [bn_tha] <anchor 379 0> mark @BLWM_MARKS;
+	position base [bn_da] <anchor 319 0> mark @BLWM_MARKS;
+	position base [bn_ta] <anchor 312 48> mark @BLWM_MARKS;
+	position base [bn_pa] <anchor 417 0> mark @BLWM_MARKS;
+	position base [bn_ma] <anchor 331 0> mark @BLWM_MARKS;
+	position base [bn_ca] <anchor 183 0> mark @BLWM_MARKS;
+	position base [bn_ra] <anchor 242 0> mark @BLWM_MARKS;
+	position base [bn_ii] <anchor 200 30> mark @BLWM_MARKS;
+	position base [bn_ssa] <anchor 301 0> mark @BLWM_MARKS;
+	position base [bn_ka] <anchor 242 0> mark @BLWM_MARKS;
+	position base [bn_ya] <anchor 301 0> mark @BLWM_MARKS;
+	position base [bn_yya] <anchor 301 0> mark @BLWM_MARKS;
+	position base [bn_khanda_ta] <anchor 213 0> mark @BLWM_MARKS;
+	position base [bn_ai] <anchor 360 0> mark @BLWM_MARKS;
+	position base [bn_pha] <anchor 301 0> mark @BLWM_MARKS;
+	position base [bn_aa] <anchor 731 0> mark @BLWM_MARKS;
+	position base [bn_nna] <anchor 290 0> mark @BLWM_MARKS;
+	position base [bn_nya] <anchor 360 0> mark @BLWM_MARKS;
+	position base [asa_ba] <anchor 242 0> mark @BLWM_MARKS;
+
+}blwm;
+
 

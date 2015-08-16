@@ -43,6 +43,9 @@
       <point x="285" y="417"/>
       <point x="234" y="549" type="curve"/>
     </contour>
+    <contour>
+      <point x="223" y="0" type="move" name="blwm"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -118,10 +121,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.502</real>
         <real>0.0</real>
-        <real>0.3072</real>
-        <real>0.9788</real>
-        <real>0.8</real>
+        <real>1.0</real>
+        <real>0.63</real>
       </array>
     </dict>
   </lib>

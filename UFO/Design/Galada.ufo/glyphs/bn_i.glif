@@ -26,15 +26,18 @@
       <point x="342" y="657" type="curve"/>
     </contour>
     <component base="bn_ha"/>
+    <contour>
+      <point x="120" y="-4" type="move" name="blwm"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.502</real>
         <real>0.0</real>
-        <real>0.3072</real>
-        <real>0.9788</real>
-        <real>0.8</real>
+        <real>1.0</real>
+        <real>0.63</real>
       </array>
     </dict>
   </lib>
