@@ -2,6 +2,16 @@
 <glyph name="bn_ukaar" format="1">
   <advance width="644"/>
   <outline>
+    <contour>
+      <point x="-20" y="51" type="move"/>
+      <point x="111" y="26"/>
+      <point x="216" y="-50"/>
+      <point x="316" y="-162" type="curve"/>
+      <point x="349" y="-162" type="line"/>
+      <point x="283" y="-61"/>
+      <point x="217" y="18"/>
+      <point x="137" y="67" type="curve"/>
+    </contour>
     <component base="bn_ka"/>
   </outline>
 </glyph>
