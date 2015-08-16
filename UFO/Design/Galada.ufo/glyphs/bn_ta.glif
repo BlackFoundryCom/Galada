@@ -39,6 +39,9 @@
       <point x="-13.9517873194" y="218.439814568"/>
       <point x="108.0" y="20.0"/>
     </contour>
+    <contour>
+      <point x="312" y="48" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

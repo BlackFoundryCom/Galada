@@ -1,0 +1,37 @@
+languagesystem DFLT dflt;
+languagesystem bng2 dflt;
+languagesystem beng dflt;
+
+@COMBINING_MARKS = [
+    bn_ukaar
+    bn_uukaar
+];
+
+table GDEF {
+  GlyphClassDef , , @COMBINING_MARKS, ;
+} GDEF;
+
+feature mark{
+
+	markClass [bn_ukaar bn_uukaar] <anchor 0 0> @BOTTOM_MARKS;
+
+	position base [bn_ddha] <anchor 195 0> mark @BOTTOM_MARKS;
+	position base [bn_tta] <anchor 195 0> mark @BOTTOM_MARKS;
+	position base [bn_ka] <anchor 242 0> mark @BOTTOM_MARKS;
+	position base [bn_ta] <anchor 312 48> mark @BOTTOM_MARKS;
+
+}mark;
+
+
+
+
+
+
+
+
+
+
+
+
+
+

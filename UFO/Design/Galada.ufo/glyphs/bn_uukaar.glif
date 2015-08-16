@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_uukaar" format="1">
   <advance width="0"/>
+  <unicode hex="09C2"/>
   <outline>
     <contour>
       <point x="-64" y="0" type="line" smooth="yes"/>
@@ -43,6 +44,9 @@
       <point x="51" y="0" type="curve" smooth="yes"/>
       <point x="59" y="39" type="line"/>
       <point x="-56" y="39" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>
