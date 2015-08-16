@@ -62,13 +62,10 @@ asa_ra
 asa_ba
 ];
 
-@LIGATURES = [
-    bn_ikaar
-];
 
 
 table GDEF {
-  GlyphClassDef @CONSONANTS, @LIGATURES, @COMBINING_MARKS, ;
+  GlyphClassDef @CONSONANTS, , @COMBINING_MARKS, ;
 } GDEF;
 
 
@@ -76,9 +73,18 @@ feature init{
     sub bn_ekaar by bn_ekaar.init;
 }init;
 
+feature pres {
+    sub bn_ra bn_ukaar by bn_r_ukaar; 
+    sub bn_ikaar bn_tta by bn_tta_ikaar;   
+} pres;
+
 
 feature abvm{
-
+    lookup ikaarPos {
+        lookupflag IgnoreMarks;
+        pos @CONSONANTS' bn_ikaar <297 0 0 0>;
+    } ikaarPos;
+    
 	markClass [bn_ikaar] <anchor 0 0> @ABVM_MARKS;
 
 position base bn_a <anchor 0 0> mark @ABVM_MARKS;
@@ -133,11 +139,7 @@ position base bn_rri <anchor 0 0> mark @ABVM_MARKS;
 position base bn_lli <anchor 0 0> mark @ABVM_MARKS;
 position base asa_ra <anchor 0 0> mark @ABVM_MARKS;
 position base asa_ba <anchor 0 0> mark @ABVM_MARKS;
-    
-    lookup ikaarPos {
-        lookupflag IgnoreMarks;
-        pos @CONSONANTS' bn_ikaar <297 0 0 0>;
-    } ikaarPos;
+
      
 }abvm;
 
@@ -145,8 +147,6 @@ position base asa_ba <anchor 0 0> mark @ABVM_MARKS;
 feature blwm{
 
 	markClass [bn_ukaar bn_uukaar] <anchor 0 0> @BLWM_MARKS;
-    
-    lookupflag IgnoreLigatures;
     
 	position base [bn_bha] <anchor 309 40> mark @BLWM_MARKS;
 	position base [bn_ddha] <anchor 195 0> mark @BLWM_MARKS;
