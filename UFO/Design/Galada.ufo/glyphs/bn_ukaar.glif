@@ -6,10 +6,7 @@
       <point x="51" y="0" type="move"/>
       <point x="59.0" y="39.0" type="line"/>
       <point x="-56.0" y="39.0" type="line"/>
-      <point x="-64" y="0" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="-64" y="0" type="move"/>
+      <point x="-64" y="0" type="line"/>
       <point x="-64" y="-150"/>
       <point x="-132" y="-214"/>
       <point x="-193" y="-214" type="curve" smooth="yes"/>
