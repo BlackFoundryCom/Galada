@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ja" format="1">
-  <advance width="763"/>
+  <advance width="793"/>
   <unicode hex="099C"/>
   <outline>
     <contour>
@@ -74,7 +74,7 @@
       <point x="353.920529801" y="108.0"/>
     </contour>
     <contour>
-      <point x="293" y="0" type="move" name="blwm"/>
+      <point x="293.0" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
   <lib>
@@ -684,7 +684,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>763</integer>
+          <integer>793</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
