@@ -73,7 +73,7 @@ feature init{
     sub bn_ekaar by bn_ekaar.init;
 }init;
 
-feature rphf{}
+feature rphf{}r
 
 feature pres {
     sub bn_ra bn_ukaar by bn_r_ukaar; 
