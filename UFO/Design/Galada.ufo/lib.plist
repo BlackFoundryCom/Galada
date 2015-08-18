@@ -563,6 +563,7 @@
 				<string>bn_ha</string>
 				<string>bn_nukta</string>
 				<string>bn_avagraha</string>
+				<string>bn_aakaar</string>
 				<string>bn_ikaar</string>
 				<string>bn_iikaar</string>
 				<string>bn_ukaar</string>
@@ -570,16 +571,22 @@
 				<string>bn_rikaar</string>
 				<string>bn_rrikaar</string>
 				<string>bn_ekaar</string>
+				<string>bn_ekaar.init</string>
 				<string>bn_aikaar</string>
+				<string>bn_aikaar.init</string>
 				<string>bn_okaar</string>
 				<string>bn_aukaar</string>
 				<string>bn_halanth</string>
 				<string>bn_khanda_ta</string>
+				<string>bn_aumark</string>
 				<string>bn_rra</string>
 				<string>bn_rha</string>
 				<string>bn_yya</string>
+				<string>asa_ra</string>
+				<string>asa_ba</string>
 				<string>bn_rri</string>
 				<string>bn_lli</string>
+				<string>bn_likaar</string>
 				<string>bn_llikaar</string>
 				<string>bn_zero</string>
 				<string>bn_one</string>
@@ -591,10 +598,20 @@
 				<string>bn_seven</string>
 				<string>bn_eight</string>
 				<string>bn_nine</string>
-				<string>asa_ra</string>
-				<string>asa_ba</string>
+				<string>bn_zero.pnum</string>
+				<string>bn_one.pnum</string>
+				<string>bn_two.pnum</string>
+				<string>bn_three.pnum</string>
+				<string>bn_four.pnum</string>
+				<string>bn_five.pnum</string>
+				<string>bn_six.pnum</string>
+				<string>bn_seven.pnum</string>
+				<string>bn_eight.pnum</string>
+				<string>bn_nine.pnum</string>
 				<string>bn_rupeemark</string>
 				<string>bn_rupeesign</string>
+				<string>bn_danda</string>
+				<string>bn_doubledanda</string>
 				<string>bn_currency1</string>
 				<string>bn_currency2</string>
 				<string>bn_currency3</string>
@@ -602,40 +619,6 @@
 				<string>bn_currencyless</string>
 				<string>bn_currency16</string>
 				<string>bn_isshar</string>
-				<string>bn_ekaar.init</string>
-				<string>bn_aikaar.init</string>
-				<string>bn_reph</string>
-				<string>bn_ra_phala</string>
-				<string>bn_ya_phala</string>
-				<string>bn_ba_phala</string>
-				<string>bn_likaar</string>
-				<string>bn_k_ra</string>
-				<string>bn_kh_ra</string>
-				<string>bn_g_ra</string>
-				<string>bn_gh_ra</string>
-				<string>bn_c_ra</string>
-				<string>bn_ch_ra</string>
-				<string>bn_j_ra</string>
-				<string>bn_tt_ra</string>
-				<string>bn_tth_ra</string>
-				<string>bn_dd_ra</string>
-				<string>bn_ddh_ra</string>
-				<string>bn_t_ra</string>
-				<string>bn_th_ra</string>
-				<string>bn_d_ra</string>
-				<string>bn_dh_ra</string>
-				<string>bn_n_ra</string>
-				<string>bn_p_ra</string>
-				<string>bn_ph_ra</string>
-				<string>bn_b_ra</string>
-				<string>bn_bh_ra</string>
-				<string>bn_m_ra</string>
-				<string>bn_sh_ra</string>
-				<string>bn_ss_ra</string>
-				<string>bn_s_ra</string>
-				<string>bn_h_ra</string>
-				<string>asa_b_ra</string>
-				<string>bn_k_ss_ra</string>
 				<string>bn_k_ka</string>
 				<string>bn_k_tta</string>
 				<string>bn_k_tt_ra</string>
@@ -643,82 +626,124 @@
 				<string>bn_k_t_ba</string>
 				<string>bn_k_t_ra</string>
 				<string>bn_k_na</string>
+				<string>bn_k_ba</string>
 				<string>bn_k_ma</string>
+				<string>bn_k_ra</string>
+				<string>bn_k_ra.alt01</string>
 				<string>bn_k_la</string>
 				<string>bn_k_ssa</string>
 				<string>bn_k_ss_nna</string>
+				<string>bn_k_ss_ba</string>
 				<string>bn_k_ss_ma</string>
+				<string>bn_k_ss_ra</string>
 				<string>bn_k_sa</string>
+				<string>bn_kh_ba</string>
+				<string>bn_kh_ra</string>
+				<string>bn_g_ukaar</string>
 				<string>bn_g_ga</string>
 				<string>bn_g_da</string>
 				<string>bn_g_dha</string>
 				<string>bn_g_dh_ba</string>
-				<string>bn_g_la</string>
+				<string>bn_g_dh_ra</string>
 				<string>bn_g_na</string>
+				<string>bn_g_ba</string>
 				<string>bn_g_ma</string>
+				<string>bn_g_ra</string>
+				<string>bn_g_ra_ukaar</string>
+				<string>bn_g_ra_uukaar</string>
+				<string>bn_g_la</string>
 				<string>bn_gh_na</string>
+				<string>bn_gh_ba</string>
+				<string>bn_gh_ra</string>
 				<string>bn_ng_ka</string>
 				<string>bn_ng_k_ra</string>
 				<string>bn_ng_k_ssa</string>
 				<string>bn_ng_k_ss_ra</string>
 				<string>bn_ng_kha</string>
 				<string>bn_ng_ga</string>
+				<string>bn_ng_g_ra</string>
 				<string>bn_ng_gha</string>
 				<string>bn_ng_gh_ra</string>
 				<string>bn_ng_ma</string>
+				<string>bn_ng_ra</string>
 				<string>bn_c_ca</string>
 				<string>bn_c_cha</string>
 				<string>bn_c_ch_ba</string>
 				<string>bn_c_ch_ra</string>
 				<string>bn_c_nya</string>
-				<string>bn_c_na</string>
+				<string>bn_c_ra</string>
+				<string>bn_ch_ra</string>
 				<string>bn_j_ja</string>
 				<string>bn_j_j_ba</string>
 				<string>bn_j_jha</string>
 				<string>bn_j_nya</string>
+				<string>bn_j_ba</string>
+				<string>bn_j_ra</string>
+				<string>bn_jh_ra</string>
 				<string>bn_ny_ca</string>
 				<string>bn_ny_cha</string>
 				<string>bn_ny_ja</string>
 				<string>bn_ny_jha</string>
-				<string>bn_tt_tt_ra</string>
+				<string>bn_ny_ra</string>
 				<string>bn_tt_tta</string>
-				<string>bn_tt_ma</string>
-				<string>bn_dd_ga</string>
+				<string>bn_tt_ba</string>
+				<string>bn_tt_ra</string>
+				<string>bn_tth_ra</string>
 				<string>bn_dd_dda</string>
-				<string>bn_dd_ma</string>
+				<string>bn_dd_ra</string>
+				<string>bn_ddh_ra</string>
 				<string>bn_nn_tta</string>
-				<string>bn_nn_tt_ra</string>
 				<string>bn_nn_ttha</string>
 				<string>bn_nn_dda</string>
+				<string>bn_nn_dda.alt01</string>
 				<string>bn_nn_dd_ra</string>
 				<string>bn_nn_ddha</string>
 				<string>bn_nn_nna</string>
+				<string>bn_nn_ba</string>
 				<string>bn_nn_ma</string>
+				<string>bn_nn_ra</string>
 				<string>bn_t_ta</string>
 				<string>bn_t_t_ba</string>
+				<string>bn_t_t_ra</string>
 				<string>bn_t_tha</string>
 				<string>bn_t_na</string>
+				<string>bn_t_ba</string>
 				<string>bn_t_ma</string>
-				<string>bn_t_la</string>
+				<string>bn_t_ra</string>
+				<string>bn_t_ra.alt01</string>
+				<string>bn_t_ra_ukaar</string>
+				<string>bn_t_ra_uukaar</string>
+				<string>bn_th_ba</string>
+				<string>bn_th_ra</string>
+				<string>bn_th_ra_ukaar</string>
+				<string>bn_th_ra_uukaar</string>
+				<string>bn_th_la</string>
 				<string>bn_d_ga</string>
 				<string>bn_d_gha</string>
 				<string>bn_d_da</string>
 				<string>bn_d_d_ba</string>
-				<string>bn_d_d_ra</string>
 				<string>bn_d_dha</string>
 				<string>bn_d_dh_ba</string>
 				<string>bn_d_na</string>
+				<string>bn_d_ba</string>
 				<string>bn_d_bha</string>
 				<string>bn_d_bh_ra</string>
 				<string>bn_d_ma</string>
+				<string>bn_d_ra</string>
+				<string>bn_d_ra_ukaar</string>
+				<string>bn_d_ra_uukaar</string>
 				<string>bn_dh_na</string>
-				<string>bn_dh_ma</string>
+				<string>bn_dh_ba</string>
+				<string>bn_dh_ra</string>
+				<string>bn_dh_ra_ukaar</string>
+				<string>bn_dh_ra_uukaar</string>
+				<string>bn_n_th_ta</string>
+				<string>bn_n_jha</string>
 				<string>bn_n_tta</string>
 				<string>bn_n_tt_ra</string>
 				<string>bn_n_ttha</string>
 				<string>bn_n_dda</string>
-				<string>bn_n_dd_ra</string>
-				<string>bn_n_ddha</string>
+				<string>bn_n_dda_ra</string>
 				<string>bn_n_ta</string>
 				<string>bn_n_t_ba</string>
 				<string>bn_n_t_ra</string>
@@ -730,59 +755,73 @@
 				<string>bn_n_dh_ba</string>
 				<string>bn_n_dh_ra</string>
 				<string>bn_n_na</string>
+				<string>bn_n_ba</string>
 				<string>bn_n_ma</string>
+				<string>bn_n_ra</string>
 				<string>bn_n_sa</string>
 				<string>bn_p_tta</string>
 				<string>bn_p_ta</string>
-				<string>bn_p_pa</string>
-				<string>bn_p_ma</string>
+				<string>bn_p_t_ra</string>
 				<string>bn_p_na</string>
+				<string>bn_p_pa</string>
+				<string>bn_p_ra</string>
+				<string>bn_p_ra_ukaar</string>
+				<string>bn_p_ra_uukaar</string>
 				<string>bn_p_la</string>
 				<string>bn_p_sa</string>
 				<string>bn_ph_tta</string>
+				<string>bn_ph_ra</string>
 				<string>bn_ph_la</string>
 				<string>bn_b_ja</string>
 				<string>bn_b_da</string>
-				<string>bn_b_d_ra</string>
 				<string>bn_b_dha</string>
-				<string>bn_b_na</string>
+				<string>bn_b_ba</string>
 				<string>bn_b_bha</string>
+				<string>bn_b_ra</string>
+				<string>bn_b_da_ukaar</string>
+				<string>bn_b_da_uukaar</string>
 				<string>bn_b_la</string>
+				<string>bn_bh_ra</string>
+				<string>bn_bh_ra_ukaar</string>
+				<string>bn_bh_ra_uukaar</string>
 				<string>bn_bh_la</string>
-				<string>bn_m_ta</string>
-				<string>bn_m_tha</string>
-				<string>bn_m_da</string>
 				<string>bn_m_na</string>
 				<string>bn_m_pa</string>
-				<string>bn_m_p_ra</string>
-				<string>bn_m_p_la</string>
+				<string>bn_m_r_ra</string>
 				<string>bn_m_pha</string>
-				<string>bn_m_ph_ra</string>
+				<string>bn_m_ba</string>
 				<string>bn_m_bha</string>
 				<string>bn_m_bh_ra</string>
 				<string>bn_m_ma</string>
+				<string>bn_m_ra</string>
 				<string>bn_m_la</string>
-				<string>bn_m_sa</string>
-				<string>bn_m_s_ra</string>
+				<string>bn_y_ra</string>
+				<string>bn_ra_ukaar</string>
+				<string>bn_ra_uukaar</string>
 				<string>bn_l_ka</string>
 				<string>bn_l_ga</string>
+				<string>bn_l_ga_ukaar</string>
 				<string>bn_l_tta</string>
-				<string>bn_l_tt_ra</string>
 				<string>bn_l_dda</string>
-				<string>bn_l_dd_ra</string>
-				<string>bn_l_ta</string>
 				<string>bn_l_da</string>
-				<string>bn_l_dha</string>
 				<string>bn_l_pa</string>
 				<string>bn_l_pha</string>
-				<string>bn_l_ph_ra</string>
+				<string>bn_l_ba</string>
 				<string>bn_l_ma</string>
+				<string>bn_l_ra</string>
 				<string>bn_l_la</string>
+				<string>bn_l_sa</string>
+				<string>bn_sha_ukaar</string>
 				<string>bn_sh_ca</string>
 				<string>bn_sh_cha</string>
-				<string>bn_sh_ta</string>
+				<string>bn_sh_tta</string>
 				<string>bn_sh_na</string>
+				<string>bn_sh_ba</string>
 				<string>bn_sh_ma</string>
+				<string>bn_sh_ra</string>
+				<string>bn_sh_ra_iikaar</string>
+				<string>bn_sh_ra_ukaar</string>
+				<string>bn_sh_ra_uukaar</string>
 				<string>bn_sh_la</string>
 				<string>bn_ss_ka</string>
 				<string>bn_ss_k_ra</string>
@@ -793,14 +832,17 @@
 				<string>bn_ss_pa</string>
 				<string>bn_ss_p_ra</string>
 				<string>bn_ss_pha</string>
-				<string>bn_ss_ph_ra</string>
+				<string>bn_ss_ba</string>
 				<string>bn_ss_ma</string>
+				<string>bn_ss_ra</string>
 				<string>bn_s_ka</string>
+				<string>bn_s_k_ba</string>
 				<string>bn_s_k_ra</string>
 				<string>bn_s_kha</string>
 				<string>bn_s_tta</string>
 				<string>bn_s_tt_ra</string>
 				<string>bn_s_ta</string>
+				<string>bn_s_ta_ukaar</string>
 				<string>bn_s_t_ba</string>
 				<string>bn_s_t_ra</string>
 				<string>bn_s_tha</string>
@@ -809,219 +851,36 @@
 				<string>bn_s_p_ra</string>
 				<string>bn_s_p_la</string>
 				<string>bn_s_pha</string>
-				<string>bn_s_ph_ra</string>
+				<string>bn_s_ba</string>
 				<string>bn_s_ma</string>
+				<string>bn_s_ra</string>
+				<string>bn_s_ra_ukaar</string>
+				<string>bn_s_ra_uukaar</string>
 				<string>bn_s_la</string>
+				<string>bn_ha_ukaar</string>
+				<string>bn_ha_rikaar</string>
 				<string>bn_h_nna</string>
 				<string>bn_h_na</string>
-				<string>bn_h_ma</string>
-				<string>bn_h_la</string>
-				<string>bn_rr_ga</string>
-				<string>bn_k_ba</string>
-				<string>bn_g_ba</string>
-				<string>bn_gh_ba</string>
-				<string>bn_c_ba</string>
-				<string>bn_ch_ba</string>
-				<string>bn_j_ba</string>
-				<string>bn_tt_ba</string>
-				<string>bn_dd_ba</string>
-				<string>bn_nn_ba</string>
-				<string>bn_t_ba</string>
-				<string>bn_th_ba</string>
-				<string>bn_d_ba</string>
-				<string>bn_dh_ba</string>
-				<string>bn_n_ba</string>
-				<string>bn_p_ba</string>
-				<string>bn_b_ba</string>
-				<string>bn_bh_ba</string>
-				<string>bn_m_ba</string>
-				<string>bn_m_b_ra</string>
-				<string>bn_l_ba</string>
-				<string>bn_sh_ba</string>
-				<string>bn_s_ba</string>
 				<string>bn_h_ba</string>
-				<string>bn_kh_r_ukaar</string>
-				<string>bn_kh_r_uukaar</string>
-				<string>bn_g_ukaar</string>
-				<string>bn_g_r_ukaar</string>
-				<string>bn_g_r_uukaar</string>
-				<string>bn_g_l_ukaar</string>
-				<string>bn_g_l_uukaar</string>
-				<string>bn_j_r_ukaar</string>
-				<string>bn_j_r_uukaar</string>
-				<string>bn_t_r_ukaar</string>
-				<string>bn_t_r_uukaar</string>
-				<string>bn_th_r_ukaar</string>
-				<string>bn_th_r_uukaar</string>
-				<string>bn_d_ukaar</string>
-				<string>bn_d_r_ukaar</string>
-				<string>bn_d_r_uukaar</string>
-				<string>bn_dh_r_ukaar</string>
-				<string>bn_dh_r_uukaar</string>
-				<string>bn_n_t_ukaar</string>
-				<string>bn_n_d_r_ukaar</string>
-				<string>bn_n_d_r_uukaar</string>
-				<string>bn_p_r_ukaar</string>
-				<string>bn_p_r_uukaar</string>
-				<string>bn_p_l_ukaar</string>
-				<string>bn_p_l_uukaar</string>
-				<string>bn_b_r_ukaar</string>
-				<string>bn_b_r_uukaar</string>
-				<string>bn_b_l_ukaar</string>
-				<string>bn_b_l_uukaar</string>
-				<string>bn_bh_r_ukaar</string>
-				<string>bn_bh_r_uukaar</string>
-				<string>bn_m_r_ukaar</string>
-				<string>bn_m_r_uukaar</string>
-				<string>bn_m_p_r_ukaar</string>
-				<string>bn_m_p_r_uukaar</string>
+				<string>bn_h_ma</string>
+				<string>bn_h_ra</string>
+				<string>bn_h_la</string>
+				<string>bn_h_yya</string>
+				<string>bn_rr_ga</string>
+				<string>asa_ra_ukaar</string>
+				<string>asa_ra_uukaar</string>
+				<string>asa_ba_ukaar</string>
+				<string>asa_ba_uukaar</string>
+				<string>bn_reph</string>
+				<string>bn_iikaar_reph</string>
+				<string>bn_aumark_reph</string>
+				<string>bn_ba_phala</string>
+				<string>bn_ya_phala</string>
+				<string>bn_ra_phala</string>
+				<string>uni25CC</string>
 				<string>bn_r_ukaar</string>
-				<string>bn_r_uukaar</string>
-				<string>bn_l_g_ukaar</string>
-				<string>bn_sh_ukaar</string>
-				<string>bn_sh_r_ukaar</string>
-				<string>bn_sh_r_uukaar</string>
-				<string>bn_sh_l_ukaar</string>
-				<string>bn_sh_l_uukaar</string>
-				<string>bn_ss_p_r_ukaar</string>
-				<string>bn_ss_p_r_uukaar</string>
-				<string>bn_s_t_ukaar</string>
-				<string>bn_s_r_ukaar</string>
-				<string>bn_s_r_uukaar</string>
-				<string>bn_s_p_r_ukaar</string>
-				<string>bn_s_p_r_uukaar</string>
-				<string>bn_s_p_l_ukaar</string>
-				<string>bn_s_p_l_uukaar</string>
-				<string>bn_s_l_ukaar</string>
-				<string>bn_s_l_uukaar</string>
-				<string>bn_h_ukaar</string>
-				<string>bn_h_rikaar</string>
-				<string>asa_r_ukaar</string>
-				<string>asa_r_uukaar</string>
-				<string>asa_b_ukaar</string>
-				<string>asa_b_uukaar</string>
-				<string>bn_k_halanth</string>
-				<string>bn_kh_halanth</string>
-				<string>bn_g_halanth</string>
-				<string>bn_gh_halanth</string>
-				<string>bn_ng_halanth</string>
-				<string>bn_c_halanth</string>
-				<string>bn_ch_halanth</string>
-				<string>bn_j_halanth</string>
-				<string>bn_jh_halanth</string>
-				<string>bn_ny_halanth</string>
-				<string>bn_tt_halanth</string>
-				<string>bn_tth_halanth</string>
-				<string>bn_dd_halanth</string>
-				<string>bn_ddh_halanth</string>
-				<string>bn_nn_halanth</string>
-				<string>bn_t_halanth</string>
-				<string>bn_th_halanth</string>
-				<string>bn_d_halanth</string>
-				<string>bn_dh_halanth</string>
-				<string>bn_n_halanth</string>
-				<string>bn_p_halanth</string>
-				<string>bn_ph_halanth</string>
-				<string>bn_b_halanth</string>
-				<string>bn_bh_halanth</string>
-				<string>bn_m_halanth</string>
-				<string>bn_y_halanth</string>
-				<string>bn_r_halanth</string>
-				<string>bn_l_halanth</string>
-				<string>bn_sh_halanth</string>
-				<string>bn_ss_halanth</string>
-				<string>bn_s_halanth</string>
-				<string>bn_h_halanth</string>
-				<string>bn_rr_halanth</string>
-				<string>bn_rh_halanth</string>
-				<string>bn_yy_halanth</string>
-				<string>asa_ra_halanth</string>
-				<string>asa_ba_halanth</string>
-				<string>bn_r_ya</string>
-				<string>bn_danda</string>
-				<string>bn_doubledanda</string>
-				<string>bn_ukaar.upper</string>
-				<string>bn_uukaar.upper</string>
-				<string>bn_rikaar.upper</string>
-				<string>bn_rrikaar.upper</string>
-				<string>bn_ukaar.up_inner</string>
-				<string>bn_uukaar.up_inner</string>
-				<string>bn_rikaar.up_inner</string>
-				<string>bn_rrikaar.up_inner</string>
 				<string>bn_tta_ikaar</string>
-				<string>bn_tt_ra_ikaar</string>
-				<string>bn_k_tta_ikaar</string>
-				<string>bn_k_tt_ra_ikaar</string>
-				<string>bn_tt_tt_ra_ikaar</string>
-				<string>bn_tt_tta_ikaar</string>
-				<string>bn_tt_ma_ikaar</string>
-				<string>bn_nn_ttha_ikaar</string>
-				<string>bn_n_ttha_ikaar</string>
-				<string>bn_ph_tta_ikaar</string>
-				<string>bn_ss_tta_ikaar</string>
-				<string>bn_ss_tt_ra_ikaar</string>
-				<string>bn_s_tta_ikaar</string>
-				<string>bn_s_tt_ra_ikaar</string>
-				<string>bn_tt_ba_ikaar</string>
-				<string>bn_tta_iikaar</string>
-				<string>bn_ttha_iikaar</string>
-				<string>bn_tt_ra_iikaar</string>
-				<string>bn_tth_ra_iikaar</string>
-				<string>bn_k_tta_iikaar</string>
-				<string>bn_k_tt_ra_iikaar</string>
-				<string>bn_tt_tt_ra_iikaar</string>
-				<string>bn_tt_tta_iikaar</string>
-				<string>bn_tt_ma_iikaar</string>
-				<string>bn_nn_tta_iikaar</string>
-				<string>bn_nn_tt_ra_iikaar</string>
-				<string>bn_nn_ttha_iikaar</string>
-				<string>bn_n_tta_iikaar</string>
-				<string>bn_n_tt_ra_iikaar</string>
-				<string>bn_n_ttha_iikaar</string>
-				<string>bn_p_tta_iikaar</string>
-				<string>bn_ph_tta_iikaar</string>
-				<string>bn_l_tta_iikaar</string>
-				<string>bn_l_tt_ra_iikaar</string>
-				<string>bn_ss_tta_iikaar</string>
-				<string>bn_ss_tt_ra_iikaar</string>
-				<string>bn_ss_ttha_iikaar</string>
-				<string>bn_s_tta_iikaar</string>
-				<string>bn_s_tt_ra_iikaar</string>
-				<string>bn_tt_ba_iikaar</string>
-				<string>bn_chandrabindu.25CC</string>
-				<string>bn_anusvar.25CC</string>
-				<string>bn_bisarga.25CC</string>
-				<string>bn_nukta.25CC</string>
-				<string>bn_aakaar.25CC</string>
-				<string>bn_ikaar.25CC</string>
-				<string>bn_iikaar.25CC</string>
-				<string>bn_ukaar.25CC</string>
-				<string>bn_uukaar.25CC</string>
-				<string>bn_rikaar.25CC</string>
-				<string>bn_rrikaar.25CC</string>
-				<string>bn_ekaar.25CC</string>
-				<string>bn_aikaar.25CC</string>
-				<string>bn_halanth.25CC</string>
-				<string>bn_aumark.25CC</string>
-				<string>bn_aakaar</string>
-				<string>bn_aumark</string>
-				<string>bn_jha_ukaar</string>
-				<string>bn_jha_uukaar</string>
-				<string>bn_rra.001</string>
-				<string>bn_rha.001</string>
-				<string>bn_yya.001</string>
 				<string>uni20B9.rupee</string>
-				<string>ZWNJ.visible</string>
-				<string>ZWJ.visible</string>
-				<string>NBSPACE</string>
-				<string>bn_ukaar.mark</string>
-				<string>bn_uukaar.mark</string>
-				<string>bn_rikaar.mark</string>
-				<string>bn_rrikaar.mark</string>
-				<string>bn_reph.25CC</string>
-				<string>bn_llikaar.25CC</string>
-				<string>bn_ra_phala.25CC</string>
-				<string>bn_likaar.25CC</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1412,6 +1271,7 @@
 		<string>bn_ha</string>
 		<string>bn_nukta</string>
 		<string>bn_avagraha</string>
+		<string>bn_aakaar</string>
 		<string>bn_ikaar</string>
 		<string>bn_iikaar</string>
 		<string>bn_ukaar</string>
@@ -1419,16 +1279,22 @@
 		<string>bn_rikaar</string>
 		<string>bn_rrikaar</string>
 		<string>bn_ekaar</string>
+		<string>bn_ekaar.init</string>
 		<string>bn_aikaar</string>
+		<string>bn_aikaar.init</string>
 		<string>bn_okaar</string>
 		<string>bn_aukaar</string>
 		<string>bn_halanth</string>
 		<string>bn_khanda_ta</string>
+		<string>bn_aumark</string>
 		<string>bn_rra</string>
 		<string>bn_rha</string>
 		<string>bn_yya</string>
+		<string>asa_ra</string>
+		<string>asa_ba</string>
 		<string>bn_rri</string>
 		<string>bn_lli</string>
+		<string>bn_likaar</string>
 		<string>bn_llikaar</string>
 		<string>bn_zero</string>
 		<string>bn_one</string>
@@ -1440,10 +1306,20 @@
 		<string>bn_seven</string>
 		<string>bn_eight</string>
 		<string>bn_nine</string>
-		<string>asa_ra</string>
-		<string>asa_ba</string>
+		<string>bn_zero.pnum</string>
+		<string>bn_one.pnum</string>
+		<string>bn_two.pnum</string>
+		<string>bn_three.pnum</string>
+		<string>bn_four.pnum</string>
+		<string>bn_five.pnum</string>
+		<string>bn_six.pnum</string>
+		<string>bn_seven.pnum</string>
+		<string>bn_eight.pnum</string>
+		<string>bn_nine.pnum</string>
 		<string>bn_rupeemark</string>
 		<string>bn_rupeesign</string>
+		<string>bn_danda</string>
+		<string>bn_doubledanda</string>
 		<string>bn_currency1</string>
 		<string>bn_currency2</string>
 		<string>bn_currency3</string>
@@ -1451,40 +1327,6 @@
 		<string>bn_currencyless</string>
 		<string>bn_currency16</string>
 		<string>bn_isshar</string>
-		<string>bn_ekaar.init</string>
-		<string>bn_aikaar.init</string>
-		<string>bn_reph</string>
-		<string>bn_ra_phala</string>
-		<string>bn_ya_phala</string>
-		<string>bn_ba_phala</string>
-		<string>bn_likaar</string>
-		<string>bn_k_ra</string>
-		<string>bn_kh_ra</string>
-		<string>bn_g_ra</string>
-		<string>bn_gh_ra</string>
-		<string>bn_c_ra</string>
-		<string>bn_ch_ra</string>
-		<string>bn_j_ra</string>
-		<string>bn_tt_ra</string>
-		<string>bn_tth_ra</string>
-		<string>bn_dd_ra</string>
-		<string>bn_ddh_ra</string>
-		<string>bn_t_ra</string>
-		<string>bn_th_ra</string>
-		<string>bn_d_ra</string>
-		<string>bn_dh_ra</string>
-		<string>bn_n_ra</string>
-		<string>bn_p_ra</string>
-		<string>bn_ph_ra</string>
-		<string>bn_b_ra</string>
-		<string>bn_bh_ra</string>
-		<string>bn_m_ra</string>
-		<string>bn_sh_ra</string>
-		<string>bn_ss_ra</string>
-		<string>bn_s_ra</string>
-		<string>bn_h_ra</string>
-		<string>asa_b_ra</string>
-		<string>bn_k_ss_ra</string>
 		<string>bn_k_ka</string>
 		<string>bn_k_tta</string>
 		<string>bn_k_tt_ra</string>
@@ -1492,82 +1334,124 @@
 		<string>bn_k_t_ba</string>
 		<string>bn_k_t_ra</string>
 		<string>bn_k_na</string>
+		<string>bn_k_ba</string>
 		<string>bn_k_ma</string>
+		<string>bn_k_ra</string>
+		<string>bn_k_ra.alt01</string>
 		<string>bn_k_la</string>
 		<string>bn_k_ssa</string>
 		<string>bn_k_ss_nna</string>
+		<string>bn_k_ss_ba</string>
 		<string>bn_k_ss_ma</string>
+		<string>bn_k_ss_ra</string>
 		<string>bn_k_sa</string>
+		<string>bn_kh_ba</string>
+		<string>bn_kh_ra</string>
+		<string>bn_g_ukaar</string>
 		<string>bn_g_ga</string>
 		<string>bn_g_da</string>
 		<string>bn_g_dha</string>
 		<string>bn_g_dh_ba</string>
-		<string>bn_g_la</string>
+		<string>bn_g_dh_ra</string>
 		<string>bn_g_na</string>
+		<string>bn_g_ba</string>
 		<string>bn_g_ma</string>
+		<string>bn_g_ra</string>
+		<string>bn_g_ra_ukaar</string>
+		<string>bn_g_ra_uukaar</string>
+		<string>bn_g_la</string>
 		<string>bn_gh_na</string>
+		<string>bn_gh_ba</string>
+		<string>bn_gh_ra</string>
 		<string>bn_ng_ka</string>
 		<string>bn_ng_k_ra</string>
 		<string>bn_ng_k_ssa</string>
 		<string>bn_ng_k_ss_ra</string>
 		<string>bn_ng_kha</string>
 		<string>bn_ng_ga</string>
+		<string>bn_ng_g_ra</string>
 		<string>bn_ng_gha</string>
 		<string>bn_ng_gh_ra</string>
 		<string>bn_ng_ma</string>
+		<string>bn_ng_ra</string>
 		<string>bn_c_ca</string>
 		<string>bn_c_cha</string>
 		<string>bn_c_ch_ba</string>
 		<string>bn_c_ch_ra</string>
 		<string>bn_c_nya</string>
-		<string>bn_c_na</string>
+		<string>bn_c_ra</string>
+		<string>bn_ch_ra</string>
 		<string>bn_j_ja</string>
 		<string>bn_j_j_ba</string>
 		<string>bn_j_jha</string>
 		<string>bn_j_nya</string>
+		<string>bn_j_ba</string>
+		<string>bn_j_ra</string>
+		<string>bn_jh_ra</string>
 		<string>bn_ny_ca</string>
 		<string>bn_ny_cha</string>
 		<string>bn_ny_ja</string>
 		<string>bn_ny_jha</string>
-		<string>bn_tt_tt_ra</string>
+		<string>bn_ny_ra</string>
 		<string>bn_tt_tta</string>
-		<string>bn_tt_ma</string>
-		<string>bn_dd_ga</string>
+		<string>bn_tt_ba</string>
+		<string>bn_tt_ra</string>
+		<string>bn_tth_ra</string>
 		<string>bn_dd_dda</string>
-		<string>bn_dd_ma</string>
+		<string>bn_dd_ra</string>
+		<string>bn_ddh_ra</string>
 		<string>bn_nn_tta</string>
-		<string>bn_nn_tt_ra</string>
 		<string>bn_nn_ttha</string>
 		<string>bn_nn_dda</string>
+		<string>bn_nn_dda.alt01</string>
 		<string>bn_nn_dd_ra</string>
 		<string>bn_nn_ddha</string>
 		<string>bn_nn_nna</string>
+		<string>bn_nn_ba</string>
 		<string>bn_nn_ma</string>
+		<string>bn_nn_ra</string>
 		<string>bn_t_ta</string>
 		<string>bn_t_t_ba</string>
+		<string>bn_t_t_ra</string>
 		<string>bn_t_tha</string>
 		<string>bn_t_na</string>
+		<string>bn_t_ba</string>
 		<string>bn_t_ma</string>
-		<string>bn_t_la</string>
+		<string>bn_t_ra</string>
+		<string>bn_t_ra.alt01</string>
+		<string>bn_t_ra_ukaar</string>
+		<string>bn_t_ra_uukaar</string>
+		<string>bn_th_ba</string>
+		<string>bn_th_ra</string>
+		<string>bn_th_ra_ukaar</string>
+		<string>bn_th_ra_uukaar</string>
+		<string>bn_th_la</string>
 		<string>bn_d_ga</string>
 		<string>bn_d_gha</string>
 		<string>bn_d_da</string>
 		<string>bn_d_d_ba</string>
-		<string>bn_d_d_ra</string>
 		<string>bn_d_dha</string>
 		<string>bn_d_dh_ba</string>
 		<string>bn_d_na</string>
+		<string>bn_d_ba</string>
 		<string>bn_d_bha</string>
 		<string>bn_d_bh_ra</string>
 		<string>bn_d_ma</string>
+		<string>bn_d_ra</string>
+		<string>bn_d_ra_ukaar</string>
+		<string>bn_d_ra_uukaar</string>
 		<string>bn_dh_na</string>
-		<string>bn_dh_ma</string>
+		<string>bn_dh_ba</string>
+		<string>bn_dh_ra</string>
+		<string>bn_dh_ra_ukaar</string>
+		<string>bn_dh_ra_uukaar</string>
+		<string>bn_n_th_ta</string>
+		<string>bn_n_jha</string>
 		<string>bn_n_tta</string>
 		<string>bn_n_tt_ra</string>
 		<string>bn_n_ttha</string>
 		<string>bn_n_dda</string>
-		<string>bn_n_dd_ra</string>
-		<string>bn_n_ddha</string>
+		<string>bn_n_dda_ra</string>
 		<string>bn_n_ta</string>
 		<string>bn_n_t_ba</string>
 		<string>bn_n_t_ra</string>
@@ -1579,59 +1463,73 @@
 		<string>bn_n_dh_ba</string>
 		<string>bn_n_dh_ra</string>
 		<string>bn_n_na</string>
+		<string>bn_n_ba</string>
 		<string>bn_n_ma</string>
+		<string>bn_n_ra</string>
 		<string>bn_n_sa</string>
 		<string>bn_p_tta</string>
 		<string>bn_p_ta</string>
-		<string>bn_p_pa</string>
-		<string>bn_p_ma</string>
+		<string>bn_p_t_ra</string>
 		<string>bn_p_na</string>
+		<string>bn_p_pa</string>
+		<string>bn_p_ra</string>
+		<string>bn_p_ra_ukaar</string>
+		<string>bn_p_ra_uukaar</string>
 		<string>bn_p_la</string>
 		<string>bn_p_sa</string>
 		<string>bn_ph_tta</string>
+		<string>bn_ph_ra</string>
 		<string>bn_ph_la</string>
 		<string>bn_b_ja</string>
 		<string>bn_b_da</string>
-		<string>bn_b_d_ra</string>
 		<string>bn_b_dha</string>
-		<string>bn_b_na</string>
+		<string>bn_b_ba</string>
 		<string>bn_b_bha</string>
+		<string>bn_b_ra</string>
+		<string>bn_b_da_ukaar</string>
+		<string>bn_b_da_uukaar</string>
 		<string>bn_b_la</string>
+		<string>bn_bh_ra</string>
+		<string>bn_bh_ra_ukaar</string>
+		<string>bn_bh_ra_uukaar</string>
 		<string>bn_bh_la</string>
-		<string>bn_m_ta</string>
-		<string>bn_m_tha</string>
-		<string>bn_m_da</string>
 		<string>bn_m_na</string>
 		<string>bn_m_pa</string>
-		<string>bn_m_p_ra</string>
-		<string>bn_m_p_la</string>
+		<string>bn_m_r_ra</string>
 		<string>bn_m_pha</string>
-		<string>bn_m_ph_ra</string>
+		<string>bn_m_ba</string>
 		<string>bn_m_bha</string>
 		<string>bn_m_bh_ra</string>
 		<string>bn_m_ma</string>
+		<string>bn_m_ra</string>
 		<string>bn_m_la</string>
-		<string>bn_m_sa</string>
-		<string>bn_m_s_ra</string>
+		<string>bn_y_ra</string>
+		<string>bn_ra_ukaar</string>
+		<string>bn_ra_uukaar</string>
 		<string>bn_l_ka</string>
 		<string>bn_l_ga</string>
+		<string>bn_l_ga_ukaar</string>
 		<string>bn_l_tta</string>
-		<string>bn_l_tt_ra</string>
 		<string>bn_l_dda</string>
-		<string>bn_l_dd_ra</string>
-		<string>bn_l_ta</string>
 		<string>bn_l_da</string>
-		<string>bn_l_dha</string>
 		<string>bn_l_pa</string>
 		<string>bn_l_pha</string>
-		<string>bn_l_ph_ra</string>
+		<string>bn_l_ba</string>
 		<string>bn_l_ma</string>
+		<string>bn_l_ra</string>
 		<string>bn_l_la</string>
+		<string>bn_l_sa</string>
+		<string>bn_sha_ukaar</string>
 		<string>bn_sh_ca</string>
 		<string>bn_sh_cha</string>
-		<string>bn_sh_ta</string>
+		<string>bn_sh_tta</string>
 		<string>bn_sh_na</string>
+		<string>bn_sh_ba</string>
 		<string>bn_sh_ma</string>
+		<string>bn_sh_ra</string>
+		<string>bn_sh_ra_iikaar</string>
+		<string>bn_sh_ra_ukaar</string>
+		<string>bn_sh_ra_uukaar</string>
 		<string>bn_sh_la</string>
 		<string>bn_ss_ka</string>
 		<string>bn_ss_k_ra</string>
@@ -1642,14 +1540,17 @@
 		<string>bn_ss_pa</string>
 		<string>bn_ss_p_ra</string>
 		<string>bn_ss_pha</string>
-		<string>bn_ss_ph_ra</string>
+		<string>bn_ss_ba</string>
 		<string>bn_ss_ma</string>
+		<string>bn_ss_ra</string>
 		<string>bn_s_ka</string>
+		<string>bn_s_k_ba</string>
 		<string>bn_s_k_ra</string>
 		<string>bn_s_kha</string>
 		<string>bn_s_tta</string>
 		<string>bn_s_tt_ra</string>
 		<string>bn_s_ta</string>
+		<string>bn_s_ta_ukaar</string>
 		<string>bn_s_t_ba</string>
 		<string>bn_s_t_ra</string>
 		<string>bn_s_tha</string>
@@ -1658,219 +1559,33 @@
 		<string>bn_s_p_ra</string>
 		<string>bn_s_p_la</string>
 		<string>bn_s_pha</string>
-		<string>bn_s_ph_ra</string>
+		<string>bn_s_ba</string>
 		<string>bn_s_ma</string>
+		<string>bn_s_ra</string>
+		<string>bn_s_ra_ukaar</string>
+		<string>bn_s_ra_uukaar</string>
 		<string>bn_s_la</string>
+		<string>bn_ha_ukaar</string>
+		<string>bn_ha_rikaar</string>
 		<string>bn_h_nna</string>
 		<string>bn_h_na</string>
-		<string>bn_h_ma</string>
-		<string>bn_h_la</string>
-		<string>bn_rr_ga</string>
-		<string>bn_k_ba</string>
-		<string>bn_g_ba</string>
-		<string>bn_gh_ba</string>
-		<string>bn_c_ba</string>
-		<string>bn_ch_ba</string>
-		<string>bn_j_ba</string>
-		<string>bn_tt_ba</string>
-		<string>bn_dd_ba</string>
-		<string>bn_nn_ba</string>
-		<string>bn_t_ba</string>
-		<string>bn_th_ba</string>
-		<string>bn_d_ba</string>
-		<string>bn_dh_ba</string>
-		<string>bn_n_ba</string>
-		<string>bn_p_ba</string>
-		<string>bn_b_ba</string>
-		<string>bn_bh_ba</string>
-		<string>bn_m_ba</string>
-		<string>bn_m_b_ra</string>
-		<string>bn_l_ba</string>
-		<string>bn_sh_ba</string>
-		<string>bn_s_ba</string>
 		<string>bn_h_ba</string>
-		<string>bn_kh_r_ukaar</string>
-		<string>bn_kh_r_uukaar</string>
-		<string>bn_g_ukaar</string>
-		<string>bn_g_r_ukaar</string>
-		<string>bn_g_r_uukaar</string>
-		<string>bn_g_l_ukaar</string>
-		<string>bn_g_l_uukaar</string>
-		<string>bn_j_r_ukaar</string>
-		<string>bn_j_r_uukaar</string>
-		<string>bn_t_r_ukaar</string>
-		<string>bn_t_r_uukaar</string>
-		<string>bn_th_r_ukaar</string>
-		<string>bn_th_r_uukaar</string>
-		<string>bn_d_ukaar</string>
-		<string>bn_d_r_ukaar</string>
-		<string>bn_d_r_uukaar</string>
-		<string>bn_dh_r_ukaar</string>
-		<string>bn_dh_r_uukaar</string>
-		<string>bn_n_t_ukaar</string>
-		<string>bn_n_d_r_ukaar</string>
-		<string>bn_n_d_r_uukaar</string>
-		<string>bn_p_r_ukaar</string>
-		<string>bn_p_r_uukaar</string>
-		<string>bn_p_l_ukaar</string>
-		<string>bn_p_l_uukaar</string>
-		<string>bn_b_r_ukaar</string>
-		<string>bn_b_r_uukaar</string>
-		<string>bn_b_l_ukaar</string>
-		<string>bn_b_l_uukaar</string>
-		<string>bn_bh_r_ukaar</string>
-		<string>bn_bh_r_uukaar</string>
-		<string>bn_m_r_ukaar</string>
-		<string>bn_m_r_uukaar</string>
-		<string>bn_m_p_r_ukaar</string>
-		<string>bn_m_p_r_uukaar</string>
-		<string>bn_r_ukaar</string>
-		<string>bn_r_uukaar</string>
-		<string>bn_l_g_ukaar</string>
-		<string>bn_sh_ukaar</string>
-		<string>bn_sh_r_ukaar</string>
-		<string>bn_sh_r_uukaar</string>
-		<string>bn_sh_l_ukaar</string>
-		<string>bn_sh_l_uukaar</string>
-		<string>bn_ss_p_r_ukaar</string>
-		<string>bn_ss_p_r_uukaar</string>
-		<string>bn_s_t_ukaar</string>
-		<string>bn_s_r_ukaar</string>
-		<string>bn_s_r_uukaar</string>
-		<string>bn_s_p_r_ukaar</string>
-		<string>bn_s_p_r_uukaar</string>
-		<string>bn_s_p_l_ukaar</string>
-		<string>bn_s_p_l_uukaar</string>
-		<string>bn_s_l_ukaar</string>
-		<string>bn_s_l_uukaar</string>
-		<string>bn_h_ukaar</string>
-		<string>bn_h_rikaar</string>
-		<string>asa_r_ukaar</string>
-		<string>asa_r_uukaar</string>
-		<string>asa_b_ukaar</string>
-		<string>asa_b_uukaar</string>
-		<string>bn_k_halanth</string>
-		<string>bn_kh_halanth</string>
-		<string>bn_g_halanth</string>
-		<string>bn_gh_halanth</string>
-		<string>bn_ng_halanth</string>
-		<string>bn_c_halanth</string>
-		<string>bn_ch_halanth</string>
-		<string>bn_j_halanth</string>
-		<string>bn_jh_halanth</string>
-		<string>bn_ny_halanth</string>
-		<string>bn_tt_halanth</string>
-		<string>bn_tth_halanth</string>
-		<string>bn_dd_halanth</string>
-		<string>bn_ddh_halanth</string>
-		<string>bn_nn_halanth</string>
-		<string>bn_t_halanth</string>
-		<string>bn_th_halanth</string>
-		<string>bn_d_halanth</string>
-		<string>bn_dh_halanth</string>
-		<string>bn_n_halanth</string>
-		<string>bn_p_halanth</string>
-		<string>bn_ph_halanth</string>
-		<string>bn_b_halanth</string>
-		<string>bn_bh_halanth</string>
-		<string>bn_m_halanth</string>
-		<string>bn_y_halanth</string>
-		<string>bn_r_halanth</string>
-		<string>bn_l_halanth</string>
-		<string>bn_sh_halanth</string>
-		<string>bn_ss_halanth</string>
-		<string>bn_s_halanth</string>
-		<string>bn_h_halanth</string>
-		<string>bn_rr_halanth</string>
-		<string>bn_rh_halanth</string>
-		<string>bn_yy_halanth</string>
-		<string>asa_ra_halanth</string>
-		<string>asa_ba_halanth</string>
-		<string>bn_r_ya</string>
-		<string>bn_danda</string>
-		<string>bn_doubledanda</string>
-		<string>bn_ukaar.upper</string>
-		<string>bn_uukaar.upper</string>
-		<string>bn_rikaar.upper</string>
-		<string>bn_rrikaar.upper</string>
-		<string>bn_ukaar.up_inner</string>
-		<string>bn_uukaar.up_inner</string>
-		<string>bn_rikaar.up_inner</string>
-		<string>bn_rrikaar.up_inner</string>
-		<string>bn_tta_ikaar</string>
-		<string>bn_tt_ra_ikaar</string>
-		<string>bn_k_tta_ikaar</string>
-		<string>bn_k_tt_ra_ikaar</string>
-		<string>bn_tt_tt_ra_ikaar</string>
-		<string>bn_tt_tta_ikaar</string>
-		<string>bn_tt_ma_ikaar</string>
-		<string>bn_nn_ttha_ikaar</string>
-		<string>bn_n_ttha_ikaar</string>
-		<string>bn_ph_tta_ikaar</string>
-		<string>bn_ss_tta_ikaar</string>
-		<string>bn_ss_tt_ra_ikaar</string>
-		<string>bn_s_tta_ikaar</string>
-		<string>bn_s_tt_ra_ikaar</string>
-		<string>bn_tt_ba_ikaar</string>
-		<string>bn_tta_iikaar</string>
-		<string>bn_ttha_iikaar</string>
-		<string>bn_tt_ra_iikaar</string>
-		<string>bn_tth_ra_iikaar</string>
-		<string>bn_k_tta_iikaar</string>
-		<string>bn_k_tt_ra_iikaar</string>
-		<string>bn_tt_tt_ra_iikaar</string>
-		<string>bn_tt_tta_iikaar</string>
-		<string>bn_tt_ma_iikaar</string>
-		<string>bn_nn_tta_iikaar</string>
-		<string>bn_nn_tt_ra_iikaar</string>
-		<string>bn_nn_ttha_iikaar</string>
-		<string>bn_n_tta_iikaar</string>
-		<string>bn_n_tt_ra_iikaar</string>
-		<string>bn_n_ttha_iikaar</string>
-		<string>bn_p_tta_iikaar</string>
-		<string>bn_ph_tta_iikaar</string>
-		<string>bn_l_tta_iikaar</string>
-		<string>bn_l_tt_ra_iikaar</string>
-		<string>bn_ss_tta_iikaar</string>
-		<string>bn_ss_tt_ra_iikaar</string>
-		<string>bn_ss_ttha_iikaar</string>
-		<string>bn_s_tta_iikaar</string>
-		<string>bn_s_tt_ra_iikaar</string>
-		<string>bn_tt_ba_iikaar</string>
-		<string>bn_chandrabindu.25CC</string>
-		<string>bn_anusvar.25CC</string>
-		<string>bn_bisarga.25CC</string>
-		<string>bn_nukta.25CC</string>
-		<string>bn_aakaar.25CC</string>
-		<string>bn_ikaar.25CC</string>
-		<string>bn_iikaar.25CC</string>
-		<string>bn_ukaar.25CC</string>
-		<string>bn_uukaar.25CC</string>
-		<string>bn_rikaar.25CC</string>
-		<string>bn_rrikaar.25CC</string>
-		<string>bn_ekaar.25CC</string>
-		<string>bn_aikaar.25CC</string>
-		<string>bn_halanth.25CC</string>
-		<string>bn_aumark.25CC</string>
-		<string>bn_aakaar</string>
-		<string>bn_aumark</string>
-		<string>bn_jha_ukaar</string>
-		<string>bn_jha_uukaar</string>
-		<string>bn_rra.001</string>
-		<string>bn_rha.001</string>
-		<string>bn_yya.001</string>
-		<string>uni20B9.rupee</string>
-		<string>ZWNJ.visible</string>
-		<string>ZWJ.visible</string>
-		<string>NBSPACE</string>
-		<string>bn_ukaar.mark</string>
-		<string>bn_uukaar.mark</string>
-		<string>bn_rikaar.mark</string>
-		<string>bn_rrikaar.mark</string>
-		<string>bn_reph.25CC</string>
-		<string>bn_llikaar.25CC</string>
-		<string>bn_ra_phala.25CC</string>
-		<string>bn_likaar.25CC</string>
+		<string>bn_h_ma</string>
+		<string>bn_h_ra</string>
+		<string>bn_h_la</string>
+		<string>bn_h_yya</string>
+		<string>bn_rr_ga</string>
+		<string>asa_ra_ukaar</string>
+		<string>asa_ra_uukaar</string>
+		<string>asa_ba_ukaar</string>
+		<string>asa_ba_uukaar</string>
+		<string>bn_reph</string>
+		<string>bn_iikaar_reph</string>
+		<string>bn_aumark_reph</string>
+		<string>bn_ba_phala</string>
+		<string>bn_ya_phala</string>
+		<string>bn_ra_phala</string>
+		<string>uni25CC</string>
 	</array>
 </dict>
 </plist>
