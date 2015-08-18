@@ -74,6 +74,7 @@ feature init{
 }init;
 
 
+
 feature pres {
     sub bn_ra bn_ukaar by bn_r_ukaar; 
     sub bn_ikaar bn_tta by bn_tta_ikaar;   
