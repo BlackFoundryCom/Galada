@@ -30,14 +30,14 @@
       <point x="542" y="205" type="curve" smooth="yes"/>
       <point x="542" y="145"/>
       <point x="475" y="114"/>
-      <point x="404" y="114" type="curve"/>
-      <point x="158.431216931" y="114.0"/>
-      <point x="35" y="281"/>
+      <point x="404" y="114" type="curve" smooth="yes"/>
+      <point x="159" y="114"/>
+      <point x="35.0200036428" y="280.854373481"/>
       <point x="10" y="463" type="curve"/>
       <point x="-23" y="463" type="line"/>
-      <point x="-1" y="201"/>
-      <point x="149.824519231" y="-10.0"/>
-      <point x="409" y="-10" type="curve"/>
+      <point x="-0.993962548698" y="200.928099444"/>
+      <point x="150" y="-10"/>
+      <point x="409" y="-10" type="curve" smooth="yes"/>
       <point x="509" y="-10"/>
       <point x="609" y="79"/>
       <point x="609" y="213" type="curve" smooth="yes"/>
