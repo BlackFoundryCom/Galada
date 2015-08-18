@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_aukaar" format="1">
-  <advance width="1"/>
+  <advance width="1372"/>
   <unicode hex="09CC"/>
   <outline>
+    <component base="bn_ekaar"/>
+    <component base="uni25CC" xOffset="320"/>
+    <component base="bn_aakaar" xOffset="1090"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>
