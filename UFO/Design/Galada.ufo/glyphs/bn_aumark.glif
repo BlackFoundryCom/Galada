@@ -28,7 +28,7 @@
       <point x="179" y="588" type="curve"/>
     </contour>
     <contour>
-      <point x="179" y="710" type="move" smooth="yes"/>
+      <point x="179" y="710" type="line" smooth="yes"/>
       <point x="179" y="743"/>
       <point x="158" y="760"/>
       <point x="22" y="760" type="curve" smooth="yes"/>
