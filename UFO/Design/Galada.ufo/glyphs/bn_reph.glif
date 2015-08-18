@@ -2,6 +2,9 @@
 <glyph name="bn_reph" format="1">
   <advance width="282"/>
   <outline>
+    <contour>
+      <point x="99" y="751" type="move"/>
+    </contour>
     <component base="bn_aakaar"/>
   </outline>
 </glyph>
