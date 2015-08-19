@@ -2,6 +2,28 @@
 <glyph name="bn_d_na" format="1">
   <advance width="491"/>
   <outline>
+    <contour>
+      <point x="82" y="20" type="line"/>
+      <point x="205" y="8"/>
+      <point x="248" y="-90"/>
+      <point x="232" y="-162" type="curve"/>
+      <point x="267" y="-136" type="line"/>
+      <point x="292" y="-19"/>
+      <point x="202" y="90"/>
+      <point x="82" y="90" type="curve" smooth="yes"/>
+      <point x="15" y="90"/>
+      <point x="-29" y="44"/>
+      <point x="-29" y="-16" type="curve" smooth="yes"/>
+      <point x="-29" y="-74"/>
+      <point x="10" y="-119"/>
+      <point x="74" y="-119" type="curve" smooth="yes"/>
+      <point x="115" y="-119"/>
+      <point x="166" y="-93"/>
+      <point x="166" y="-31" type="curve" smooth="yes"/>
+      <point x="166" y="-3"/>
+      <point x="153" y="45"/>
+      <point x="79" y="45" type="curve"/>
+    </contour>
     <component base="bn_da"/>
   </outline>
 </glyph>
