@@ -165,7 +165,7 @@
       <point x="1046" y="681"/>
     </contour>
     <contour>
-      <point x="903" y="414" type="move"/>
+      <point x="903" y="414" type="line"/>
       <point x="751.0" y="-300.0" type="line" smooth="yes"/>
       <point x="866.0" y="-300.0" type="line" smooth="yes"/>
       <point x="1003" y="351" type="line"/>
@@ -177,7 +177,6 @@
       <point x="570.0" y="386.0"/>
       <point x="766.0" y="303.0"/>
       <point x="942" y="349" type="curve"/>
-      <point x="914" y="368" type="line"/>
     </contour>
     <contour>
       <point x="293.0" y="0.0" type="move" name="blwm"/>
