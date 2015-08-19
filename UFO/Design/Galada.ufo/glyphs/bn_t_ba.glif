@@ -45,6 +45,27 @@
       <point x="416" y="166" type="line"/>
     </contour>
     <contour>
+      <point x="452" y="318" type="line"/>
+      <point x="333" y="270"/>
+      <point x="220" y="215"/>
+      <point x="104" y="146" type="curve"/>
+      <point x="128" y="34" type="line"/>
+      <point x="132" y="34" type="line" smooth="yes"/>
+      <point x="204" y="34"/>
+      <point x="285" y="4"/>
+      <point x="285" y="-73" type="curve"/>
+      <point x="300" y="-61" type="line"/>
+      <point x="303" y="-46"/>
+      <point x="306" y="-39"/>
+      <point x="306" y="-31" type="curve" smooth="yes"/>
+      <point x="306" y="16"/>
+      <point x="274" y="67"/>
+      <point x="222" y="91" type="curve"/>
+      <point x="284" y="129"/>
+      <point x="347" y="162"/>
+      <point x="412" y="192" type="curve"/>
+    </contour>
+    <contour>
       <point x="312.0" y="48.0" type="move" name="blwm"/>
     </contour>
   </outline>
