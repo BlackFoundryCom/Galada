@@ -33,21 +33,6 @@
       <point x="377.0" y="-162.0" type="line"/>
       <point x="429.0" y="84.0" type="line"/>
     </contour>
-    <contour>
-      <point x="587.0" y="681.0" type="line"/>
-      <point x="576.0" y="681.0" type="line" smooth="yes"/>
-      <point x="527.0" y="681.0"/>
-      <point x="512.0" y="724.0"/>
-      <point x="512.0" y="848.0" type="curve"/>
-      <point x="478.0" y="848.0" type="line"/>
-      <point x="316.0" y="90.0" type="line"/>
-      <point x="429.0" y="84.0" type="line"/>
-      <point x="541.0" y="621.0" type="line"/>
-      <point x="552.0" y="589.0"/>
-      <point x="571.0" y="567.0"/>
-      <point x="595.0" y="567.0" type="curve" smooth="yes"/>
-      <point x="603.0" y="567.0" type="line"/>
-    </contour>
     <component base="bn_nga"/>
   </outline>
 </glyph>
