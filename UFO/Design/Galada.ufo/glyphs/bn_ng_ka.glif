@@ -74,16 +74,14 @@
       <point x="650" y="681" type="line"/>
     </contour>
     <contour>
-      <point x="160" y="495" type="move"/>
-      <point x="160" y="562"/>
-      <point x="114" y="631"/>
-      <point x="58" y="664" type="curve"/>
-    </contour>
-    <contour>
-      <point x="17" y="580" type="move"/>
-      <point x="81" y="558"/>
+      <point x="131.0" y="453.0" type="move" smooth="yes"/>
       <point x="131.0" y="515.0"/>
-      <point x="131.0" y="453.0" type="curve" smooth="yes"/>
+      <point x="81" y="558"/>
+      <point x="17" y="580" type="curve"/>
+      <point x="58" y="664" type="line"/>
+      <point x="114" y="631"/>
+      <point x="160" y="562"/>
+      <point x="160" y="495" type="curve"/>
     </contour>
   </outline>
 </glyph>
