@@ -56,56 +56,6 @@
       <point x="245" y="247"/>
       <point x="184" y="291" type="curve"/>
     </contour>
-    <contour>
-      <point x="-66" y="701" type="curve" smooth="yes"/>
-      <point x="-198" y="701"/>
-      <point x="-287" y="626"/>
-      <point x="-299" y="499" type="curve"/>
-      <point x="-238" y="428" type="line"/>
-      <point x="-178" y="452"/>
-      <point x="-101" y="476"/>
-      <point x="-55" y="476" type="curve" smooth="yes"/>
-      <point x="-29" y="476"/>
-      <point x="-16" y="465"/>
-      <point x="-16" y="452" type="curve" smooth="yes"/>
-      <point x="-16" y="431"/>
-      <point x="-55" y="416"/>
-      <point x="-183" y="368" type="curve"/>
-      <point x="-94" y="266" type="line"/>
-      <point x="17" y="318"/>
-      <point x="49" y="384"/>
-      <point x="49" y="440" type="curve" smooth="yes"/>
-      <point x="49" y="498"/>
-      <point x="3" y="552"/>
-      <point x="-80" y="552" type="curve" smooth="yes"/>
-      <point x="-94" y="552"/>
-      <point x="-110" y="552"/>
-      <point x="-131" y="547" type="curve"/>
-      <point x="-122" y="582"/>
-      <point x="-98" y="608"/>
-      <point x="-35" y="608" type="curve"/>
-      <point x="26" y="608"/>
-      <point x="120" y="568"/>
-      <point x="89" y="432" type="curve"/>
-      <point x="116" y="468" type="line"/>
-      <point x="158" y="606"/>
-      <point x="53" y="701"/>
-    </contour>
-    <contour>
-      <point x="89" y="-73" type="line"/>
-      <point x="246" y="621" type="line"/>
-      <point x="257" y="589"/>
-      <point x="276" y="567"/>
-      <point x="300" y="567" type="curve" smooth="yes"/>
-      <point x="455" y="567" type="line"/>
-      <point x="439" y="681" type="line"/>
-      <point x="281" y="681" type="line" smooth="yes"/>
-      <point x="232" y="681"/>
-      <point x="217" y="724"/>
-      <point x="217" y="848" type="curve"/>
-      <point x="183" y="848" type="line"/>
-      <point x="-25" y="-73" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
