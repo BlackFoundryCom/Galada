@@ -27,8 +27,8 @@
       <point x="337" y="-13"/>
       <point x="390" y="-9" type="curve"/>
       <point x="401" y="84" type="line"/>
-      <point x="315.005540545" y="80.0002576998"/>
-      <point x="198" y="35"/>
+      <point x="315.003712599" y="80.000172679"/>
+      <point x="198.531451392" y="35.6573301226"/>
       <point x="132" y="-13" type="curve"/>
       <point x="153" y="-102" type="line"/>
       <point x="157" y="-102" type="line" smooth="yes"/>
@@ -37,12 +37,12 @@
     </contour>
     <contour>
       <point x="436" y="253" type="line"/>
-      <point x="398.106514186" y="197.695993676"/>
-      <point x="338" y="9"/>
+      <point x="398.044490678" y="197.605472881"/>
+      <point x="337.882582496" y="9.19216757176"/>
       <point x="313" y="-162" type="curve"/>
       <point x="413" y="-162" type="line"/>
-      <point x="437" y="-24"/>
-      <point x="486.766321784" y="141.244785318"/>
+      <point x="436.894553445" y="-23.6107113006"/>
+      <point x="486.650375434" y="140.985838469"/>
       <point x="548" y="278" type="curve"/>
       <point x="490" y="370" type="line"/>
       <point x="403" y="318"/>
@@ -710,6 +710,13 @@
           <integer>621</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0008</real>
+        <real>0.8221</real>
+        <real>0.2832</real>
+        <real>0.8</real>
+      </array>
     </dict>
   </lib>
 </glyph>
