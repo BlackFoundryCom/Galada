@@ -107,7 +107,7 @@
     </contour>
     <contour>
       <point x="4" y="14" type="curve" smooth="yes"/>
-      <point x="-88.2352941176" y="14.0"/>
+      <point x="-88" y="14"/>
       <point x="-108" y="32"/>
       <point x="-108" y="54" type="curve" smooth="yes"/>
       <point x="-108" y="76"/>
@@ -117,11 +117,11 @@
       <point x="-140" y="89"/>
       <point x="-158" y="49"/>
       <point x="-158" y="4" type="curve" smooth="yes"/>
-      <point x="-158" y="-57"/>
-      <point x="-118.595854922" y="-99.0"/>
-      <point x="11" y="-99" type="curve" smooth="yes"/>
-      <point x="130" y="-99"/>
-      <point x="157" y="-120"/>
+      <point x="-158.0" y="-59.9611650485"/>
+      <point x="-113" y="-104"/>
+      <point x="38" y="-104" type="curve" smooth="yes"/>
+      <point x="135" y="-104"/>
+      <point x="157.0" y="-123.333333333"/>
       <point x="157" y="-162" type="curve"/>
       <point x="163" y="-146" type="line"/>
       <point x="168" y="-133"/>
