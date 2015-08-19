@@ -90,37 +90,6 @@
       <point x="527" y="848" type="curve"/>
       <point x="493" y="848" type="line"/>
     </contour>
-    <contour>
-      <point x="256" y="-53" type="line"/>
-      <point x="187" y="-392" type="line"/>
-      <point x="302" y="-392" type="line"/>
-      <point x="387" y="34" type="line"/>
-    </contour>
-    <contour>
-      <point x="44" y="-216" type="curve" smooth="yes"/>
-      <point x="-60" y="-216"/>
-      <point x="-82" y="-190"/>
-      <point x="-82" y="-158" type="curve" smooth="yes"/>
-      <point x="-82" y="-136"/>
-      <point x="-69" y="-105"/>
-      <point x="-50" y="-85" type="curve"/>
-      <point x="-83" y="-85" type="line"/>
-      <point x="-114" y="-123"/>
-      <point x="-132" y="-163"/>
-      <point x="-132" y="-208" type="curve" smooth="yes"/>
-      <point x="-132" y="-280"/>
-      <point x="-89" y="-329"/>
-      <point x="51" y="-329" type="curve" smooth="yes"/>
-      <point x="162" y="-329"/>
-      <point x="187" y="-350"/>
-      <point x="187" y="-392" type="curve"/>
-      <point x="193" y="-376" type="line"/>
-      <point x="198" y="-363"/>
-      <point x="204" y="-353"/>
-      <point x="204" y="-342" type="curve" smooth="yes"/>
-      <point x="204" y="-276"/>
-      <point x="175" y="-216"/>
-    </contour>
   </outline>
   <lib>
     <dict>
