@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_t_ta" format="1">
-  <advance width="503"/>
+  <advance width="603"/>
   <outline>
     <contour>
       <point x="605" y="567" type="line"/>
@@ -70,10 +70,10 @@
       <point x="156" y="402" type="curve"/>
     </contour>
     <contour>
-      <point x="302" y="48" type="move" name="blwm"/>
+      <point x="302.0" y="48.0" type="move" name="blwm"/>
     </contour>
     <contour>
-      <point x="269" y="-2" type="move" name="blwm"/>
+      <point x="269.0" y="-2.0" type="move" name="blwm"/>
     </contour>
   </outline>
   <lib>
@@ -402,7 +402,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>503</integer>
+          <integer>603</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
