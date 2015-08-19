@@ -121,6 +121,23 @@
       <point x="385" y="75"/>
     </contour>
     <contour>
+      <point x="309" y="498" type="move"/>
+      <point x="218" y="509"/>
+      <point x="188" y="519"/>
+      <point x="188" y="561" type="curve"/>
+      <point x="168" y="515" type="line"/>
+      <point x="157" y="460"/>
+      <point x="178" y="442"/>
+      <point x="217" y="432" type="curve" smooth="yes"/>
+      <point x="246" y="424"/>
+      <point x="254" y="418"/>
+      <point x="254" y="399" type="curve" smooth="yes"/>
+      <point x="254" y="348"/>
+      <point x="192" y="262"/>
+      <point x="149" y="262" type="curve" smooth="yes"/>
+      <point x="131" y="262"/>
+      <point x="122" y="272"/>
+      <point x="130" y="307" type="curve" smooth="yes"/>
       <point x="162" y="443" type="line" smooth="yes"/>
       <point x="184" y="535"/>
       <point x="212" y="567"/>
@@ -138,6 +155,9 @@
       <point x="278" y="195"/>
       <point x="369" y="307"/>
       <point x="379" y="384" type="curve"/>
+    </contour>
+    <contour>
+      <point x="379" y="384" type="move"/>
       <point x="401" y="370"/>
       <point x="415" y="343"/>
       <point x="415" y="305" type="curve" smooth="yes"/>
@@ -158,22 +178,6 @@
       <point x="502" y="411"/>
       <point x="430" y="483"/>
       <point x="309" y="498" type="curve" smooth="yes"/>
-      <point x="218" y="509"/>
-      <point x="188" y="519"/>
-      <point x="188" y="561" type="curve"/>
-      <point x="168" y="515" type="line"/>
-      <point x="157" y="460"/>
-      <point x="178" y="442"/>
-      <point x="217" y="432" type="curve" smooth="yes"/>
-      <point x="246" y="424"/>
-      <point x="254" y="418"/>
-      <point x="254" y="399" type="curve" smooth="yes"/>
-      <point x="254" y="348"/>
-      <point x="192" y="262"/>
-      <point x="149" y="262" type="curve" smooth="yes"/>
-      <point x="131" y="262"/>
-      <point x="122" y="272"/>
-      <point x="130" y="307" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="503.0" y="0.0" type="move" name="blwm"/>
