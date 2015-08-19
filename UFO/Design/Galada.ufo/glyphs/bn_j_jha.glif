@@ -118,24 +118,6 @@
       <point x="732" y="-258"/>
     </contour>
     <contour>
-      <point x="1029" y="355" type="curve"/>
-      <point x="959" y="483" type="line"/>
-      <point x="831" y="430"/>
-      <point x="623" y="442"/>
-      <point x="568" y="509" type="curve"/>
-      <point x="544" y="471" type="line"/>
-      <point x="570.0" y="386.0"/>
-      <point x="766.0" y="303.0"/>
-      <point x="942" y="349" type="curve"/>
-      <point x="914" y="368" type="line"/>
-      <point x="847" y="229"/>
-      <point x="787" y="-56"/>
-      <point x="751" y="-300" type="curve"/>
-      <point x="830" y="-300" type="line"/>
-      <point x="861" y="-50"/>
-      <point x="922" y="185"/>
-    </contour>
-    <contour>
       <point x="961" y="-245" type="curve"/>
       <point x="976" y="-233" type="line"/>
       <point x="979" y="-218"/>
@@ -181,6 +163,28 @@
       <point x="1149" y="533" type="line"/>
       <point x="1116" y="625"/>
       <point x="1046" y="681"/>
+    </contour>
+    <contour>
+      <point x="914" y="368" type="move"/>
+      <point x="847" y="229"/>
+      <point x="787" y="-56"/>
+      <point x="751" y="-300" type="curve"/>
+      <point x="830" y="-300" type="line"/>
+      <point x="861" y="-50"/>
+      <point x="922" y="185"/>
+      <point x="1029" y="355" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1029" y="355" type="move"/>
+      <point x="959" y="483" type="line"/>
+      <point x="831" y="430"/>
+      <point x="623" y="442"/>
+      <point x="568" y="509" type="curve"/>
+      <point x="544" y="471" type="line"/>
+      <point x="570.0" y="386.0"/>
+      <point x="766.0" y="303.0"/>
+      <point x="942" y="349" type="curve"/>
+      <point x="914" y="368" type="line"/>
     </contour>
     <contour>
       <point x="293.0" y="0.0" type="move" name="blwm"/>
