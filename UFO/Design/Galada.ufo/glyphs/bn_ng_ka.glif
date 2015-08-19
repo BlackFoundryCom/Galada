@@ -74,14 +74,14 @@
       <point x="650" y="681" type="line"/>
     </contour>
     <contour>
-      <point x="131" y="453" type="line"/>
-      <point x="131" y="515"/>
-      <point x="81" y="558"/>
-      <point x="17" y="580" type="curve"/>
-      <point x="58" y="664" type="line"/>
-      <point x="114" y="631"/>
+      <point x="131" y="453" type="curve"/>
+      <point x="160" y="495" type="line"/>
       <point x="160" y="562"/>
-      <point x="160" y="495" type="curve"/>
+      <point x="114" y="631"/>
+      <point x="58" y="664" type="curve"/>
+      <point x="17" y="580" type="line"/>
+      <point x="81" y="558"/>
+      <point x="131" y="515"/>
     </contour>
   </outline>
 </glyph>
