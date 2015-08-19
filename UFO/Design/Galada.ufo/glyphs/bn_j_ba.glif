@@ -88,6 +88,17 @@
       <point x="402" y="612" type="curve"/>
     </contour>
     <contour>
+      <point x="1100" y="567" type="move"/>
+      <point x="1084" y="681" type="line"/>
+    </contour>
+    <contour>
+      <point x="1029" y="355" type="move"/>
+      <point x="959" y="483" type="line"/>
+    </contour>
+    <contour>
+      <point x="942" y="349" type="move"/>
+    </contour>
+    <contour>
       <point x="293.0" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
