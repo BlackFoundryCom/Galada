@@ -88,20 +88,6 @@
       <point x="241" y="681" type="line"/>
       <point x="257" y="567" type="line"/>
     </contour>
-    <contour>
-      <point x="758" y="494" type="line" smooth="yes"/>
-      <point x="769" y="546"/>
-      <point x="791" y="567"/>
-      <point x="821" y="567" type="curve" smooth="yes"/>
-      <point x="847" y="567" type="line"/>
-      <point x="831" y="681" type="line"/>
-      <point x="801" y="681" type="line" smooth="yes"/>
-      <point x="718" y="681"/>
-      <point x="673" y="623"/>
-      <point x="655" y="538" type="curve" smooth="yes"/>
-      <point x="541" y="0" type="line" smooth="yes"/>
-      <point x="656" y="0" type="line" smooth="yes"/>
-    </contour>
   </outline>
   <lib>
     <dict>
