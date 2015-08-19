@@ -80,8 +80,8 @@
       <point x="58" y="664" type="curve"/>
     </contour>
     <contour>
-      <point x="17.0" y="580.0" type="move" smooth="yes"/>
-      <point x="81.0" y="558.0"/>
+      <point x="17" y="580" type="move"/>
+      <point x="81" y="558"/>
       <point x="131.0" y="515.0"/>
       <point x="131.0" y="453.0" type="curve" smooth="yes"/>
     </contour>
