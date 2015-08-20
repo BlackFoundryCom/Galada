@@ -32,6 +32,12 @@
       <point x="347" y="-350" type="line"/>
       <point x="424" y="15" type="line"/>
     </contour>
+    <contour>
+      <point x="822" y="567" type="line"/>
+      <point x="806" y="681" type="line"/>
+      <point x="-23" y="681" type="line"/>
+      <point x="-7" y="567" type="line"/>
+    </contour>
     <component base="bn_k_ta"/>
   </outline>
   <lib>
