@@ -10,15 +10,32 @@
       <point x="-93" y="-117"/>
       <point x="-134" y="-100" type="curve"/>
       <point x="-104" y="-83"/>
-      <point x="-60.1661458304" y="-67.4938731057"/>
+      <point x="-60" y="-67"/>
       <point x="-17" y="-62" type="curve"/>
       <point x="-17" y="32" type="line"/>
-      <point x="-89.7054878477" y="28.4961210676"/>
+      <point x="-90" y="28"/>
       <point x="-186" y="-11"/>
       <point x="-243" y="-53" type="curve"/>
       <point x="-221" y="-132" type="line"/>
       <point x="-135" y="-152"/>
-      <point x="-55.4233845597" y="-200.04725091"/>
+      <point x="-55" y="-200"/>
+    </contour>
+    <contour>
+      <point x="-17" y="-251" type="curve"/>
+      <point x="-17" y="-180" type="line"/>
+      <point x="-48" y="-146"/>
+      <point x="-93" y="-117"/>
+      <point x="-134" y="-100" type="curve"/>
+      <point x="-104" y="-83"/>
+      <point x="-60" y="-67"/>
+      <point x="-17" y="-62" type="curve"/>
+      <point x="-17" y="32" type="line"/>
+      <point x="-90" y="28"/>
+      <point x="-186" y="-11"/>
+      <point x="-243" y="-53" type="curve"/>
+      <point x="-221" y="-132" type="line"/>
+      <point x="-135" y="-152"/>
+      <point x="-55" y="-200"/>
     </contour>
   </outline>
 </glyph>
