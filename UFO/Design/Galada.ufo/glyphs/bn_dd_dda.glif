@@ -47,18 +47,6 @@
       <point x="153" y="616"/>
     </contour>
     <contour>
-      <point x="-7" y="567" type="line"/>
-      <point x="38" y="567" type="line" smooth="yes"/>
-      <point x="113" y="567"/>
-      <point x="130" y="554"/>
-      <point x="154" y="521" type="curve"/>
-      <point x="173" y="546" type="line"/>
-      <point x="136" y="622"/>
-      <point x="83" y="681"/>
-      <point x="-8" y="681" type="curve" smooth="yes"/>
-      <point x="-23" y="681" type="line"/>
-    </contour>
-    <contour>
       <point x="323.0" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
