@@ -50,6 +50,12 @@
       <point x="178" y="410"/>
       <point x="101" y="333" type="curve"/>
     </contour>
+    <contour>
+      <point x="605" y="567" type="line"/>
+      <point x="589" y="681" type="line"/>
+      <point x="-23" y="681" type="line"/>
+      <point x="-7" y="567" type="line"/>
+    </contour>
     <component base="bn_bha"/>
   </outline>
   <lib>
