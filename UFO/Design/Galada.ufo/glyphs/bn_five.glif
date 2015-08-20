@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_five" format="1">
-  <advance width="609"/>
+  <advance width="646.0"/>
   <unicode hex="09EB"/>
   <outline>
-    <component base="bn_five.pnum"/>
+    <component base="bn_five.pnum" xOffset="37.0"/>
   </outline>
   <lib>
     <dict>
