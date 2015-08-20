@@ -20,5 +20,22 @@
       <point x="-118" y="-191"/>
       <point x="-62.8598681566" y="-240.18582701"/>
     </contour>
+    <contour>
+      <point x="-17" y="-301" type="curve"/>
+      <point x="-17" y="-230" type="line"/>
+      <point x="-61" y="-180"/>
+      <point x="-117" y="-140"/>
+      <point x="-166" y="-112" type="curve"/>
+      <point x="-127" y="-90"/>
+      <point x="-72" y="-69"/>
+      <point x="-17" y="-62" type="curve"/>
+      <point x="-17" y="32" type="line"/>
+      <point x="-100" y="28"/>
+      <point x="-210" y="-17"/>
+      <point x="-275" y="-65" type="curve"/>
+      <point x="-253" y="-144" type="line"/>
+      <point x="-118" y="-191"/>
+      <point x="-63" y="-240"/>
+    </contour>
   </outline>
 </glyph>
