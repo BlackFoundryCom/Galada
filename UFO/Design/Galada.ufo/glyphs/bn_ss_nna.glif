@@ -101,10 +101,10 @@
       <point x="522" y="189"/>
     </contour>
     <contour>
-      <point x="322" y="538" type="move"/>
+      <point x="322" y="538" type="line"/>
       <point x="208" y="0" type="line" smooth="yes"/>
       <point x="323" y="0" type="line" smooth="yes"/>
-      <point x="425" y="494" type="line" smooth="yes"/>
+      <point x="425" y="494" type="line"/>
     </contour>
     <contour>
       <point x="272.0" y="0.0" type="move" name="blwm"/>
