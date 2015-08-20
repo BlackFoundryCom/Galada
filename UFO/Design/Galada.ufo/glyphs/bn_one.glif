@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_one" format="1">
-  <advance width="600"/>
+  <advance width="674.5"/>
   <unicode hex="09E7"/>
   <outline>
-    <component base="bn_one.pnum"/>
+    <component base="bn_one.pnum" xOffset="74.5"/>
   </outline>
   <lib>
     <dict>
