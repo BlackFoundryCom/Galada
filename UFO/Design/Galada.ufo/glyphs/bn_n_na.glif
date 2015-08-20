@@ -29,26 +29,26 @@
       <point x="263" y="0" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="53" y="366" type="line"/>
-      <point x="153.909090909" y="323.727272727"/>
+      <point x="72" y="380" type="line"/>
+      <point x="157" y="344"/>
       <point x="183" y="165"/>
       <point x="148" y="0" type="curve"/>
       <point x="183" y="26" type="line"/>
-      <point x="241.5" y="297.227272727"/>
-      <point x="169.610526316" y="449.0"/>
-      <point x="60" y="449" type="curve"/>
-      <point x="-6" y="449"/>
-      <point x="-46" y="404"/>
-      <point x="-46" y="343" type="curve" smooth="yes"/>
-      <point x="-46" y="285"/>
-      <point x="-7" y="240"/>
-      <point x="57" y="240" type="curve" smooth="yes"/>
-      <point x="98" y="240"/>
-      <point x="149" y="266"/>
-      <point x="149" y="328" type="curve" smooth="yes"/>
-      <point x="149" y="356"/>
-      <point x="136" y="404"/>
-      <point x="62" y="404" type="curve"/>
+      <point x="242" y="297"/>
+      <point x="170" y="449"/>
+      <point x="78" y="449" type="curve"/>
+      <point x="23" y="449"/>
+      <point x="-11" y="411"/>
+      <point x="-11" y="360" type="curve" smooth="yes"/>
+      <point x="-11" y="312"/>
+      <point x="22" y="274"/>
+      <point x="75" y="274" type="curve" smooth="yes"/>
+      <point x="110" y="274"/>
+      <point x="152" y="296"/>
+      <point x="152" y="348" type="curve" smooth="yes"/>
+      <point x="152" y="371"/>
+      <point x="142" y="411"/>
+      <point x="80" y="411" type="curve"/>
     </contour>
     <contour>
       <point x="-30.0" y="567.0" type="move" name="abvm"/>
