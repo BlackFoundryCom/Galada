@@ -77,7 +77,9 @@
       <point x="304" y="89"/>
       <point x="272" y="140"/>
       <point x="220" y="164" type="curve"/>
-      <point x="399" y="228" type="line"/>
+      <point x="280" y="194"/>
+      <point x="339" y="216"/>
+      <point x="399" y="228" type="curve"/>
     </contour>
     <contour>
       <point x="347.0" y="0.0" type="move" name="blwm"/>
