@@ -9,19 +9,19 @@
       <point x="492" y="40" type="line"/>
     </contour>
     <contour>
-      <point x="94" y="-98" type="curve" smooth="yes"/>
-      <point x="34" y="-98"/>
-      <point x="13" y="-80"/>
-      <point x="13" y="-42" type="curve" smooth="yes"/>
-      <point x="13" y="-13"/>
-      <point x="28" y="22"/>
-      <point x="57" y="52" type="curve"/>
-      <point x="-13" y="52" type="line"/>
-      <point x="-31" y="29"/>
-      <point x="-41" y="-10"/>
-      <point x="-41" y="-47" type="curve" smooth="yes"/>
-      <point x="-41" y="-148"/>
-      <point x="56.0796460177" y="-225.0"/>
+      <point x="84" y="-98" type="curve" smooth="yes"/>
+      <point x="24" y="-98"/>
+      <point x="3" y="-80"/>
+      <point x="3" y="-42" type="curve" smooth="yes"/>
+      <point x="3" y="-13"/>
+      <point x="18" y="22"/>
+      <point x="47" y="52" type="curve"/>
+      <point x="-23" y="52" type="line"/>
+      <point x="-41" y="29"/>
+      <point x="-51" y="-10"/>
+      <point x="-51" y="-47" type="curve" smooth="yes"/>
+      <point x="-51" y="-148"/>
+      <point x="49.6194690265" y="-225.0"/>
       <point x="215" y="-225" type="curve" smooth="yes"/>
       <point x="281" y="-225"/>
       <point x="312" y="-236"/>
@@ -34,7 +34,7 @@
       <point x="339" y="-239"/>
       <point x="339" y="-223" type="curve" smooth="yes"/>
       <point x="339.0" y="-145.0"/>
-      <point x="230" y="-98"/>
+      <point x="225" y="-98"/>
     </contour>
     <component base="bn_k_tta"/>
   </outline>
