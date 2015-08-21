@@ -4,9 +4,9 @@
   <unicode hex="0993"/>
   <outline>
     <contour>
-      <point x="10" y="463" type="move"/>
-      <point x="10" y="182"/>
-      <point x="181" y="-10"/>
+      <point x="7" y="426" type="curve"/>
+      <point x="7" y="166"/>
+      <point x="179.966101695" y="-10.0"/>
       <point x="364" y="-10" type="curve" smooth="yes"/>
       <point x="478" y="-10"/>
       <point x="576" y="73"/>
@@ -66,7 +66,6 @@
       <point x="65" y="510" type="curve" smooth="yes"/>
       <point x="31" y="510"/>
       <point x="7" y="486"/>
-      <point x="7" y="426" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="363.0" y="0.0" type="move" name="blwm"/>
