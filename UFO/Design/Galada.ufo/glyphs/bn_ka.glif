@@ -91,9 +91,9 @@
               <key>name</key>
               <string>blwm</string>
               <key>x</key>
-              <integer>256</integer>
+              <real>256.0</real>
               <key>y</key>
-              <integer>0</integer>
+              <real>0.0</real>
             </dict>
           </array>
           <key>components</key>
@@ -677,10 +677,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.502</real>
-        <real>0.0</real>
         <real>1.0</real>
-        <real>0.63</real>
+        <real>0.3065</real>
+        <real>0.9735</real>
+        <real>0.7</real>
       </array>
     </dict>
   </lib>
