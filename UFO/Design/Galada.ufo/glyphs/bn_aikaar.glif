@@ -3,34 +3,6 @@
   <advance width="363"/>
   <unicode hex="09C8"/>
   <outline>
-    <contour>
-      <point x="269" y="635" type="line"/>
-      <point x="331" y="681"/>
-      <point x="367" y="728"/>
-      <point x="367" y="776" type="curve" smooth="yes"/>
-      <point x="367" y="839"/>
-      <point x="333" y="883"/>
-      <point x="198" y="883" type="curve" smooth="yes"/>
-      <point x="88" y="883"/>
-      <point x="43" y="898"/>
-      <point x="43" y="963" type="curve" smooth="yes"/>
-      <point x="43" y="978"/>
-      <point x="46" y="995"/>
-      <point x="51" y="1015" type="curve"/>
-      <point x="18" y="1015" type="line"/>
-      <point x="6" y="975"/>
-      <point x="-1" y="938"/>
-      <point x="-1" y="907" type="curve" smooth="yes"/>
-      <point x="-1" y="815"/>
-      <point x="42" y="760"/>
-      <point x="152" y="760" type="curve" smooth="yes"/>
-      <point x="262" y="760"/>
-      <point x="279" y="743"/>
-      <point x="279" y="710" type="curve" smooth="yes"/>
-      <point x="279" y="692"/>
-      <point x="270" y="678"/>
-      <point x="252" y="657" type="curve"/>
-    </contour>
     <component base="bn_ekaar"/>
   </outline>
   <lib>
