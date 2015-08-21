@@ -22,12 +22,12 @@
       <point x="-52" y="173" type="curve"/>
       <point x="-34" y="51" type="line"/>
       <point x="124.901276313" y="17.8117587447"/>
-      <point x="218" y="-55"/>
-      <point x="304" y="-157" type="curve"/>
-      <point x="327" y="-168"/>
-      <point x="347" y="-168"/>
-      <point x="364" y="-157" type="curve"/>
-      <point x="270" y="-36"/>
+      <point x="219" y="-60"/>
+      <point x="305" y="-162" type="curve"/>
+      <point x="328" y="-173"/>
+      <point x="348" y="-173"/>
+      <point x="365" y="-162" type="curve"/>
+      <point x="271" y="-41"/>
       <point x="204" y="32"/>
       <point x="144" y="71" type="curve"/>
       <point x="283" y="105"/>
@@ -50,7 +50,7 @@
       <point x="159" y="436" type="curve"/>
     </contour>
     <contour>
-      <point x="95" y="0" type="move" name="blwm"/>
+      <point x="95.0" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
   <lib>
