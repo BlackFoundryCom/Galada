@@ -99,12 +99,6 @@
       <point x="442" y="567"/>
       <point x="472" y="567" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="472" y="567" type="move"/>
-      <point x="498" y="567" type="line"/>
-      <point x="482" y="681" type="line"/>
-      <point x="452" y="681" type="line" smooth="yes"/>
-    </contour>
   </outline>
   <lib>
     <dict>
