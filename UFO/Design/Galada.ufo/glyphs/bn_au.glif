@@ -37,16 +37,6 @@
       <point x="298" y="902"/>
       <point x="298" y="928" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="298" y="928" type="move"/>
-      <point x="298" y="957"/>
-      <point x="312.0" y="989.0"/>
-      <point x="340" y="1015" type="curve"/>
-      <point x="267" y="1015" type="line"/>
-      <point x="248" y="987"/>
-      <point x="238" y="954"/>
-      <point x="238" y="925" type="curve" smooth="yes"/>
-    </contour>
     <component base="bn_o"/>
     <contour>
       <point x="323" y="0" type="move" name="blwm"/>
