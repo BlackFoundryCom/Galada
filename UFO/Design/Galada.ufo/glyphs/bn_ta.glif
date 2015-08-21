@@ -11,10 +11,10 @@
     </contour>
     <contour>
       <point x="275" y="-10" type="curve" smooth="yes"/>
-      <point x="425.166666667" y="-10.0"/>
-      <point x="547" y="85"/>
+      <point x="425" y="-10"/>
+      <point x="547.0" y="90.8352059925"/>
       <point x="547" y="237" type="curve" smooth="yes"/>
-      <point x="547" y="376"/>
+      <point x="547.0" y="381.592885375"/>
       <point x="426.097345133" y="510.0"/>
       <point x="271" y="510" type="curve" smooth="yes"/>
       <point x="196" y="510"/>
@@ -30,18 +30,18 @@
       <point x="396" y="420"/>
       <point x="375" y="450" type="curve"/>
       <point x="338" y="399" type="line"/>
-      <point x="429.019659518" y="394.999135845"/>
-      <point x="474" y="339"/>
+      <point x="429.041299935" y="394.998184618"/>
+      <point x="474.0" y="344.425531915"/>
       <point x="474" y="285" type="curve" smooth="yes"/>
-      <point x="474" y="188"/>
-      <point x="390.0" y="103.0"/>
-      <point x="249" y="103" type="curve" smooth="yes"/>
-      <point x="105" y="103"/>
+      <point x="474.0" y="193.099009901"/>
+      <point x="390" y="104"/>
+      <point x="249" y="104" type="curve" smooth="yes"/>
+      <point x="105" y="104"/>
       <point x="4.06711272651" y="210.782981809"/>
       <point x="28" y="490" type="curve"/>
       <point x="-45" y="490" type="line"/>
       <point x="-45.0" y="210.987654321"/>
-      <point x="89.9189189189" y="-10.0"/>
+      <point x="90" y="-10"/>
     </contour>
     <contour>
       <point x="312.0" y="48.0" type="move" name="blwm"/>
