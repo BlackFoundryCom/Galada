@@ -81,18 +81,22 @@
       <point x="203" y="23"/>
     </contour>
     <contour>
-      <point x="415" y="494" type="line" smooth="yes"/>
-      <point x="426" y="546"/>
-      <point x="448" y="567"/>
-      <point x="478" y="567" type="curve" smooth="yes"/>
-      <point x="676" y="567" type="line"/>
-      <point x="660" y="681" type="line"/>
-      <point x="458" y="681" type="line" smooth="yes"/>
+      <point x="458" y="681" type="move"/>
       <point x="375" y="681"/>
       <point x="330" y="623"/>
       <point x="312" y="538" type="curve" smooth="yes"/>
       <point x="198" y="0" type="line" smooth="yes"/>
       <point x="313" y="0" type="line" smooth="yes"/>
+      <point x="415" y="494" type="line" smooth="yes"/>
+      <point x="426" y="546"/>
+      <point x="448" y="567"/>
+      <point x="478" y="567" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="478" y="567" type="move"/>
+      <point x="676" y="567" type="line"/>
+      <point x="660" y="681" type="line"/>
+      <point x="458" y="681" type="line" smooth="yes"/>
     </contour>
     <component base="bn_ra"/>
   </outline>
