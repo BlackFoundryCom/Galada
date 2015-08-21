@@ -31,9 +31,9 @@
       <point x="335" y="678"/>
       <point x="312" y="657" type="curve"/>
     </contour>
-    <component base="bn_ha" xOffset="-42" yOffset="33"/>
+    <component base="bn_ha"/>
     <contour>
-      <point x="105" y="-4" type="move" name="blwm"/>
+      <point x="105.0" y="-4.0" type="move" name="blwm"/>
     </contour>
   </outline>
   <lib>
