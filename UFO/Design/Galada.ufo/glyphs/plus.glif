@@ -6,16 +6,32 @@
     <contour>
       <point x="345" y="439" type="line"/>
       <point x="232" y="439" type="line"/>
-      <point x="205" y="317" type="line"/>
+      <point x="205" y="317" type="line" name="hr01"/>
       <point x="77" y="317" type="line"/>
-      <point x="53" y="205" type="line"/>
+      <point x="53" y="205" type="line" name="hr02"/>
       <point x="181" y="205" type="line"/>
-      <point x="154" y="82" type="line"/>
+      <point x="154" y="82" type="line" name="hr03"/>
       <point x="267" y="82" type="line"/>
-      <point x="294" y="205" type="line"/>
+      <point x="294" y="205" type="line" name="hr04"/>
       <point x="422" y="205" type="line"/>
-      <point x="445" y="317" type="line"/>
+      <point x="445" y="317" type="line" name="hr05"/>
       <point x="318" y="317" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAg
+      IDxoc3RlbSBwb3M9IjgyIiB3aWR0aD0iMjM1IiAvPgogICAgPC9oaW50c2V0PgogICAg
+      PGhpbnRzZXQgcG9pbnRUYWc9ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSIyMDUiIHdp
+      ZHRoPSIxMTIiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0i
+      aHIwMyI+CiAgICAgIDxoc3RlbSBwb3M9IjgyIiB3aWR0aD0iMjM1IiAvPgogICAgPC9o
+      aW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDQiPgogICAgICA8aHN0ZW0g
+      cG9zPSIyMDUiIHdpZHRoPSIxMTIiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNl
+      dCBwb2ludFRhZz0iaHIwNSI+CiAgICAgIDxoc3RlbSBwb3M9IjIwNSIgd2lkdGg9IjIz
+      NCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
 </glyph>

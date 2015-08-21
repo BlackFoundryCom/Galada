@@ -10,29 +10,29 @@
       <point x="246" y="40" type="line"/>
       <point x="289" y="3"/>
       <point x="330" y="-13"/>
-      <point x="368" y="-13" type="curve" smooth="yes"/>
+      <point x="368" y="-13" type="curve" smooth="yes" name="hr01"/>
       <point x="516" y="-13"/>
-      <point x="645" y="222"/>
-      <point x="645" y="480" type="curve" smooth="yes"/>
-      <point x="645" y="621"/>
-      <point x="588" y="750"/>
-      <point x="357" y="750" type="curve" smooth="yes"/>
-      <point x="190" y="750"/>
+      <point x="645" y="232"/>
+      <point x="645" y="462" type="curve" smooth="yes"/>
+      <point x="645" y="615"/>
+      <point x="572" y="750"/>
+      <point x="378" y="750" type="curve" smooth="yes"/>
+      <point x="175" y="750"/>
       <point x="6" y="623"/>
-      <point x="6" y="490" type="curve" smooth="yes"/>
+      <point x="6" y="486" type="curve" smooth="yes"/>
       <point x="6" y="418"/>
-      <point x="44" y="393"/>
+      <point x="47" y="393"/>
       <point x="113" y="393" type="curve"/>
       <point x="112" y="402"/>
       <point x="99" y="410"/>
       <point x="99" y="461" type="curve" smooth="yes"/>
       <point x="99" y="613"/>
-      <point x="207" y="704"/>
-      <point x="369" y="704" type="curve" smooth="yes"/>
-      <point x="484" y="704"/>
-      <point x="507" y="633"/>
-      <point x="507" y="508" type="curve" smooth="yes"/>
-      <point x="507" y="316"/>
+      <point x="212" y="704"/>
+      <point x="361" y="704" type="curve" smooth="yes"/>
+      <point x="448" y="704"/>
+      <point x="507" y="651"/>
+      <point x="507" y="515" type="curve" smooth="yes"/>
+      <point x="507" y="313"/>
       <point x="434" y="75"/>
       <point x="315" y="75" type="curve" smooth="yes"/>
       <point x="296" y="75"/>
@@ -41,4 +41,16 @@
       <point x="378" y="656" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAg
+      IDxoc3RlbSBwb3M9Ii0xMyIgd2lkdGg9Ijg4IiAvPgogICAgICA8aHN0ZW0gcG9zPSI3
+      MDQiIHdpZHRoPSI0NiIgLz4KICAgICAgPHZzdGVtIHBvcz0iNiIgd2lkdGg9IjkzIiAv
+      PgogICAgICA8dnN0ZW0gcG9zPSI1MDciIHdpZHRoPSIxMzgiIC8+CiAgICA8L2hpbnRz
+      ZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+    </dict>
+  </lib>
 </glyph>

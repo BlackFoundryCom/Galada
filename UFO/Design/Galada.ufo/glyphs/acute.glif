@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="1">
-  <advance width="201"/>
+  <advance width="316"/>
   <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="83" y="561" type="line"/>
-      <point x="158" y="561" type="line"/>
-      <point x="279" y="750" type="line"/>
-      <point x="174" y="750" type="line"/>
+      <point x="120" y="561" type="line" name="hr00"/>
+      <point x="195" y="561" type="line"/>
+      <point x="316" y="750" type="line"/>
+      <point x="211" y="750" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAg
+      IDxoc3RlbSBwb3M9IjU4MiIgd2lkdGg9Ii0yMSIgLz4KICAgICAgPGhzdGVtIHBvcz0i
+      NzUwIiB3aWR0aD0iLTIwIiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+
+      Cg==
+      </data>
+    </dict>
+  </lib>
 </glyph>

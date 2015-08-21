@@ -13,7 +13,7 @@
       <point x="84" y="-18" type="curve" smooth="yes"/>
       <point x="84" y="-55"/>
       <point x="32" y="-73"/>
-      <point x="32" y="-109" type="curve" smooth="yes"/>
+      <point x="32" y="-109" type="curve" smooth="yes" name="hr01"/>
       <point x="32" y="-115"/>
       <point x="34" y="-121"/>
       <point x="41" y="-126" type="curve"/>
@@ -27,4 +27,15 @@
       <point x="24" y="119"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAg
+      IDxoc3RlbSBwb3M9Ii0xMDUiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9
+      IjE1NSIgd2lkdGg9Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzIiIHdpZHRoPSIx
+      MzkiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+    </dict>
+  </lib>
 </glyph>

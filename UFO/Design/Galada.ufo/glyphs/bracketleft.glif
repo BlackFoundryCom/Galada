@@ -4,14 +4,24 @@
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="182" y="-188" type="line"/>
+      <point x="182" y="-188" type="line" name="hr00"/>
       <point x="61" y="-188" type="line"/>
-      <point x="247" y="689" type="line"/>
-      <point x="368" y="689" type="line"/>
+      <point x="247" y="688" type="line"/>
+      <point x="368" y="688" type="line"/>
       <point x="381" y="750" type="line"/>
       <point x="188" y="750" type="line"/>
       <point x="-24" y="-250" type="line"/>
       <point x="169" y="-250" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAg
+      IDxoc3RlbSBwb3M9Ii0yNTAiIHdpZHRoPSI2MiIgLz4KICAgICAgPGhzdGVtIHBvcz0i
+      Njg4IiB3aWR0aD0iNjIiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+    </dict>
+  </lib>
 </glyph>

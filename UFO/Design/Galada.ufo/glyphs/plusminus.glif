@@ -6,15 +6,15 @@
     <contour>
       <point x="375" y="543" type="line"/>
       <point x="262" y="543" type="line"/>
-      <point x="235" y="421" type="line"/>
+      <point x="235" y="421" type="line" name="hr01"/>
       <point x="107" y="421" type="line"/>
-      <point x="83" y="309" type="line"/>
+      <point x="83" y="309" type="line" name="hr02"/>
       <point x="211" y="309" type="line"/>
-      <point x="184" y="186" type="line"/>
+      <point x="184" y="186" type="line" name="hr03"/>
       <point x="297" y="186" type="line"/>
-      <point x="324" y="309" type="line"/>
+      <point x="324" y="309" type="line" name="hr04"/>
       <point x="452" y="309" type="line"/>
-      <point x="475" y="421" type="line"/>
+      <point x="475" y="421" type="line" name="hr05"/>
       <point x="348" y="421" type="line"/>
     </contour>
     <contour>
@@ -24,4 +24,24 @@
       <point x="399" y="68" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAg
+      IDxoc3RlbSBwb3M9IjY4IiB3aWR0aD0iNzkiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjE4
+      NiIgd2lkdGg9IjIzNSIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50
+      VGFnPSJocjAyIj4KICAgICAgPGhzdGVtIHBvcz0iNjgiIHdpZHRoPSI3OSIgLz4KICAg
+      ICAgPGhzdGVtIHBvcz0iMzA5IiB3aWR0aD0iMTEyIiAvPgogICAgPC9oaW50c2V0Pgog
+      ICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW0gcG9zPSI2OCIg
+      d2lkdGg9Ijc5IiAvPgogICAgICA8aHN0ZW0gcG9zPSIxODYiIHdpZHRoPSIyMzUiIC8+
+      CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwNCI+CiAgICAg
+      IDxoc3RlbSBwb3M9IjY4IiB3aWR0aD0iNzkiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjMw
+      OSIgd2lkdGg9IjExMiIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50
+      VGFnPSJocjA1Ij4KICAgICAgPGhzdGVtIHBvcz0iNjgiIHdpZHRoPSI3OSIgLz4KICAg
+      ICAgPGhzdGVtIHBvcz0iMzA5IiB3aWR0aD0iMjM0IiAvPgogICAgPC9oaW50c2V0Pgog
+      IDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
+  </lib>
 </glyph>

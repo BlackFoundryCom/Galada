@@ -4,6 +4,7 @@
   <unicode hex="0037"/>
   <outline>
     <contour>
+      <point x="512" y="750" type="curve" name="hr00"/>
       <point x="184" y="750" type="line" smooth="yes"/>
       <point x="86" y="750"/>
       <point x="48" y="715"/>
@@ -12,9 +13,9 @@
       <point x="51" y="613"/>
       <point x="56" y="592" type="curve"/>
       <point x="101" y="642"/>
-      <point x="177" y="663"/>
-      <point x="264" y="663" type="curve" smooth="yes"/>
-      <point x="291" y="663"/>
+      <point x="176" y="663"/>
+      <point x="263" y="663" type="curve" smooth="yes"/>
+      <point x="290" y="663"/>
       <point x="319" y="661"/>
       <point x="348" y="657" type="curve"/>
       <point x="180" y="463"/>
@@ -34,7 +35,17 @@
       <point x="211" y="265" type="curve" smooth="yes"/>
       <point x="239" y="330"/>
       <point x="460" y="673"/>
-      <point x="512" y="750" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAg
+      IDxoc3RlbSBwb3M9IjIxIiB3aWR0aD0iLTIxIiAvPgogICAgICA8aHN0ZW0gcG9zPSI2
+      NjMiIHdpZHRoPSI4NyIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzMiIHdpZHRoPSIxNDYi
+      IC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+    </dict>
+  </lib>
 </glyph>

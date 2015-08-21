@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
-  <advance width="421"/>
+  <advance width="294"/>
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="78" y="750" type="line"/>
-      <point x="138" y="561" type="line"/>
-      <point x="159" y="561" type="line"/>
-      <point x="371" y="750" type="line"/>
-      <point x="327" y="750" type="line"/>
-      <point x="170" y="670" type="line"/>
-      <point x="110" y="750" type="line"/>
+      <point x="100" y="750" type="line" name="hr00"/>
+      <point x="160" y="561" type="line"/>
+      <point x="181" y="561" type="line"/>
+      <point x="393" y="750" type="line"/>
+      <point x="349" y="750" type="line"/>
+      <point x="192" y="670" type="line"/>
+      <point x="132" y="750" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAg
+      IDxoc3RlbSBwb3M9IjU4MiIgd2lkdGg9Ii0yMSIgLz4KICAgICAgPGhzdGVtIHBvcz0i
+      NzUwIiB3aWR0aD0iLTIwIiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+
+      Cg==
+      </data>
+    </dict>
+  </lib>
 </glyph>

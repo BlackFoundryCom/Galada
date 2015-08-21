@@ -1,59 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresis" format="1">
-  <advance width="269"/>
+  <advance width="267"/>
   <unicode hex="00EF"/>
   <outline>
     <contour>
-      <point x="71" y="500" type="line"/>
-      <point x="0" y="160" type="line" smooth="yes"/>
-      <point x="-4" y="141"/>
-      <point x="-6" y="125"/>
-      <point x="-6" y="109" type="curve" smooth="yes"/>
-      <point x="-6" y="34"/>
-      <point x="40" y="0"/>
-      <point x="118" y="0" type="curve" smooth="yes"/>
-      <point x="196" y="0"/>
-      <point x="309" y="133"/>
-      <point x="355" y="179" type="curve"/>
-      <point x="321" y="179" type="line"/>
-      <point x="281" y="147"/>
-      <point x="229" y="91"/>
-      <point x="189" y="91" type="curve" smooth="yes"/>
-      <point x="150" y="91"/>
-      <point x="139" y="106"/>
-      <point x="139" y="128" type="curve" smooth="yes"/>
-      <point x="139" y="138"/>
-      <point x="141" y="149"/>
-      <point x="144" y="160" type="curve"/>
-      <point x="216" y="500" type="line"/>
+      <point x="68" y="500" type="line"/>
+      <point x="0" y="179" type="line" smooth="yes"/>
+      <point x="-5" y="155"/>
+      <point x="-8" y="133"/>
+      <point x="-8" y="114" type="curve" smooth="yes"/>
+      <point x="-8" y="30"/>
+      <point x="39" y="-6"/>
+      <point x="99" y="-6" type="curve" smooth="yes"/>
+      <point x="153" y="-6"/>
+      <point x="252" y="16"/>
+      <point x="309" y="179" type="curve"/>
+      <point x="267" y="179" type="line"/>
+      <point x="252" y="129"/>
+      <point x="216" y="91"/>
+      <point x="177" y="91" type="curve" smooth="yes"/>
+      <point x="149" y="91"/>
+      <point x="136" y="100"/>
+      <point x="136" y="128" type="curve" smooth="yes"/>
+      <point x="136" y="137"/>
+      <point x="137" y="147"/>
+      <point x="140" y="160" type="curve" smooth="yes"/>
+      <point x="212" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="20" y="634" type="curve" smooth="yes"/>
-      <point x="20" y="600"/>
-      <point x="47" y="573"/>
-      <point x="81" y="573" type="curve" smooth="yes"/>
-      <point x="114" y="573"/>
-      <point x="142" y="600"/>
-      <point x="142" y="634" type="curve" smooth="yes"/>
-      <point x="142" y="667"/>
-      <point x="114" y="695"/>
-      <point x="81" y="695" type="curve" smooth="yes"/>
-      <point x="47" y="695"/>
-      <point x="20" y="667"/>
+      <point x="17" y="634" type="curve" smooth="yes" name="hr01"/>
+      <point x="17" y="600"/>
+      <point x="44" y="573"/>
+      <point x="78" y="573" type="curve" smooth="yes"/>
+      <point x="111" y="573"/>
+      <point x="139" y="600"/>
+      <point x="139" y="634" type="curve" smooth="yes"/>
+      <point x="139" y="667"/>
+      <point x="111" y="695"/>
+      <point x="78" y="695" type="curve" smooth="yes"/>
+      <point x="44" y="695"/>
+      <point x="17" y="667"/>
     </contour>
     <contour>
-      <point x="200" y="634" type="curve" smooth="yes"/>
-      <point x="200" y="600"/>
-      <point x="227" y="573"/>
-      <point x="261" y="573" type="curve" smooth="yes"/>
-      <point x="294" y="573"/>
-      <point x="322" y="600"/>
-      <point x="322" y="634" type="curve" smooth="yes"/>
-      <point x="322" y="667"/>
-      <point x="294" y="695"/>
-      <point x="261" y="695" type="curve" smooth="yes"/>
-      <point x="227" y="695"/>
-      <point x="200" y="667"/>
+      <point x="197" y="634" type="curve" smooth="yes"/>
+      <point x="197" y="600"/>
+      <point x="224" y="573"/>
+      <point x="258" y="573" type="curve" smooth="yes"/>
+      <point x="291" y="573"/>
+      <point x="319" y="600"/>
+      <point x="319" y="634" type="curve" smooth="yes"/>
+      <point x="319" y="667"/>
+      <point x="291" y="695"/>
+      <point x="258" y="695" type="curve" smooth="yes"/>
+      <point x="224" y="695"/>
+      <point x="197" y="667"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAg
+      IDxoc3RlbSBwb3M9Ii02IiB3aWR0aD0iOTciIC8+CiAgICAgIDxoc3RlbSBwb3M9IjU3
+      MyIgd2lkdGg9IjEyMiIgLz4KICAgICAgPHZzdGVtIHBvcz0iMTciIHdpZHRoPSIxMTki
+      IC8+CiAgICAgIDx2c3RlbSBwb3M9IjE5NyIgd2lkdGg9IjEyMiIgLz4KICAgIDwvaGlu
+      dHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
 </glyph>

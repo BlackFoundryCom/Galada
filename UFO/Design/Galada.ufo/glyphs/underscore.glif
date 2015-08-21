@@ -4,10 +4,20 @@
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="404" y="79" type="line"/>
+      <point x="404" y="79" type="line" name="hr00"/>
       <point x="54" y="79" type="line"/>
       <point x="36" y="0" type="line"/>
       <point x="387" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAg
+      IDxoc3RlbSBwb3M9IjAiIHdpZHRoPSI3OSIgLz4KICAgIDwvaGludHNldD4KICA8L2hp
+      bnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
 </glyph>

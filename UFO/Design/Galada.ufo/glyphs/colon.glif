@@ -18,7 +18,7 @@
       <point x="41" y="179"/>
     </contour>
     <contour>
-      <point x="91" y="375" type="curve" smooth="yes"/>
+      <point x="91" y="375" type="curve" smooth="yes" name="hr01"/>
       <point x="91" y="331"/>
       <point x="126" y="296"/>
       <point x="170" y="296" type="curve" smooth="yes"/>
@@ -32,4 +32,15 @@
       <point x="91" y="419"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+CiAgICAg
+      IDxoc3RlbSBwb3M9IjU2IiB3aWR0aD0iMTU5IiAvPgogICAgICA8aHN0ZW0gcG9zPSIy
+      OTYiIHdpZHRoPSIxNTkiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjkxIiB3aWR0aD0iMTU5
+      IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
+  </lib>
 </glyph>
