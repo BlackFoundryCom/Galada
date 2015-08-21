@@ -20,8 +20,8 @@
       <point x="-61" y="29"/>
       <point x="-71" y="-10"/>
       <point x="-71" y="-47" type="curve" smooth="yes"/>
-      <point x="-71" y="-148"/>
-      <point x="36.6991150442" y="-225.0"/>
+      <point x="-71.0" y="-148.0"/>
+      <point x="30.2389380531" y="-225.0"/>
       <point x="215" y="-225" type="curve" smooth="yes"/>
       <point x="281" y="-225"/>
       <point x="312" y="-236"/>
@@ -34,7 +34,7 @@
       <point x="339" y="-239"/>
       <point x="339" y="-223" type="curve" smooth="yes"/>
       <point x="339.0" y="-145.0"/>
-      <point x="217" y="-98"/>
+      <point x="222.604651163" y="-98.0"/>
     </contour>
     <component base="bn_k_tta"/>
   </outline>
@@ -332,10 +332,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.502</real>
+        <real>0.0</real>
         <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>0.7</real>
+        <real>0.63</real>
       </array>
     </dict>
   </lib>
