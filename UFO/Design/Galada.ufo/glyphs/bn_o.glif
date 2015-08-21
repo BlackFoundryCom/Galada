@@ -4,8 +4,8 @@
   <unicode hex="0993"/>
   <outline>
     <contour>
-      <point x="7" y="426" type="curve" smooth="yes"/>
-      <point x="7" y="187"/>
+      <point x="-3" y="426" type="curve" smooth="yes"/>
+      <point x="-3" y="187"/>
       <point x="184" y="-10"/>
       <point x="364" y="-10" type="curve" smooth="yes"/>
       <point x="478" y="-10"/>
@@ -56,16 +56,16 @@
       <point x="422" y="108"/>
       <point x="311" y="108" type="curve" smooth="yes"/>
       <point x="187.0" y="108.0"/>
-      <point x="81" y="216"/>
-      <point x="81" y="396" type="curve" smooth="yes"/>
-      <point x="81" y="433"/>
-      <point x="90" y="466"/>
-      <point x="108" y="489" type="curve"/>
-      <point x="99" y="500"/>
-      <point x="83" y="510"/>
-      <point x="65" y="510" type="curve" smooth="yes"/>
-      <point x="31" y="510"/>
-      <point x="7" y="486"/>
+      <point x="71" y="216"/>
+      <point x="71" y="396" type="curve" smooth="yes"/>
+      <point x="71" y="433"/>
+      <point x="80" y="466"/>
+      <point x="98" y="489" type="curve"/>
+      <point x="89" y="500"/>
+      <point x="73" y="510"/>
+      <point x="55" y="510" type="curve" smooth="yes"/>
+      <point x="21" y="510"/>
+      <point x="-3" y="486"/>
     </contour>
     <contour>
       <point x="363.0" y="0.0" type="move" name="blwm"/>
