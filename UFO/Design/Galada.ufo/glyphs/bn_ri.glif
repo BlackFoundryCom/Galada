@@ -4,6 +4,12 @@
   <unicode hex="098B"/>
   <outline>
     <contour>
+      <point x="569" y="681" type="line"/>
+      <point x="455" y="681" type="line"/>
+      <point x="309" y="0" type="line" smooth="yes"/>
+      <point x="424" y="0" type="line"/>
+    </contour>
+    <contour>
       <point x="373" y="0" type="move" name="blwm"/>
     </contour>
   </outline>
