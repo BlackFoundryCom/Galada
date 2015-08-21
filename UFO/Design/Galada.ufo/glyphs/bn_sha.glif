@@ -32,10 +32,10 @@
     </contour>
     <contour>
       <point x="284" y="691" type="curve" smooth="yes"/>
-      <point x="215.394736842" y="691.0"/>
-      <point x="151" y="620"/>
+      <point x="214.960526316" y="691.0"/>
+      <point x="151.0" y="620.0"/>
       <point x="125" y="533" type="curve"/>
-      <point x="15" y="507"/>
+      <point x="16.0" y="507.0"/>
       <point x="-46.0" y="435.814814815"/>
       <point x="-46" y="369" type="curve" smooth="yes"/>
       <point x="-46" y="329"/>
@@ -604,8 +604,8 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.3065</real>
+        <real>0.9735</real>
         <real>0.7</real>
       </array>
     </dict>
