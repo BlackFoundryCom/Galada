@@ -67,12 +67,9 @@
       <point x="651" y="35" type="curve"/>
       <point x="619" y="55"/>
       <point x="599" y="109"/>
-      <point x="599" y="190" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="604" y="96" type="move"/>
-      <point x="604" y="202"/>
-      <point x="647" y="295"/>
+      <point x="599" y="190" type="curve"/>
+      <point x="599" y="258"/>
+      <point x="655.201811221" y="301.391021731"/>
       <point x="724" y="355" type="curve"/>
       <point x="654" y="483" type="line"/>
       <point x="566" y="447"/>
