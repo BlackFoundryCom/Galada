@@ -51,8 +51,8 @@
     </contour>
     <contour>
       <point x="163" y="409" type="curve" smooth="yes"/>
-      <point x="163" y="425"/>
-      <point x="165.992313999" y="442.923139986"/>
+      <point x="163.0" y="425.0"/>
+      <point x="156" y="443"/>
       <point x="168" y="463" type="curve"/>
       <point x="156" y="478"/>
       <point x="145" y="484"/>
@@ -63,11 +63,11 @@
       <point x="95" y="316"/>
       <point x="124" y="237"/>
       <point x="195" y="132" type="curve"/>
-      <point x="91.5472339661" y="199.294517711"/>
-      <point x="33" y="302"/>
+      <point x="91.0936383198" y="199.589575074"/>
+      <point x="33.0" y="302.0"/>
       <point x="33" y="409" type="curve" smooth="yes"/>
-      <point x="33" y="425"/>
-      <point x="35.9923139986" y="442.923139986"/>
+      <point x="33.0" y="425.0"/>
+      <point x="26" y="443"/>
       <point x="38" y="463" type="curve"/>
       <point x="26" y="478"/>
       <point x="15" y="484"/>
@@ -113,8 +113,8 @@
       <point x="563" y="211"/>
       <point x="486" y="108"/>
       <point x="385" y="108" type="curve" smooth="yes"/>
-      <point x="228.290909091" y="108.0"/>
-      <point x="163" y="232"/>
+      <point x="227.581818182" y="108.0"/>
+      <point x="163.0" y="232.0"/>
     </contour>
     <contour>
       <point x="401.0" y="0.0" type="move" name="blwm"/>
