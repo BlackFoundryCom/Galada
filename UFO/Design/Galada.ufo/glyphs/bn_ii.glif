@@ -105,16 +105,6 @@
       <point x="368" y="65" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="368" y="65" type="move"/>
-      <point x="368" y="-18"/>
-      <point x="383.0" y="-94.0"/>
-      <point x="403.0" y="-162.0" type="curve"/>
-      <point x="463.0" y="-162.0" type="line"/>
-      <point x="449.0" y="-101.0"/>
-      <point x="442" y="-43"/>
-      <point x="442" y="13" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
       <point x="200.0" y="30.0" type="move" name="blwm"/>
     </contour>
   </outline>
