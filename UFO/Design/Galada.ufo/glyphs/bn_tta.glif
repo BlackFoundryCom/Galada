@@ -4,7 +4,7 @@
   <unicode hex="099F"/>
   <outline>
     <contour>
-      <point x="79" y="928" type="move"/>
+      <point x="79" y="928" type="curve"/>
       <point x="79" y="951"/>
       <point x="95" y="973"/>
       <point x="122" y="980" type="curve"/>
@@ -30,9 +30,8 @@
       <point x="425" y="817"/>
       <point x="339" y="883"/>
       <point x="135" y="883" type="curve" smooth="yes"/>
-      <point x="96" y="883"/>
+      <point x="96.0" y="883.0"/>
       <point x="79" y="897"/>
-      <point x="79" y="923" type="curve" smooth="yes"/>
     </contour>
     <component base="bn_ddha"/>
     <contour>
