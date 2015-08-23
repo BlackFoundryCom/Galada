@@ -25,16 +25,6 @@
       <point x="59" y="901"/>
       <point x="59" y="928" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="59" y="928" type="move"/>
-      <point x="59" y="957"/>
-      <point x="71" y="987"/>
-      <point x="101" y="1015" type="curve"/>
-      <point x="28" y="1015" type="line"/>
-      <point x="9" y="987"/>
-      <point x="-1" y="954"/>
-      <point x="-1" y="925" type="curve" smooth="yes"/>
-    </contour>
     <component base="bn_ekaar"/>
   </outline>
   <lib>
