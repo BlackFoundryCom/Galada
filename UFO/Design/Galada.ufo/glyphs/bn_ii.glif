@@ -83,14 +83,14 @@
       <point x="493" y="666" type="curve"/>
     </contour>
     <contour>
-      <point x="442" y="13" type="curve"/>
+      <point x="442" y="13" type="curve" smooth="yes"/>
       <point x="442" y="181"/>
       <point x="501.0" y="323.0"/>
       <point x="626.0" y="439.0" type="curve"/>
       <point x="527.0" y="525.0" type="line"/>
       <point x="406.0" y="350.0"/>
       <point x="368" y="198"/>
-      <point x="368" y="65" type="curve"/>
+      <point x="368" y="65" type="curve" smooth="yes"/>
       <point x="368" y="-54"/>
       <point x="402.398230088" y="-162.0"/>
       <point x="447" y="-162" type="curve" smooth="yes"/>
