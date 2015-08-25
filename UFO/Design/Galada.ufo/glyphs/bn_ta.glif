@@ -6,13 +6,13 @@
     <contour>
       <point x="605" y="567" type="line"/>
       <point x="589" y="671" type="line"/>
-      <point x="-23" y="671" type="line"/>
-      <point x="-7" y="567" type="line"/>
+      <point x="-13" y="671" type="line"/>
+      <point x="3" y="567" type="line"/>
     </contour>
     <contour>
       <point x="312" y="10" type="curve" smooth="yes"/>
-      <point x="440" y="10"/>
-      <point x="547.0" y="97.0700389105"/>
+      <point x="440.0" y="10.0"/>
+      <point x="547.0" y="103.140077821"/>
       <point x="547" y="247" type="curve" smooth="yes"/>
       <point x="547" y="390"/>
       <point x="444" y="520"/>
@@ -33,23 +33,23 @@
       <point x="432" y="405"/>
       <point x="474" y="349"/>
       <point x="474" y="278" type="curve" smooth="yes"/>
-      <point x="474.0" y="196.117647059"/>
-      <point x="401" y="128"/>
+      <point x="474.0" y="201.235294118"/>
+      <point x="401.0" y="128.0"/>
       <point x="288" y="128" type="curve" smooth="yes"/>
-      <point x="157" y="128"/>
-      <point x="29.0" y="221.284722222"/>
-      <point x="29" y="396" type="curve" smooth="yes"/>
-      <point x="29" y="433"/>
-      <point x="38" y="466"/>
-      <point x="56" y="489" type="curve"/>
-      <point x="47" y="500"/>
-      <point x="31" y="510"/>
-      <point x="13" y="510" type="curve" smooth="yes"/>
-      <point x="-21" y="510"/>
-      <point x="-45" y="486"/>
-      <point x="-45" y="426" type="curve" smooth="yes"/>
-      <point x="-45.0" y="228.633027523"/>
-      <point x="117" y="10"/>
+      <point x="157.0" y="128.0"/>
+      <point x="39" y="228"/>
+      <point x="39" y="396" type="curve" smooth="yes"/>
+      <point x="39" y="433"/>
+      <point x="48" y="466"/>
+      <point x="66" y="489" type="curve"/>
+      <point x="57" y="500"/>
+      <point x="41" y="510"/>
+      <point x="23" y="510" type="curve" smooth="yes"/>
+      <point x="-11" y="510"/>
+      <point x="-35" y="486"/>
+      <point x="-35" y="426" type="curve" smooth="yes"/>
+      <point x="-35" y="233"/>
+      <point x="117.0" y="10.0"/>
     </contour>
     <contour>
       <point x="312.0" y="48.0" type="move" name="blwm"/>
