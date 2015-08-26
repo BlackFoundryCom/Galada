@@ -2,6 +2,20 @@
 <glyph name="bn_tta_ikaar" format="1">
   <advance width="788"/>
   <outline>
+    <contour>
+      <point x="179" y="418" type="line" smooth="yes"/>
+      <point x="202" y="531"/>
+      <point x="219" y="567"/>
+      <point x="269" y="567" type="curve" smooth="yes"/>
+      <point x="284" y="567" type="line"/>
+      <point x="268" y="671" type="line"/>
+      <point x="260" y="671" type="line" smooth="yes"/>
+      <point x="148.0" y="671.0"/>
+      <point x="106.87672329" y="608.137038025"/>
+      <point x="74" y="453" type="curve" smooth="yes"/>
+      <point x="-22" y="0" type="line" smooth="yes"/>
+      <point x="93" y="0" type="line" smooth="yes"/>
+    </contour>
     <component base="bn_ikaar"/>
     <component base="bn_tta" xOffset="283"/>
   </outline>
