@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_tta_ikaar" format="1">
-  <advance width="768"/>
+  <advance width="788"/>
   <outline>
     <component base="bn_ikaar"/>
     <component base="bn_tta" xOffset="283"/>
@@ -988,7 +988,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>768</integer>
+          <integer>788</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
