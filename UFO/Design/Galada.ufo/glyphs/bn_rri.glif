@@ -21,12 +21,6 @@
       <point x="272" y="-67"/>
       <point x="319" y="-161" type="curve"/>
     </contour>
-    <contour>
-      <point x="309" y="-175" type="move"/>
-      <point x="334" y="-175"/>
-      <point x="359" y="-164"/>
-      <point x="359" y="-135" type="curve" smooth="yes"/>
-    </contour>
     <component base="bn_ri"/>
   </outline>
   <lib>
