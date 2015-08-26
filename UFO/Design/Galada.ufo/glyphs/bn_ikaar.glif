@@ -52,6 +52,18 @@
       <point x="178" y="614" type="curve"/>
     </contour>
     <contour>
+      <point x="42" y="396" type="move"/>
+      <point x="42" y="433"/>
+      <point x="51" y="466"/>
+      <point x="69" y="489" type="curve"/>
+      <point x="60" y="500"/>
+      <point x="44" y="510"/>
+      <point x="26" y="510" type="curve" smooth="yes"/>
+      <point x="-8" y="510"/>
+      <point x="-32" y="486"/>
+      <point x="-32" y="426" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
       <point x="-3" y="567" type="move" name="_top"/>
     </contour>
   </outline>
