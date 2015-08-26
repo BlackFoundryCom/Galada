@@ -72,6 +72,24 @@
       <point x="20" y="671" type="line"/>
       <point x="36" y="567" type="line"/>
     </contour>
+    <contour>
+      <point x="404" y="544" type="line"/>
+      <point x="276" y="544"/>
+      <point x="120" y="456"/>
+      <point x="8" y="352" type="curve"/>
+      <point x="24" y="239" type="line"/>
+      <point x="158" y="227"/>
+      <point x="266" y="138"/>
+      <point x="237" y="0" type="curve"/>
+      <point x="263" y="26" type="line"/>
+      <point x="294" y="173"/>
+      <point x="236" y="269"/>
+      <point x="142" y="308" type="curve"/>
+      <point x="142" y="298" type="line"/>
+      <point x="250" y="399"/>
+      <point x="341" y="425"/>
+      <point x="427" y="425" type="curve"/>
+    </contour>
     <component base="bn_ba" xOffset="43"/>
     <contour>
       <point x="301" y="0" type="move" name="blwm"/>
