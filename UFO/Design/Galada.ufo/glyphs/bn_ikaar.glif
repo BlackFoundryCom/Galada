@@ -52,12 +52,6 @@
       <point x="178" y="614" type="curve"/>
     </contour>
     <contour>
-      <point x="317" y="-10" type="move"/>
-      <point x="342" y="-10"/>
-      <point x="367" y="1"/>
-      <point x="367" y="30" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
       <point x="-3" y="567" type="move" name="_top"/>
     </contour>
   </outline>
