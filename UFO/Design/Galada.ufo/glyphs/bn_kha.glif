@@ -69,6 +69,20 @@
       <point x="120" y="671" type="line"/>
       <point x="136" y="567" type="line"/>
     </contour>
+    <contour>
+      <point x="554" y="494" type="line" smooth="yes"/>
+      <point x="565" y="546"/>
+      <point x="587" y="567"/>
+      <point x="617" y="567" type="curve" smooth="yes"/>
+      <point x="643" y="567" type="line"/>
+      <point x="627" y="671" type="line"/>
+      <point x="597" y="671" type="line" smooth="yes"/>
+      <point x="514" y="671"/>
+      <point x="468" y="617"/>
+      <point x="451" y="538" type="curve" smooth="yes"/>
+      <point x="337" y="0" type="line" smooth="yes"/>
+      <point x="452" y="0" type="line" smooth="yes"/>
+    </contour>
     <component base="bn_ba" xOffset="143"/>
     <contour>
       <point x="403.0" y="0.0" type="move" name="blwm"/>
