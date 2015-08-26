@@ -49,12 +49,9 @@
       <point x="292" y="618"/>
       <point x="311" y="596"/>
       <point x="311" y="558" type="curve"/>
-      <point x="311" y="485"/>
-      <point x="231" y="383"/>
-      <point x="25" y="357" type="curve"/>
-    </contour>
-    <contour>
-      <point x="49" y="358" type="move"/>
+      <point x="311.0" y="485.36318408"/>
+      <point x="239" y="382"/>
+      <point x="49" y="358" type="curve"/>
       <point x="66" y="241" type="line"/>
       <point x="207" y="244"/>
       <point x="354" y="163"/>
@@ -252,9 +249,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>384.0</real>
+                  <integer>384</integer>
                   <key>y</key>
-                  <real>426.723809524</real>
+                  <integer>427</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -496,9 +493,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>231.085932728</real>
+                  <integer>231</integer>
                   <key>y</key>
-                  <real>382.890192554</real>
+                  <integer>383</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
