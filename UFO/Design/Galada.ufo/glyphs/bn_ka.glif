@@ -24,8 +24,8 @@
       <point x="230" y="75"/>
       <point x="230" y="91" type="curve" smooth="yes"/>
       <point x="230" y="158"/>
-      <point x="178" y="253"/>
-      <point x="97" y="300" type="curve"/>
+      <point x="181" y="228"/>
+      <point x="100" y="275" type="curve"/>
       <point x="99" y="270" type="line"/>
       <point x="198" y="377"/>
       <point x="298" y="425"/>
@@ -76,7 +76,7 @@
       <point x="-7" y="567" type="line"/>
     </contour>
     <contour>
-      <point x="256" y="0" type="move" name="blwm"/>
+      <point x="256.0" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
   <lib>
