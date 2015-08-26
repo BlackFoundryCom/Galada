@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ekaar" format="1">
-  <advance width="333"/>
+  <advance width="323"/>
   <unicode hex="09C7"/>
   <outline>
     <contour>
@@ -33,12 +33,12 @@
       <point x="84" y="100"/>
       <point x="84" y="119" type="curve" smooth="yes"/>
       <point x="84.0" y="331.0"/>
-      <point x="184" y="567"/>
+      <point x="189.39748954" y="567"/>
       <point x="313" y="567" type="curve" smooth="yes"/>
       <point x="325" y="567" type="line"/>
       <point x="309" y="671" type="line"/>
       <point x="294" y="671" type="line" smooth="yes"/>
-      <point x="103" y="671"/>
+      <point x="109.063492063" y="671"/>
       <point x="-11.0" y="421.930232558"/>
       <point x="-11" y="251" type="curve" smooth="yes"/>
       <point x="-11.0" y="100.0"/>
@@ -409,7 +409,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>333</integer>
+          <integer>323</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
