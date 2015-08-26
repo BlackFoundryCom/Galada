@@ -57,7 +57,7 @@
       <point x="189.0" y="460.0"/>
       <point x="241.732574542" y="474.680003069"/>
     </contour>
-    <component base="bn_ba"/>
+    <component base="bn_ba" xOffset="100"/>
     <contour>
       <point x="403.0" y="0.0" type="move" name="blwm"/>
     </contour>
