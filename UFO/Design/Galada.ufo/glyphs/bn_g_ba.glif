@@ -48,8 +48,8 @@
       <point x="516" y="704"/>
       <point x="516" y="798" type="curve"/>
       <point x="482" y="798" type="line"/>
-      <point x="245" y="-300" type="line" smooth="yes"/>
-      <point x="360" y="-300" type="line"/>
+      <point x="275" y="-162" type="line" smooth="yes"/>
+      <point x="390" y="-162" type="line"/>
       <point x="556" y="621" type="line"/>
       <point x="567" y="589"/>
       <point x="586" y="567"/>
@@ -57,22 +57,26 @@
       <point x="617" y="567" type="line"/>
     </contour>
     <contour>
-      <point x="245" y="-300" type="curve"/>
-      <point x="267" y="-274" type="line"/>
-      <point x="288.023784488" y="-171.217053614"/>
-      <point x="248.813142655" y="-98.8752794153"/>
-      <point x="164" y="-62" type="curve"/>
-      <point x="216" y="-25"/>
-      <point x="288" y="5"/>
-      <point x="356" y="14" type="curve"/>
-      <point x="356" y="133" type="line"/>
-      <point x="247" y="120"/>
-      <point x="101" y="48"/>
-      <point x="18" y="-28" type="curve"/>
-      <point x="35" y="-132" type="line"/>
-      <point x="42" y="-132" type="line" smooth="yes"/>
-      <point x="179.551912568" y="-132"/>
-      <point x="271.679465712" y="-177.516998322"/>
+      <point x="125" y="20" type="line"/>
+      <point x="248" y="8"/>
+      <point x="291" y="-90"/>
+      <point x="275" y="-162" type="curve"/>
+      <point x="310" y="-136" type="line"/>
+      <point x="335" y="-19"/>
+      <point x="245" y="90"/>
+      <point x="125" y="90" type="curve" smooth="yes"/>
+      <point x="58" y="90"/>
+      <point x="14" y="44"/>
+      <point x="14" y="-16" type="curve" smooth="yes"/>
+      <point x="14" y="-74"/>
+      <point x="53" y="-119"/>
+      <point x="117" y="-119" type="curve" smooth="yes"/>
+      <point x="158" y="-119"/>
+      <point x="209" y="-93"/>
+      <point x="209" y="-31" type="curve" smooth="yes"/>
+      <point x="209" y="-3"/>
+      <point x="196" y="45"/>
+      <point x="122" y="45" type="curve"/>
     </contour>
     <contour>
       <point x="374.0" y="0.0" type="move" name="blwm"/>
