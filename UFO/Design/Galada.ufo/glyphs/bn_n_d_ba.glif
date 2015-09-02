@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_n_d_ba" format="1">
-  <advance width="618"/>
+  <advance width="706"/>
   <outline>
     <contour>
       <point x="87" y="436" type="line"/>
@@ -2223,16 +2223,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>618</integer>
+          <integer>706</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.1057</real>
-        <real>0.8</real>
-      </array>
     </dict>
   </lib>
 </glyph>
