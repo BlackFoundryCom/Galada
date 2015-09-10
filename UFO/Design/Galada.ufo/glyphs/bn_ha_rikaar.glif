@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bn_h_nna" format="1">
+<glyph name="bn_ha_rikaar" format="1">
   <advance width="615"/>
   <outline>
     <contour>
@@ -50,32 +50,30 @@
       <point x="144" y="453" type="curve"/>
     </contour>
     <contour>
-      <point x="521" y="242" type="line"/>
-      <point x="506" y="261"/>
-      <point x="487" y="275"/>
-      <point x="450" y="275" type="curve" smooth="yes"/>
-      <point x="401" y="275"/>
-      <point x="379" y="239"/>
-      <point x="379" y="204" type="curve" smooth="yes"/>
-      <point x="379" y="157"/>
-      <point x="417" y="127"/>
-      <point x="457" y="127" type="curve" smooth="yes"/>
-      <point x="513" y="127"/>
-      <point x="549" y="173"/>
-      <point x="549" y="258" type="curve" smooth="yes"/>
-      <point x="549" y="353"/>
-      <point x="494" y="405"/>
-      <point x="429" y="405" type="curve" smooth="yes"/>
-      <point x="374" y="405"/>
-      <point x="335" y="377"/>
-      <point x="264" y="312" type="curve"/>
-      <point x="276" y="187" type="line"/>
-      <point x="346" y="277"/>
-      <point x="395" y="317"/>
-      <point x="445" y="317" type="curve" smooth="yes"/>
-      <point x="470" y="317"/>
-      <point x="502" y="296"/>
-      <point x="491" y="237" type="curve"/>
+      <point x="476.0" y="340.0" type="curve"/>
+      <point x="429.0" y="359.0" type="line"/>
+      <point x="376.0" y="299.0"/>
+      <point x="358.0" y="222.0"/>
+      <point x="358.0" y="152.0" type="curve" smooth="yes"/>
+      <point x="358.0" y="85.0"/>
+      <point x="380.0" y="22.0"/>
+      <point x="431.0" y="22.0" type="curve" smooth="yes"/>
+      <point x="447.0" y="22.0"/>
+      <point x="458.0" y="35.0"/>
+      <point x="467.0" y="44.0" type="curve"/>
+      <point x="435.0" y="65.0"/>
+      <point x="419.0" y="88.0"/>
+      <point x="419.0" y="128.0" type="curve" smooth="yes"/>
+      <point x="419.0" y="217.0"/>
+      <point x="499.0" y="290.0"/>
+      <point x="552.0" y="327.0" type="curve"/>
+      <point x="493.0" y="454.0" type="line"/>
+      <point x="428.0" y="431.0"/>
+      <point x="366.0" y="407.0"/>
+      <point x="305.0" y="381.0" type="curve"/>
+      <point x="297.0" y="268.0" type="line"/>
+      <point x="355.0" y="294.0"/>
+      <point x="413.0" y="318.0"/>
     </contour>
     <contour>
       <point x="95.0" y="0.0" type="move" name="blwm"/>
@@ -474,7 +472,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>bn_h_nna</string>
+          <string>bn_ha_rikaar</string>
           <key>unicodes</key>
           <array>
           </array>
