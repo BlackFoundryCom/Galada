@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_m_pa" format="1">
+  <advance width="1128"/>
+  <outline>
+    <contour>
+      <point x="325" y="567" type="move"/>
+      <point x="389" y="567"/>
+      <point x="414" y="526"/>
+      <point x="414" y="485" type="curve" smooth="yes"/>
+      <point x="414" y="438"/>
+      <point x="379" y="413"/>
+      <point x="332" y="413" type="curve"/>
+      <point x="210" y="413"/>
+      <point x="187" y="494"/>
+      <point x="97" y="494" type="curve" smooth="yes"/>
+      <point x="53" y="494"/>
+      <point x="12" y="468"/>
+      <point x="12" y="417" type="curve"/>
+      <point x="12" y="366"/>
+      <point x="53" y="340"/>
+      <point x="97" y="340" type="curve" smooth="yes"/>
+      <point x="153" y="340"/>
+      <point x="183" y="378"/>
+      <point x="183" y="425" type="curve" smooth="yes"/>
+      <point x="183" y="497"/>
+      <point x="169" y="536"/>
+      <point x="153" y="567" type="curve"/>
+      <point x="-6" y="567" type="line"/>
+      <point x="53.536" y="567.0"/>
+      <point x="116.0" y="529.0"/>
+      <point x="116" y="466" type="curve"/>
+      <point x="123" y="433" type="line"/>
+      <point x="224" y="382"/>
+      <point x="268" y="284"/>
+      <point x="364" y="284" type="curve"/>
+      <point x="446" y="284"/>
+      <point x="503" y="347"/>
+      <point x="503" y="430" type="curve"/>
+      <point x="503.0" y="528.510948905"/>
+      <point x="420" y="623"/>
+      <point x="349" y="671" type="curve"/>
+      <point x="-23" y="671" type="line"/>
+      <point x="-7" y="567" type="line"/>
+      <point x="325" y="567" type="line"/>
+    </contour>
+    <component base="bn_pa" xOffset="450"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_m_pa</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1128</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_m_pa</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1128</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.3373</real>
+        <real>0.6863</real>
+        <real>0.9843</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

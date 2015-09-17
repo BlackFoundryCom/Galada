@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_l_da" format="1">
+  <advance width="753"/>
+  <outline>
+    <contour>
+      <point x="286" y="342" type="line"/>
+      <point x="286" y="437"/>
+      <point x="262" y="495"/>
+      <point x="220" y="495" type="curve" smooth="yes"/>
+      <point x="182" y="495"/>
+      <point x="149" y="459"/>
+      <point x="133" y="318" type="curve"/>
+      <point x="205" y="318" type="line"/>
+      <point x="211" y="361"/>
+      <point x="221" y="376"/>
+      <point x="236" y="376" type="curve" smooth="yes"/>
+      <point x="267" y="376"/>
+      <point x="268" y="341"/>
+      <point x="254" y="260" type="curve"/>
+    </contour>
+    <contour>
+      <point x="71" y="375" type="curve" smooth="yes"/>
+      <point x="110" y="375"/>
+      <point x="133" y="344"/>
+      <point x="133" y="318" type="curve"/>
+      <point x="144" y="330" type="line"/>
+      <point x="165" y="420"/>
+      <point x="131" y="495"/>
+      <point x="75" y="495" type="curve" smooth="yes"/>
+      <point x="2" y="495"/>
+      <point x="-47" y="409"/>
+      <point x="-47" y="322" type="curve" smooth="yes"/>
+      <point x="-47" y="228"/>
+      <point x="3" y="188"/>
+      <point x="49" y="188" type="curve"/>
+      <point x="87" y="188"/>
+      <point x="126" y="216"/>
+      <point x="126" y="264" type="curve" smooth="yes"/>
+      <point x="126" y="300"/>
+      <point x="103" y="326"/>
+      <point x="66" y="326" type="curve" smooth="yes"/>
+      <point x="25" y="326"/>
+      <point x="2" y="300"/>
+      <point x="2" y="255" type="curve"/>
+      <point x="19" y="249" type="line"/>
+      <point x="7" y="258"/>
+      <point x="8" y="290"/>
+      <point x="8" y="297" type="curve" smooth="yes"/>
+      <point x="8" y="343"/>
+      <point x="33" y="375"/>
+    </contour>
+    <contour>
+      <point x="-7" y="567" type="line"/>
+      <point x="230" y="567" type="line"/>
+      <point x="214" y="671" type="line"/>
+      <point x="-23" y="671" type="line"/>
+    </contour>
+    <component base="bn_da" xOffset="232"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_l_da</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>753</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_l_da</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>753</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.3373</real>
+        <real>0.6863</real>
+        <real>0.9843</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
