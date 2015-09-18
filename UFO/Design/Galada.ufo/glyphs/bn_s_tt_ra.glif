@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_s_tt_ra" format="1">
+  <advance width="686"/>
+  <outline>
+    <contour>
+      <point x="182" y="-103" type="curve" smooth="yes"/>
+      <point x="80" y="-92"/>
+      <point x="55" y="-86"/>
+      <point x="55" y="-54" type="curve" smooth="yes"/>
+      <point x="55" y="-33"/>
+      <point x="65" y="-12"/>
+      <point x="96" y="5" type="curve"/>
+      <point x="89" y="28"/>
+      <point x="77" y="41"/>
+      <point x="52" y="41" type="curve" smooth="yes"/>
+      <point x="20" y="41"/>
+      <point x="1" y="3"/>
+      <point x="1" y="-53" type="curve"/>
+      <point x="1" y="-147"/>
+      <point x="59" y="-205"/>
+      <point x="207" y="-220" type="curve" smooth="yes"/>
+      <point x="349" y="-234"/>
+      <point x="381" y="-267"/>
+      <point x="387" y="-300" type="curve"/>
+      <point x="397" y="-274" type="line"/>
+      <point x="401" y="-256"/>
+      <point x="403" y="-239"/>
+      <point x="403" y="-223" type="curve" smooth="yes"/>
+      <point x="403" y="-148"/>
+      <point x="337" y="-120"/>
+    </contour>
+    <contour>
+      <point x="438" y="-53" type="line"/>
+      <point x="387" y="-300" type="line"/>
+      <point x="502" y="-300" type="line"/>
+      <point x="572" y="40" type="line"/>
+    </contour>
+    <component base="bn_s_tta"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_s_kha</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_s_kha</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.3373</real>
+        <real>0.6863</real>
+        <real>0.9843</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
