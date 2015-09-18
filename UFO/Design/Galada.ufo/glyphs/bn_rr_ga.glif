@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_rr_ga" format="1">
+  <advance width="1135"/>
+  <outline>
+    <contour>
+      <point x="515" y="567" type="line"/>
+      <point x="672" y="567" type="line"/>
+      <point x="672" y="671" type="line"/>
+      <point x="515" y="671" type="line"/>
+    </contour>
+    <component base="bn_rra"/>
+    <component base="bn_ga" xOffset="520"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.1906</real>
+        <real>0.6052</real>
+        <real>0.9802</real>
+        <real>0.8</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
