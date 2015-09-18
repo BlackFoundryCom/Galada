@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asa_ba_uukaar" format="1">
+  <advance width="652"/>
+  <outline>
+    <contour>
+      <point x="654" y="567" type="line"/>
+      <point x="638" y="671" type="line"/>
+      <point x="478" y="671" type="line"/>
+      <point x="494" y="567" type="line"/>
+    </contour>
+    <contour>
+      <point x="526" y="318" type="curve"/>
+      <point x="479" y="337" type="line"/>
+      <point x="426" y="277"/>
+      <point x="408" y="200"/>
+      <point x="408" y="130" type="curve" smooth="yes"/>
+      <point x="408" y="63"/>
+      <point x="430" y="0"/>
+      <point x="481" y="0" type="curve" smooth="yes"/>
+      <point x="497" y="0"/>
+      <point x="508" y="13"/>
+      <point x="517" y="22" type="curve"/>
+      <point x="485" y="43"/>
+      <point x="469" y="66"/>
+      <point x="469" y="106" type="curve" smooth="yes"/>
+      <point x="469" y="195"/>
+      <point x="549" y="268"/>
+      <point x="602" y="305" type="curve"/>
+      <point x="543" y="432" type="line"/>
+      <point x="459" y="402"/>
+      <point x="380" y="371"/>
+      <point x="302" y="336" type="curve"/>
+      <point x="278" y="212" type="line"/>
+      <point x="357" y="252"/>
+      <point x="438" y="287"/>
+    </contour>
+    <contour>
+      <point x="170" y="25" type="line"/>
+      <point x="137" y="91"/>
+      <point x="73" y="148"/>
+      <point x="-16" y="148" type="curve"/>
+      <point x="-6" y="54" type="line"/>
+      <point x="40" y="52"/>
+      <point x="99" y="31"/>
+      <point x="141" y="-4" type="curve"/>
+    </contour>
+    <component base="bn_ba"/>
+    <contour>
+      <point x="256" y="0" type="move" name="blwm"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asa_ba</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>498</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asa_ba</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>498</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.1906</real>
+        <real>0.6052</real>
+        <real>0.9802</real>
+        <real>0.8</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
