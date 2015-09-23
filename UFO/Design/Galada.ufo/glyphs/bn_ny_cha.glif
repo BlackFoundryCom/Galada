@@ -5,10 +5,10 @@
     <contour>
       <point x="256" y="308" type="line"/>
       <point x="266.0" y="306.0"/>
-      <point x="277.0" y="305.0"/>
+      <point x="277" y="305"/>
       <point x="289" y="305" type="curve" smooth="yes"/>
-      <point x="437.760330579" y="305.0"/>
-      <point x="529" y="187"/>
+      <point x="412" y="305"/>
+      <point x="529" y="201"/>
       <point x="529" y="75" type="curve"/>
       <point x="529" y="-36"/>
       <point x="439.379526799" y="-123.190643906"/>
