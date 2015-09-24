@@ -28,6 +28,12 @@
       <point x="337" y="166"/>
       <point x="418" y="201"/>
     </contour>
+    <contour>
+      <point x="364" y="567" type="line"/>
+      <point x="632" y="567" type="line"/>
+      <point x="616" y="671" type="line"/>
+      <point x="364" y="671" type="line"/>
+    </contour>
     <component base="bn_d_ra"/>
   </outline>
   <lib>
