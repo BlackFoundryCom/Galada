@@ -130,6 +130,12 @@
       <point x="302" y="-17"/>
       <point x="239" y="33"/>
     </contour>
+    <contour>
+      <point x="315" y="0" type="line"/>
+      <point x="280" y="-162" type="line" smooth="yes"/>
+      <point x="395" y="-162" type="line"/>
+      <point x="430" y="0" type="line"/>
+    </contour>
     <component base="bn_th_ra"/>
   </outline>
   <lib>
