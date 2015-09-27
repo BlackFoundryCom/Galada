@@ -4,34 +4,34 @@
   <unicode hex="09C8"/>
   <outline>
     <contour>
-      <point x="29" y="928" type="curve" smooth="yes"/>
-      <point x="29" y="951"/>
-      <point x="45" y="973"/>
-      <point x="72" y="980" type="curve"/>
-      <point x="62" y="1004"/>
-      <point x="53" y="1015"/>
-      <point x="31" y="1015" type="curve" smooth="yes"/>
-      <point x="-5" y="1015"/>
-      <point x="-31" y="970"/>
-      <point x="-31" y="925" type="curve" smooth="yes"/>
-      <point x="-31" y="815"/>
-      <point x="34" y="746"/>
-      <point x="219" y="746" type="curve" smooth="yes"/>
-      <point x="250" y="746"/>
-      <point x="265" y="735"/>
-      <point x="265" y="715" type="curve" smooth="yes"/>
-      <point x="265" y="689"/>
-      <point x="243" y="670"/>
+      <point x="29" y="908" type="curve" smooth="yes"/>
+      <point x="29" y="931"/>
+      <point x="45" y="953"/>
+      <point x="72" y="960" type="curve"/>
+      <point x="62" y="984"/>
+      <point x="53" y="995"/>
+      <point x="31" y="995" type="curve" smooth="yes"/>
+      <point x="-5" y="995"/>
+      <point x="-31" y="950"/>
+      <point x="-31" y="905" type="curve" smooth="yes"/>
+      <point x="-31" y="795"/>
+      <point x="34" y="726"/>
+      <point x="219" y="726" type="curve" smooth="yes"/>
+      <point x="250.0" y="726.0"/>
+      <point x="265.0" y="718.363636364"/>
+      <point x="265" y="705" type="curve" smooth="yes"/>
+      <point x="265.0" y="682.714285714"/>
+      <point x="241.62151999" y="669.282041662"/>
       <point x="195" y="645" type="curve"/>
       <point x="276" y="639" type="line"/>
-      <point x="317" y="667"/>
-      <point x="325" y="696"/>
-      <point x="325" y="730" type="curve" smooth="yes"/>
-      <point x="325" y="817"/>
-      <point x="254" y="883"/>
-      <point x="85" y="883" type="curve" smooth="yes"/>
-      <point x="46" y="883"/>
-      <point x="29" y="901"/>
+      <point x="315.62261408" y="666.059346201"/>
+      <point x="325.0" y="689.736263736"/>
+      <point x="325" y="720" type="curve" smooth="yes"/>
+      <point x="325.0" y="801.714285714"/>
+      <point x="254.0" y="863.0"/>
+      <point x="85" y="863" type="curve" smooth="yes"/>
+      <point x="46" y="863"/>
+      <point x="29" y="881"/>
     </contour>
     <component base="bn_ekaar"/>
   </outline>
