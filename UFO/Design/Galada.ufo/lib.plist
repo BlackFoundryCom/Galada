@@ -9,6 +9,13 @@
 		<real>0.0</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.New_01.layerStrokeColor</key>
+	<array>
+		<real>0.0</real>
+		<real>1.0</real>
+		<real>0.25</real>
+		<real>0.7</real>
+	</array>
 	<key>com.typemytype.robofont.binarySource</key>
 	<string>/Users/jeremiehornus/Documents/Typefactory-BitBucket/fonts/Google/Google_LobsterBengali/Lobster/Lobster_1.3.otf</string>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
@@ -167,6 +174,7 @@
 	<array>
 		<string>mask</string>
 		<string>Back</string>
+		<string>New_01</string>
 	</array>
 	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
 	<array>
@@ -885,6 +893,9 @@
 				<string>uni20B9.rupee</string>
 				<string>bn_r_ukaar</string>
 				<string>bn_tta_ikaar</string>
+				<string>bn_ikaar.fl.wi2</string>
+				<string>bn_ikaar.fl.wi1</string>
+				<string>bn_ikaar.fl</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
