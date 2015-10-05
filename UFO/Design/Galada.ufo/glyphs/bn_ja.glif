@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ja" format="1">
-  <advance width="674"/>
+  <advance width="690"/>
   <unicode hex="099C"/>
   <outline>
     <contour>
-      <point x="675" y="567" type="line"/>
-      <point x="659" y="671" type="line"/>
+      <point x="692" y="567" type="line"/>
+      <point x="676" y="671" type="line"/>
       <point x="-23" y="671" type="line"/>
       <point x="-7" y="567" type="line"/>
     </contour>
@@ -647,7 +647,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>674</integer>
+          <integer>690</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
