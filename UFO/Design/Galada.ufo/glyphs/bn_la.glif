@@ -11,8 +11,8 @@
       <point x="323" y="490"/>
       <point x="263" y="449"/>
       <point x="245" y="287" type="curve"/>
-      <point x="340" y="287" type="line"/>
-      <point x="351" y="349"/>
+      <point x="334" y="268" type="line"/>
+      <point x="345" y="330"/>
       <point x="374" y="373"/>
       <point x="404" y="373" type="curve" smooth="yes"/>
       <point x="433" y="373"/>
@@ -43,12 +43,12 @@
       <point x="221" y="490"/>
       <point x="133" y="490" type="curve" smooth="yes"/>
       <point x="32" y="490"/>
-      <point x="-17" y="402"/>
-      <point x="-17" y="312" type="curve" smooth="yes"/>
-      <point x="-17" y="164"/>
-      <point x="62" y="101"/>
-      <point x="128" y="101" type="curve" smooth="yes"/>
-      <point x="179" y="101"/>
+      <point x="-24" y="395"/>
+      <point x="-24" y="305" type="curve" smooth="yes"/>
+      <point x="-24" y="167"/>
+      <point x="69" y="112"/>
+      <point x="135" y="112" type="curve" smooth="yes"/>
+      <point x="186" y="112"/>
       <point x="231" y="138"/>
       <point x="231" y="201" type="curve" smooth="yes"/>
       <point x="231" y="247"/>
@@ -77,7 +77,7 @@
       <point x="-7" y="567" type="line"/>
     </contour>
     <contour>
-      <point x="441" y="0" type="move" name="blwm"/>
+      <point x="441.0" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
   <lib>
@@ -660,7 +660,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>472.18190904603983</real>
+                  <real>472.1819090460399</real>
                   <key>y</key>
                   <real>619.7174833622194</real>
                 </dict>
@@ -719,9 +719,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.4711</real>
         <real>1.0</real>
-        <real>0.502</real>
-        <real>0.0</real>
+        <real>0.1481</real>
         <real>1.0</real>
       </array>
     </dict>

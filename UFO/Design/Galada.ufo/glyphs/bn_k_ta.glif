@@ -9,36 +9,43 @@
       <point x="593" y="567" type="line"/>
     </contour>
     <contour>
-      <point x="707" y="222" type="line"/>
-      <point x="692" y="241"/>
-      <point x="673" y="255"/>
-      <point x="636" y="255" type="curve" smooth="yes"/>
-      <point x="587" y="255"/>
-      <point x="565" y="219"/>
-      <point x="565" y="184" type="curve" smooth="yes"/>
-      <point x="565" y="137"/>
-      <point x="603" y="107"/>
-      <point x="643" y="107" type="curve" smooth="yes"/>
-      <point x="699" y="107"/>
-      <point x="735" y="153"/>
-      <point x="735" y="238" type="curve" smooth="yes"/>
-      <point x="735" y="333"/>
-      <point x="680" y="385"/>
-      <point x="615" y="385" type="curve" smooth="yes"/>
-      <point x="560" y="385"/>
-      <point x="521" y="357"/>
-      <point x="450" y="292" type="curve"/>
-      <point x="462" y="167" type="line"/>
-      <point x="532" y="257"/>
-      <point x="581" y="297"/>
-      <point x="631" y="297" type="curve" smooth="yes"/>
-      <point x="656" y="297"/>
-      <point x="688" y="276"/>
-      <point x="677" y="217" type="curve"/>
+      <point x="745" y="256" type="move"/>
+      <point x="745" y="327"/>
+      <point x="707" y="396"/>
+      <point x="638" y="396" type="curve"/>
+    </contour>
+    <contour>
+      <point x="638" y="396" type="move"/>
+      <point x="567" y="396"/>
+      <point x="532" y="318"/>
+      <point x="492" y="234" type="curve"/>
+      <point x="485" y="170" type="line"/>
+      <point x="498" y="247"/>
+      <point x="567" y="304"/>
+      <point x="621" y="304" type="curve" smooth="yes"/>
+      <point x="656" y="304"/>
+      <point x="689" y="281"/>
+      <point x="689" y="232" type="curve" smooth="yes"/>
+      <point x="689" y="219"/>
+      <point x="687" y="205"/>
+      <point x="681" y="189" type="curve"/>
+      <point x="702" y="194" type="line"/>
+      <point x="687" y="213"/>
+      <point x="668" y="238"/>
+      <point x="631" y="238" type="curve" smooth="yes"/>
+      <point x="582" y="238"/>
+      <point x="560" y="203"/>
+      <point x="560" y="168" type="curve" smooth="yes"/>
+      <point x="560" y="120"/>
+      <point x="598" y="98"/>
+      <point x="639" y="98" type="curve" smooth="yes"/>
+      <point x="709" y="98"/>
+      <point x="745" y="189"/>
+      <point x="745" y="256" type="curve"/>
     </contour>
     <component base="bn_t_ta"/>
     <contour>
-      <point x="353.0" y="-74.0" type="move" name="blwm"/>
+      <point x="353" y="-74" type="move" name="blwm"/>
     </contour>
   </outline>
   <lib>
@@ -825,10 +832,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.4711</real>
         <real>1.0</real>
-        <real>0.9798</real>
-        <real>0.1633</real>
-        <real>0.8</real>
+        <real>0.1481</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>
