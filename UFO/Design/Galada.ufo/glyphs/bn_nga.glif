@@ -59,8 +59,8 @@
       <point x="196" y="111"/>
       <point x="91" y="171"/>
       <point x="91" y="321" type="curve" smooth="yes"/>
-      <point x="91.0" y="359.298757431"/>
-      <point x="97.4662759401" y="400.105572632"/>
+      <point x="91" y="359"/>
+      <point x="97" y="400"/>
       <point x="111" y="438" type="curve"/>
       <point x="100" y="451"/>
       <point x="89" y="459"/>
@@ -68,8 +68,11 @@
       <point x="44" y="459"/>
       <point x="31" y="442"/>
       <point x="28" y="404" type="curve" smooth="yes"/>
-      <point x="8" y="175"/>
-      <point x="105" y="-10"/>
+      <point x="23" y="349"/>
+      <point x="25" y="297"/>
+      <point x="34" y="249" type="curve" smooth="yes"/>
+      <point x="60" y="97"/>
+      <point x="153" y="-10"/>
     </contour>
     <contour>
       <point x="369" y="0" type="move" name="blwm"/>
