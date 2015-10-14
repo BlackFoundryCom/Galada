@@ -80,6 +80,21 @@
       <point x="536" y="550"/>
       <point x="520" y="567" type="curve"/>
     </contour>
+    <contour>
+      <point x="622" y="257" type="curve"/>
+      <point x="498" y="274" type="line"/>
+      <point x="368.75" y="142.791666667"/>
+      <point x="414" y="-201"/>
+      <point x="482" y="-201" type="curve" smooth="yes"/>
+      <point x="502" y="-201"/>
+      <point x="517" y="-188"/>
+      <point x="524" y="-166" type="curve"/>
+      <point x="494.824511909" y="-147.812682749"/>
+      <point x="478.71362638" y="-97.897044992"/>
+      <point x="478.71362638" y="-37.1418842278" type="curve" smooth="yes"/>
+      <point x="478.71362638" y="62.4480832305"/>
+      <point x="522.00329328" y="191.16365893"/>
+    </contour>
   </outline>
   <lib>
     <dict>
