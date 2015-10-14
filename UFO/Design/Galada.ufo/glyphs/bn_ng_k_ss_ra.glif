@@ -142,7 +142,7 @@
       <point x="738" y="82"/>
       <point x="647" y="72"/>
     </contour>
-    <component base="bn_nga"/>
+    <component base="bn_nga" xOffset="10"/>
     <contour>
       <point x="334.0" y="0.0" type="move" name="blwm"/>
     </contour>
