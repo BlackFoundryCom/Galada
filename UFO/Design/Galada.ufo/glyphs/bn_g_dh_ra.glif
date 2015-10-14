@@ -102,8 +102,11 @@
       <point x="-124" y="-221"/>
       <point x="-15" y="-290"/>
       <point x="148" y="-290" type="curve" smooth="yes"/>
-      <point x="228.930232558" y="-290.0"/>
-      <point x="246.466666667" y="-332.133333333"/>
+      <point x="208" y="-290"/>
+      <point x="236" y="-306"/>
+      <point x="236" y="-349" type="curve" smooth="yes"/>
+      <point x="236" y="-364"/>
+      <point x="235" y="-378"/>
       <point x="231" y="-394" type="curve"/>
       <point x="257" y="-368" type="line"/>
       <point x="261" y="-350"/>
