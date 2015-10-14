@@ -2,6 +2,12 @@
 <glyph name="bn_ng_ga" format="1">
   <advance width="664"/>
   <outline>
+    <contour>
+      <point x="615" y="567" type="line"/>
+      <point x="599" y="671" type="line"/>
+      <point x="-23" y="671" type="line"/>
+      <point x="-7" y="567" type="line"/>
+    </contour>
     <component base="bn_ii"/>
   </outline>
   <lib>
