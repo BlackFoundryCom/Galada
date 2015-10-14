@@ -55,7 +55,9 @@
     </contour>
     <contour>
       <point x="498" y="360" type="curve"/>
-      <point x="551" y="602" type="line"/>
+      <point x="504" y="381"/>
+      <point x="537.75" y="541.5"/>
+      <point x="551" y="602" type="curve"/>
       <point x="560" y="578"/>
       <point x="586" y="567"/>
       <point x="610" y="567" type="curve"/>
