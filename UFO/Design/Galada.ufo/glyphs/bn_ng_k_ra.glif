@@ -2,6 +2,12 @@
 <glyph name="bn_ng_k_ra" format="1">
   <advance width="664"/>
   <outline>
+    <contour>
+      <point x="-23" y="671" type="line"/>
+      <point x="-7" y="567" type="line"/>
+      <point x="666" y="567" type="line"/>
+      <point x="650" y="671" type="line"/>
+    </contour>
     <component base="bn_ng_ka"/>
   </outline>
   <lib>
