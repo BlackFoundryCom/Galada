@@ -166,8 +166,11 @@
       <point x="719" y="60"/>
       <point x="679" y="75"/>
       <point x="626" y="77" type="curve" smooth="yes"/>
-      <point x="554" y="80"/>
-      <point x="523" y="97"/>
+      <point x="588" y="79"/>
+      <point x="562" y="84"/>
+      <point x="545" y="94" type="curve" smooth="yes"/>
+      <point x="530" y="103"/>
+      <point x="523" y="115"/>
     </contour>
   </outline>
   <lib>
