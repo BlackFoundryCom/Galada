@@ -104,6 +104,24 @@
       <point x="50" y="-64"/>
       <point x="-34" y="-62"/>
     </contour>
+    <contour>
+      <point x="612" y="257" type="curve"/>
+      <point x="488" y="274" type="line"/>
+      <point x="426.317491353" y="210.775428637"/>
+      <point x="387.225578202" y="14.979731075"/>
+      <point x="387.225578202" y="-114.912910887" type="curve" smooth="yes"/>
+      <point x="387.225578202" y="-153.486363851"/>
+      <point x="390.673003459" y="-186.247979018"/>
+      <point x="398.0" y="-208.0" type="curve"/>
+      <point x="412" y="-234"/>
+      <point x="437" y="-312"/>
+      <point x="464" y="-312" type="curve"/>
+      <point x="478" y="-312"/>
+      <point x="488" y="-301"/>
+      <point x="495" y="-279" type="curve"/>
+      <point x="418.93442623" y="-231.786885246"/>
+      <point x="450.383838384" y="150.333333333"/>
+    </contour>
   </outline>
   <lib>
     <dict>
