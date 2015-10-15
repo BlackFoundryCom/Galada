@@ -3,7 +3,7 @@
   <advance width="655"/>
   <outline>
     <component base="bn_nga"/>
-    <component base="bn_gha"/>
+    <component base="bn_gha" xOffset="523"/>
   </outline>
   <lib>
     <dict>
