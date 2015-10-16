@@ -121,6 +121,27 @@
       <point x="474" y="-5"/>
       <point x="407" y="-116"/>
     </contour>
+    <contour>
+      <point x="647" y="213" type="curve"/>
+      <point x="701" y="110" type="line"/>
+      <point x="699.998094232" y="110.048284615"/>
+      <point x="698.989777102" y="110.072235201"/>
+      <point x="697.975470753" y="110.072235201" type="curve" smooth="yes"/>
+      <point x="631.824751056" y="110.072235201"/>
+      <point x="540.199797223" y="8.20207498067"/>
+      <point x="540.199797223" y="-89.1731497214" type="curve" smooth="yes"/>
+      <point x="540.199797223" y="-113.994750988"/>
+      <point x="546.153352809" y="-138.52428282"/>
+      <point x="560.0" y="-161.0" type="curve"/>
+      <point x="553" y="-183"/>
+      <point x="543" y="-196"/>
+      <point x="523" y="-196" type="curve"/>
+      <point x="499" y="-196"/>
+      <point x="480" y="-144"/>
+      <point x="480" y="-76" type="curve" smooth="yes"/>
+      <point x="480" y="25"/>
+      <point x="521" y="160"/>
+    </contour>
   </outline>
   <lib>
     <dict>
