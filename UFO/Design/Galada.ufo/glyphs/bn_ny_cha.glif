@@ -888,30 +888,20 @@
               <key>points</key>
               <array>
                 <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>304</integer>
+                  <real>459.0</real>
                   <key>y</key>
-                  <integer>201</integer>
+                  <real>158.71529112799283</real>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>304</integer>
+                  <real>340.52811601186954</real>
                   <key>y</key>
-                  <integer>234</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>229</integer>
-                  <key>y</key>
-                  <integer>210</integer>
+                  <real>-4.794890096933955</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -1134,22 +1124,6 @@
                   <integer>459</integer>
                   <key>y</key>
                   <integer>114</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>459</integer>
-                  <key>y</key>
-                  <integer>150</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>438.06088776041526</real>
-                  <key>y</key>
-                  <real>175.545401058149</real>
                 </dict>
               </array>
             </dict>
