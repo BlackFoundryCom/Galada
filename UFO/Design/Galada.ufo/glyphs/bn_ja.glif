@@ -56,12 +56,12 @@
     </contour>
     <contour>
       <point x="458" y="-53" type="curve"/>
-      <point x="464.341582375" y="-57.4919541821"/>
-      <point x="471.032259081" y="-59.4704291757"/>
-      <point x="477.629268027" y="-59.4704291757" type="curve" smooth="yes"/>
-      <point x="495.998932278" y="-59.4704291757"/>
-      <point x="513.642325989" y="-44.1299524274"/>
-      <point x="521.0" y="-25.0" type="curve"/>
+      <point x="464" y="-57"/>
+      <point x="471" y="-59"/>
+      <point x="478" y="-59" type="curve" smooth="yes"/>
+      <point x="496" y="-59"/>
+      <point x="514" y="-44"/>
+      <point x="521" y="-25" type="curve"/>
       <point x="502" y="-4"/>
       <point x="494" y="25"/>
       <point x="494" y="57" type="curve" smooth="yes"/>
@@ -84,7 +84,7 @@
       <point x="442" y="-35"/>
     </contour>
     <contour>
-      <point x="293.0" y="0.0" type="move" name="blwm"/>
+      <point x="293" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
   <lib>
