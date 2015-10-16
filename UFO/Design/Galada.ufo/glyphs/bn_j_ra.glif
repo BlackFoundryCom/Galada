@@ -99,9 +99,7 @@
       <point x="26" y="26"/>
     </contour>
     <contour>
-      <point x="143.040147192" y="-213.421967524"/>
-      <point x="477.002785533" y="213.930362128"/>
-      <point x="684" y="347" type="curve"/>
+      <point x="684" y="347" type="line"/>
       <point x="606" y="484" type="line"/>
       <point x="533" y="456"/>
       <point x="427" y="475"/>
