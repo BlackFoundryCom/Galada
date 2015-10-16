@@ -83,8 +83,8 @@
       <point x="997" y="349" type="curve"/>
     </contour>
     <contour>
-      <point x="248" y="64" type="curve" smooth="yes"/>
-      <point x="352" y="64"/>
+      <point x="226" y="71" type="curve" smooth="yes"/>
+      <point x="330" y="71"/>
       <point x="427" y="174"/>
       <point x="427" y="320" type="curve" smooth="yes"/>
       <point x="427" y="353"/>
@@ -110,9 +110,9 @@
       <point x="340" y="256"/>
       <point x="378" y="299" type="curve"/>
       <point x="379" y="221"/>
-      <point x="322" y="162"/>
-      <point x="231" y="173" type="curve" smooth="yes"/>
-      <point x="108" y="188"/>
+      <point x="300" y="169"/>
+      <point x="209" y="180" type="curve" smooth="yes"/>
+      <point x="86" y="195"/>
       <point x="66" y="321"/>
       <point x="66" y="422" type="curve" smooth="yes"/>
       <point x="66" y="443"/>
@@ -125,7 +125,7 @@
       <point x="5" y="490"/>
       <point x="5" y="458" type="curve" smooth="yes"/>
       <point x="5" y="326"/>
-      <point x="84" y="64"/>
+      <point x="62" y="71"/>
     </contour>
     <contour>
       <point x="348" y="0" type="move" name="blwm"/>
