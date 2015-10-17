@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_dd_dda" format="1">
-  <advance width="1093.0"/>
+  <advance width="1018"/>
   <outline>
     <contour>
       <point x="730" y="479" type="curve" smooth="yes"/>
@@ -1110,7 +1110,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1093.0</real>
+          <integer>1018</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -1140,7 +1140,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1093.0</real>
+          <integer>1018</integer>
         </dict>
       </dict>
     </dict>
