@@ -107,9 +107,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>275</integer>
+			<integer>693</integer>
 			<key>y</key>
-			<integer>848</integer>
+			<integer>237</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -891,11 +891,46 @@
 				<string>bn_ra_phala</string>
 				<string>uni25CC</string>
 				<string>uni20B9.rupee</string>
-				<string>bn_r_ukaar</string>
-				<string>bn_tta_ikaar</string>
 				<string>bn_ikaar.fl.wi2</string>
 				<string>bn_ikaar.fl.wi1</string>
 				<string>bn_ikaar.fl</string>
+				<string>bn_reph.alt</string>
+				<string>uni200C</string>
+				<string>uni200D</string>
+				<string>bn_da_ukaar</string>
+				<string>bn_da_uukaar</string>
+				<string>bn_ka.half</string>
+				<string>bn_kha.half</string>
+				<string>bn_ga.half</string>
+				<string>bn_gha.half</string>
+				<string>bn_nga.half</string>
+				<string>bn_ca.half</string>
+				<string>bn_cha.half</string>
+				<string>bn_ja.half</string>
+				<string>bn_jha.half</string>
+				<string>bn_nya.half</string>
+				<string>bn_tta.half</string>
+				<string>bn_ttha.half</string>
+				<string>bn_dda.half</string>
+				<string>bn_ddha.half</string>
+				<string>bn_nna.half</string>
+				<string>bn_ta.half</string>
+				<string>bn_tha.half</string>
+				<string>bn_da.half</string>
+				<string>bn_dha.half</string>
+				<string>bn_na.half</string>
+				<string>bn_pa.half</string>
+				<string>bn_pha.half</string>
+				<string>bn_ba.half</string>
+				<string>bn_bha.half</string>
+				<string>bn_ma.half</string>
+				<string>bn_ya.half</string>
+				<string>bn_ra.half</string>
+				<string>bn_la.half</string>
+				<string>bn_sha.half</string>
+				<string>bn_ssa.half</string>
+				<string>bn_sa.half</string>
+				<string>bn_ha.half</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1602,14 +1637,46 @@
 		<string>bn_ra_phala</string>
 		<string>uni25CC</string>
 		<string>uni20B9.rupee</string>
-		<string>bn_r_ukaar</string>
-		<string>bn_tta_ikaar</string>
 		<string>bn_ikaar.fl.wi2</string>
 		<string>bn_ikaar.fl.wi1</string>
 		<string>bn_ikaar.fl</string>
 		<string>bn_reph.alt</string>
 		<string>uni200C</string>
 		<string>uni200D</string>
+		<string>bn_da_ukaar</string>
+		<string>bn_da_uukaar</string>
+		<string>bn_ka.half</string>
+		<string>bn_kha.half</string>
+		<string>bn_ga.half</string>
+		<string>bn_gha.half</string>
+		<string>bn_nga.half</string>
+		<string>bn_ca.half</string>
+		<string>bn_cha.half</string>
+		<string>bn_ja.half</string>
+		<string>bn_jha.half</string>
+		<string>bn_nya.half</string>
+		<string>bn_tta.half</string>
+		<string>bn_ttha.half</string>
+		<string>bn_dda.half</string>
+		<string>bn_ddha.half</string>
+		<string>bn_nna.half</string>
+		<string>bn_ta.half</string>
+		<string>bn_tha.half</string>
+		<string>bn_da.half</string>
+		<string>bn_dha.half</string>
+		<string>bn_na.half</string>
+		<string>bn_pa.half</string>
+		<string>bn_pha.half</string>
+		<string>bn_ba.half</string>
+		<string>bn_bha.half</string>
+		<string>bn_ma.half</string>
+		<string>bn_ya.half</string>
+		<string>bn_ra.half</string>
+		<string>bn_la.half</string>
+		<string>bn_sha.half</string>
+		<string>bn_ssa.half</string>
+		<string>bn_sa.half</string>
+		<string>bn_ha.half</string>
 	</array>
 </dict>
 </plist>
