@@ -81,14 +81,11 @@
     </contour>
     <contour>
       <point x="-91" y="146" type="curve" smooth="yes"/>
-      <point x="-91.0" y="-25.4510967623"/>
-      <point x="45.920445809" y="-109.26063254"/>
-      <point x="171.705818052" y="-109.26063254" type="curve" smooth="yes"/>
-      <point x="271.151488409" y="-109.26063254"/>
-      <point x="363.637233581" y="-56.8758777016"/>
-      <point x="376.0" y="46.0" type="curve" smooth="yes"/>
-      <point x="386" y="128"/>
-      <point x="306" y="181"/>
+      <point x="-91" y="-25"/>
+      <point x="46" y="-109"/>
+      <point x="172" y="-109" type="curve" smooth="yes"/>
+      <point x="349.866012048" y="-109.0"/>
+      <point x="347.424688724" y="152.128247253"/>
       <point x="273" y="204" type="curve"/>
       <point x="269" y="151" type="line"/>
       <point x="287" y="138"/>
