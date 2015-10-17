@@ -79,6 +79,33 @@
       <point x="360" y="675"/>
       <point x="343" y="666" type="curve"/>
     </contour>
+    <contour>
+      <point x="-91" y="146" type="curve" smooth="yes"/>
+      <point x="-91" y="-25"/>
+      <point x="46" y="-109"/>
+      <point x="172" y="-109" type="curve" smooth="yes"/>
+      <point x="284.575617978" y="-109.0"/>
+      <point x="367.552007245" y="-33.401969915"/>
+      <point x="367.552007245" y="53.5391197272" type="curve" smooth="yes"/>
+      <point x="367.552007245" y="104.065753863"/>
+      <point x="339.527040146" y="158.423464209"/>
+      <point x="273.0" y="204.0" type="curve"/>
+      <point x="269" y="151" type="line"/>
+      <point x="287" y="138"/>
+      <point x="310" y="111"/>
+      <point x="310" y="79" type="curve" smooth="yes"/>
+      <point x="310" y="16"/>
+      <point x="233" y="-4"/>
+      <point x="151" y="-4" type="curve" smooth="yes"/>
+      <point x="1" y="-4"/>
+      <point x="-58" y="120"/>
+      <point x="-11" y="207" type="curve"/>
+      <point x="-20" y="218"/>
+      <point x="-36" y="228"/>
+      <point x="-54" y="228" type="curve"/>
+      <point x="-84" y="228"/>
+      <point x="-91" y="197"/>
+    </contour>
   </outline>
   <lib>
     <dict>
