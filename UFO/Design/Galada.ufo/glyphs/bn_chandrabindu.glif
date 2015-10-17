@@ -4,42 +4,45 @@
   <unicode hex="0981"/>
   <outline>
     <contour>
-      <point x="-80" y="908" type="curve" smooth="yes"/>
-      <point x="-48" y="908"/>
-      <point x="-27" y="929"/>
-      <point x="-27" y="958" type="curve" smooth="yes"/>
-      <point x="-27" y="986"/>
-      <point x="-48" y="1011"/>
-      <point x="-80" y="1011" type="curve" smooth="yes"/>
-      <point x="-110" y="1011"/>
-      <point x="-130" y="986"/>
-      <point x="-130" y="958" type="curve" smooth="yes"/>
-      <point x="-130" y="929"/>
-      <point x="-110" y="908"/>
+      <point x="-132" y="908" type="curve" smooth="yes"/>
+      <point x="-100" y="908"/>
+      <point x="-79" y="929"/>
+      <point x="-79" y="958" type="curve" smooth="yes"/>
+      <point x="-79" y="986"/>
+      <point x="-100" y="1011"/>
+      <point x="-132" y="1011" type="curve" smooth="yes"/>
+      <point x="-162" y="1011"/>
+      <point x="-182" y="986"/>
+      <point x="-182" y="958" type="curve" smooth="yes"/>
+      <point x="-182" y="929"/>
+      <point x="-162" y="908"/>
     </contour>
     <contour>
-      <point x="-200" y="972"/>
-      <point x="-193" y="988"/>
-      <point x="-183" y="998" type="curve"/>
-      <point x="-189" y="1002"/>
-      <point x="-197" y="1004"/>
-      <point x="-205" y="1004" type="curve" smooth="yes"/>
-      <point x="-231" y="1004"/>
-      <point x="-240" y="975"/>
-      <point x="-240" y="941" type="curve"/>
-      <point x="-240" y="857"/>
-      <point x="-189" y="780"/>
-      <point x="-89" y="780" type="curve" smooth="yes"/>
-      <point x="8" y="780"/>
-      <point x="52" y="856"/>
-      <point x="87" y="997" type="curve"/>
-      <point x="55" y="1005" type="line"/>
-      <point x="25" y="894"/>
-      <point x="-22" y="869"/>
-      <point x="-90" y="869" type="curve" smooth="yes"/>
-      <point x="-154" y="869"/>
-      <point x="-200" y="902"/>
-      <point x="-200" y="948" type="curve"/>
+      <point x="-252" y="972"/>
+      <point x="-245" y="988"/>
+      <point x="-235" y="998" type="curve"/>
+      <point x="-241" y="1002"/>
+      <point x="-249" y="1004"/>
+      <point x="-257" y="1004" type="curve" smooth="yes"/>
+      <point x="-283" y="1004"/>
+      <point x="-292" y="975"/>
+      <point x="-292" y="941" type="curve"/>
+      <point x="-292" y="857"/>
+      <point x="-241" y="780"/>
+      <point x="-141" y="780" type="curve" smooth="yes"/>
+      <point x="-44" y="780"/>
+      <point x="0" y="856"/>
+      <point x="35" y="997" type="curve"/>
+      <point x="3" y="1005" type="line"/>
+      <point x="-27" y="894"/>
+      <point x="-74" y="869"/>
+      <point x="-142" y="869" type="curve" smooth="yes"/>
+      <point x="-206" y="869"/>
+      <point x="-252" y="902"/>
+      <point x="-252" y="948" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-148" y="750" type="move" name="_chandrabindu"/>
     </contour>
   </outline>
   <lib>

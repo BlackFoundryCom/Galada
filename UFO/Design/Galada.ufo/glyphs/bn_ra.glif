@@ -19,7 +19,13 @@
     </contour>
     <component base="bn_ba"/>
     <contour>
-      <point x="256" y="0" type="move" name="blwm"/>
+      <point x="258" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="428" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="428" y="750" type="move" name="chandrabindu"/>
     </contour>
   </outline>
   <lib>

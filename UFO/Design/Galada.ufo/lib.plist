@@ -93,9 +93,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>515</integer>
+			<integer>173</integer>
 			<key>y</key>
-			<integer>-162</integer>
+			<integer>-170</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -121,9 +121,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>491</integer>
+			<integer>205</integer>
 			<key>y</key>
-			<integer>-73</integer>
+			<integer>-120</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -163,9 +163,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>556</integer>
+			<integer>46</integer>
 			<key>y</key>
-			<integer>80</integer>
+			<integer>71</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -1607,6 +1607,9 @@
 		<string>bn_ikaar.fl.wi2</string>
 		<string>bn_ikaar.fl.wi1</string>
 		<string>bn_ikaar.fl</string>
+		<string>bn_reph.alt</string>
+		<string>uni200C</string>
+		<string>uni200D</string>
 	</array>
 </dict>
 </plist>
