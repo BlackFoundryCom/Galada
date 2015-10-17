@@ -2,6 +2,12 @@
 <glyph name="bn_tth_ra" format="1">
   <advance width="483"/>
   <outline>
+    <contour>
+      <point x="485" y="567" type="line"/>
+      <point x="469" y="671" type="line"/>
+      <point x="-23" y="671" type="line"/>
+      <point x="-7" y="567" type="line"/>
+    </contour>
     <component base="bn_ttha"/>
   </outline>
   <lib>
