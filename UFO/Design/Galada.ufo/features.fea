@@ -178,7 +178,7 @@ feature pres {
 		sub bn_gha bn_ba_phala by bn_gh_ba;
 		# sub bn_nga bn_ba_phala by bn_ng_ba;
 		# sub bn_ca bn_ba_phala by bn_c_ba;
-		# sub bn_cha bn_ba_phala by bn_ch_ba;
+		sub bn_cha bn_ba_phala by bn_ch_ba;
 		sub bn_ja bn_ba_phala by bn_j_ba;
 		#sub bn_jha bn_ba_phala by bn_jh_ba;
 		#sub bn_nya bn_ba_phala by bn_ny_ba;
@@ -190,7 +190,7 @@ feature pres {
 		sub bn_ta bn_ba_phala by bn_t_ba;
 		sub bn_tha bn_ba_phala by bn_th_ba;
 		sub bn_da bn_ba_phala by bn_d_ba;
-		# sub bn_dha bn_ba_phala by bn_dh_ba;
+		sub bn_dha bn_ba_phala by bn_dh_ba;
 		sub bn_na bn_ba_phala by bn_n_ba;
 		# sub bn_pa bn_ba_phala by bn_p_ba;
 		# sub bn_pha bn_ba_phala by bn_ph_ba;
@@ -209,6 +209,7 @@ feature pres {
 	} pres_ba;
 
 	lookup pres_ra {
+
 		sub bn_ka bn_ra_phala by bn_k_ra;
 		sub bn_kha bn_ra_phala by bn_kh_ra;
 		sub bn_ga bn_ra_phala by bn_g_ra;
@@ -243,6 +244,7 @@ feature pres {
 		sub bn_ha bn_ra_phala by bn_h_ra;
 
 		sub bn_k_ssa bn_ra_phala by bn_k_ss_ra;
+
 	} pres_ra;
 	
 	lookup pres_conjuncts {
@@ -253,11 +255,37 @@ feature pres {
 		sub bn_ka.half bn_la by bn_k_la;
 		sub bn_ka.half bn_sa by bn_k_sa;
 
+		# _ga
+		sub bn_ga.half bn_ga by bn_g_ga;
+		sub bn_ga.half bn_da by bn_g_da;
+		sub bn_ga.half bn_dha by bn_g_dha;
+		sub bn_ga.half bn_na by bn_g_na;
+		sub bn_ga.half bn_ma by bn_g_ma;
+		sub bn_ga.half bn_la by bn_g_la;
+
+		# _gha
+		sub bn_gha bn_na by bn_gh_na;
+
+		# _nga
+		sub bn_nga.half bn_ka by bn_ng_ka;
+		sub bn_nga.half bn_kha by bn_ng_kha;
+		sub bn_nga.half bn_ga by bn_ng_ga;
+		sub bn_nga.half bn_gha by bn_ng_gha;
+		sub bn_nga.half bn_ma by bn_ng_ma;
+
+		# _ca
+		sub bn_ca.half bn_ca by bn_c_ca;
+		sub bn_ca.half bn_cha by bn_c_cha;
+		sub bn_ca.half bn_nya by bn_c_nya;
+
 		# _sha
 		sub bn_sha.half bn_ca by bn_sh_ca;
 
 		# _nya
 		sub bn_nya.half bn_ca by bn_ny_ca;
+
+		# _dha
+
 
 		# _ta
 		sub bn_ta.half bn_ra by bn_t_ra;
@@ -277,11 +305,23 @@ feature pres {
 		sub bn_ka.half bn_tt_ra by bn_k_tt_ra;
 		sub bn_ka.half bn_t_ra by bn_k_t_ra;
 
+		sub bn_ga.half bn_dh_ba by bn_g_dh_ba;
+		sub bn_ga.half bn_dh_ra by bn_g_dh_ra;
+
+		sub bn_nga.half bn_k_ra by bn_ng_k_ra;
+		sub bn_nga.half bn_g_ra by bn_ng_g_ra;
+		sub bn_nga.half bn_gh_ra by bn_ng_gh_ra;
+		sub bn_nga.half bn_k_ss_ra by bn_ng_k_ss_ra;
+		sub bn_nga.half bn_k_ssa by bn_ng_k_ssa;
+
+		sub bn_ca.half bn_ch_ba by bn_c_ch_ba;
+		sub bn_ca.half bn_ch_ra by bn_c_ch_ra;
+
 		sub bn_k_ssa.half bn_nna by bn_k_ss_nna;
 		sub bn_k_ssa.half bn_ma by bn_k_ss_ma;
 
-
 	} deepconjuncts;    
+
     # _ikaar
     sub bn_ikaar' bn_ttha by bn_ikaar.fl.wi1;
     sub bn_ikaar' bn_tta by bn_ikaar.fl.wi1;
@@ -291,9 +331,11 @@ feature pres {
     sub bn_da bn_ukaar by bn_da_ukaar;
     sub bn_ra bn_ukaar by bn_ra_ukaar; 
     sub bn_ga bn_ukaar by bn_ga_ukaar;
+    sub bn_g_ra bn_ukaar by bn_g_ra_ukaar;
 
     # _uukaar
     sub bn_da bn_uukaar by bn_da_uukaar;
+    sub bn_g_ra bn_uukaar by bn_g_ra_uukaar;
 
     # _rikaar
     sub bn_ha bn_rikaar by bn_ha_rikaar;
@@ -378,6 +420,7 @@ feature blwm{
 	position base [bn_ma] <anchor 105 0> mark @NUKT_MARKS <anchor 326 0> mark @BLWM_MARKS;
 	position base [bn_yya] <anchor 272 0> mark @BLWM_MARKS;
 	position base [bn_ra] <anchor 258 0> mark @BLWM_MARKS;
+	position base [bn_k_ssa] <anchor 427 -73> mark @BLWM_MARKS;
 	position base [bn_ka] <anchor 39 0> mark @NUKT_MARKS <anchor 256 0> mark @BLWM_MARKS;
 	position base [bn_ya] <anchor 35 0> mark @NUKT_MARKS <anchor 272 0> mark @BLWM_MARKS;
 	position base [bn_tha] <anchor 145 0> mark @NUKT_MARKS <anchor 379 0> mark @BLWM_MARKS;
