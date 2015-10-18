@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bn_rra" format="1">
+<glyph name="bn_rra.half" format="1">
   <advance width="603"/>
-  <unicode hex="09DC"/>
   <outline>
     <contour>
       <point x="250" y="-208" type="curve" smooth="yes"/>
@@ -19,7 +18,7 @@
     </contour>
     <component base="bn_dda"/>
     <contour>
-      <point x="675" y="0" type="move" name="blwm"/>
+      <point x="675.0" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
   <lib>
@@ -389,7 +388,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>bn_rra</string>
+          <string>bn_rra.half</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -397,13 +396,6 @@
           <integer>603</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.502</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

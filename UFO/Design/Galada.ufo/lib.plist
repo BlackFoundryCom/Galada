@@ -651,7 +651,7 @@
 				<string>bn_k_sa</string>
 				<string>bn_kh_ba</string>
 				<string>bn_kh_ra</string>
-				<string>bn_g_ukaar</string>
+				<string>bn_ga_ukaar</string>
 				<string>bn_g_ga</string>
 				<string>bn_g_da</string>
 				<string>bn_g_dha</string>
@@ -894,9 +894,6 @@
 				<string>bn_ikaar.fl.wi2</string>
 				<string>bn_ikaar.fl.wi1</string>
 				<string>bn_ikaar.fl</string>
-				<string>bn_reph.alt</string>
-				<string>uni200C</string>
-				<string>uni200D</string>
 				<string>bn_da_ukaar</string>
 				<string>bn_da_uukaar</string>
 				<string>bn_ka.half</string>
@@ -931,6 +928,17 @@
 				<string>bn_ssa.half</string>
 				<string>bn_sa.half</string>
 				<string>bn_ha.half</string>
+				<string>bn_rra.half</string>
+				<string>bn_rha.half</string>
+				<string>bn_yya.half</string>
+				<string>asa_ra.half</string>
+				<string>asa_ba.half</string>
+				<string>bn_k_ssa.half</string>
+				<string>bn_j_nya.half</string>
+				<string>bn_ukaar.alt</string>
+				<string>bn_reph.alt</string>
+				<string>uni200C</string>
+				<string>uni200D</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1397,7 +1405,7 @@
 		<string>bn_k_sa</string>
 		<string>bn_kh_ba</string>
 		<string>bn_kh_ra</string>
-		<string>bn_g_ukaar</string>
+		<string>bn_ga_ukaar</string>
 		<string>bn_g_ga</string>
 		<string>bn_g_da</string>
 		<string>bn_g_dha</string>
@@ -1640,9 +1648,6 @@
 		<string>bn_ikaar.fl.wi2</string>
 		<string>bn_ikaar.fl.wi1</string>
 		<string>bn_ikaar.fl</string>
-		<string>bn_reph.alt</string>
-		<string>uni200C</string>
-		<string>uni200D</string>
 		<string>bn_da_ukaar</string>
 		<string>bn_da_uukaar</string>
 		<string>bn_ka.half</string>
@@ -1677,6 +1682,17 @@
 		<string>bn_ssa.half</string>
 		<string>bn_sa.half</string>
 		<string>bn_ha.half</string>
+		<string>bn_rra.half</string>
+		<string>bn_rha.half</string>
+		<string>bn_yya.half</string>
+		<string>asa_ra.half</string>
+		<string>asa_ba.half</string>
+		<string>bn_k_ssa.half</string>
+		<string>bn_j_nya.half</string>
+		<string>bn_ukaar.alt</string>
+		<string>bn_reph.alt</string>
+		<string>uni200C</string>
+		<string>uni200D</string>
 	</array>
 </dict>
 </plist>

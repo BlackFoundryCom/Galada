@@ -124,6 +124,7 @@ feature init{
 }init;
 
 feature half {
+
 	sub bn_ka bn_halanth by bn_ka.half;
 	sub bn_kha bn_halanth by bn_kha.half;
 	sub bn_ga bn_halanth by bn_ga.half;
@@ -156,6 +157,17 @@ feature half {
 	sub bn_ssa bn_halanth by bn_ssa.half;
 	sub bn_sa bn_halanth by bn_sa.half;
 	sub bn_ha bn_halanth by bn_ha.half;
+
+	sub bn_rra bn_halanth by bn_rra.half;
+	sub bn_rha bn_halanth by bn_rha.half;
+	sub bn_yya bn_halanth by bn_yya.half;
+
+	sub asa_ra bn_halanth by asa_ra.half;
+	sub asa_ba bn_halanth by asa_ba.half;
+
+	sub bn_k_ssa bn_halanth by bn_k_ssa.half;
+	sub bn_j_nya bn_halanth by bn_j_nya.half;
+
 } half;
 
 feature pres {
@@ -192,6 +204,8 @@ feature pres {
 		sub bn_ssa bn_ba_phala by bn_ss_ba;
 		sub bn_sa bn_ba_phala by bn_s_ba;
 		sub bn_ha bn_ba_phala by bn_h_ba;
+
+		sub bn_k_ssa bn_ba_phala by bn_k_ss_ba;
 	} pres_ba;
 
 	lookup pres_ra {
@@ -227,6 +241,8 @@ feature pres {
 		sub bn_ssa bn_ra_phala by bn_ss_ra;
 		sub bn_sa bn_ra_phala by bn_s_ra;
 		sub bn_ha bn_ra_phala by bn_h_ra;
+
+		sub bn_k_ssa bn_ra_phala by bn_k_ss_ra;
 	} pres_ra;
 	
 	lookup pres_conjuncts {
@@ -235,13 +251,16 @@ feature pres {
 		sub bn_ka.half bn_tta by bn_k_tta;
 		sub bn_ka.half bn_ta by bn_k_ta;
 		sub bn_ka.half bn_la by bn_k_la;
-		sub bn_ka.half bn_tt_ra by bn_k_tt_ra;
+		sub bn_ka.half bn_sa by bn_k_sa;
 
 		# _sha
 		sub bn_sha.half bn_ca by bn_sh_ca;
 
 		# _nya
 		sub bn_nya.half bn_ca by bn_ny_ca;
+
+		# _ta
+		sub bn_ta.half bn_ra by bn_t_ra;
 
 		# _da
 		sub bn_da.half bn_bha by bn_d_bha;
@@ -252,7 +271,17 @@ feature pres {
 		sub bn_ssa.half bn_tta by bn_ss_tta;
 		
 	} pres_conjuncts;
-    
+	
+	lookup deepconjuncts {
+
+		sub bn_ka.half bn_tt_ra by bn_k_tt_ra;
+		sub bn_ka.half bn_t_ra by bn_k_t_ra;
+
+		sub bn_k_ssa.half bn_nna by bn_k_ss_nna;
+		sub bn_k_ssa.half bn_ma by bn_k_ss_ma;
+
+
+	} deepconjuncts;    
     # _ikaar
     sub bn_ikaar' bn_ttha by bn_ikaar.fl.wi1;
     sub bn_ikaar' bn_tta by bn_ikaar.fl.wi1;
@@ -261,12 +290,16 @@ feature pres {
     # _ukaar
     sub bn_da bn_ukaar by bn_da_ukaar;
     sub bn_ra bn_ukaar by bn_ra_ukaar; 
+    sub bn_ga bn_ukaar by bn_ga_ukaar;
 
     # _uukaar
     sub bn_da bn_uukaar by bn_da_uukaar;
 
     # _rikaar
     sub bn_ha bn_rikaar by bn_ha_rikaar;
+
+    # _ukaar alternative
+    sub [bn_rra bn_rha] bn_ukaar' by bn_ukaar.alt;
       
 } pres;
 
@@ -312,7 +345,7 @@ feature abvm{
 
 feature blwm{
 
-	markClass [bn_rikaar bn_ba_phala bn_rrikaar bn_ra_phala bn_uukaar bn_ukaar] <anchor 0 0> @BLWM_MARKS;
+	markClass [bn_rikaar bn_ba_phala bn_rrikaar bn_ukaar.alt bn_ra_phala bn_uukaar bn_ukaar] <anchor 0 0> @BLWM_MARKS;
 	markClass [bn_nukta] <anchor -375 -193> @NUKT_MARKS;
 
 	position base [bn_bha] <anchor 225 -120> mark @NUKT_MARKS <anchor 244 0> mark @BLWM_MARKS;
@@ -333,8 +366,10 @@ feature blwm{
 	position base [bn_ssa] <anchor 35 0> mark @NUKT_MARKS <anchor 272 0> mark @BLWM_MARKS;
 	position base [bn_nga] <anchor 175 -120> mark @NUKT_MARKS <anchor 319 0> mark @BLWM_MARKS;
 	position base [bn_sha] <anchor 105 0> mark @NUKT_MARKS <anchor 347 0> mark @BLWM_MARKS;
-	position base [bn_pha] <anchor 85 0> mark @NUKT_MARKS <anchor 301 0> mark @BLWM_MARKS;
+	position base [bn_rra] <anchor 675 0> mark @BLWM_MARKS;
+	position base [bn_rha] <anchor 475 0> mark @BLWM_MARKS;
 	position base [bn_da] <anchor 105 0> mark @NUKT_MARKS <anchor 299 0> mark @BLWM_MARKS;
+	position base [bn_pha] <anchor 85 0> mark @NUKT_MARKS <anchor 301 0> mark @BLWM_MARKS;
 	position base [bn_cha] <anchor 135 -170> mark @NUKT_MARKS <anchor 196 -53> mark @BLWM_MARKS;
 	position base [asa_ra] <anchor 42 0> mark @NUKT_MARKS <anchor 258 0> mark @BLWM_MARKS;
 	position base [bn_ca] <anchor 115 -120> mark @NUKT_MARKS <anchor 173 0> mark @BLWM_MARKS;
@@ -350,7 +385,6 @@ feature blwm{
 	position base [bn_nna] <anchor 85 0> mark @NUKT_MARKS <anchor 290 0> mark @BLWM_MARKS;
 	position base [bn_nya] <anchor 85 0> mark @NUKT_MARKS <anchor 370 0> mark @BLWM_MARKS;
 	position base [asa_ba] <anchor 258 0> mark @BLWM_MARKS;
-
 
 }blwm;
 
