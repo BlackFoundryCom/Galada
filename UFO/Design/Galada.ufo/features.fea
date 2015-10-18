@@ -278,14 +278,72 @@ feature pres {
 		sub bn_ca.half bn_cha by bn_c_cha;
 		sub bn_ca.half bn_nya by bn_c_nya;
 
+		# _ja
+		sub bn_ja.half bn_ja by bn_j_ja;
+		sub bn_ja.half bn_jha by bn_j_jha;
+
+		# _nya
+		sub bn_nya.half  bn_ca by bn_ny_ca;
+		sub bn_nya.half  bn_cha by bn_ny_cha;
+		sub bn_nya.half  bn_ja by bn_ny_ja;
+		sub bn_nya.half  bn_jha by bn_ny_jha;
+
 		# _sha
 		sub bn_sha.half bn_ca by bn_sh_ca;
 
 		# _nya
 		sub bn_nya.half bn_ca by bn_ny_ca;
 
-		# _dha
+		# _tta
+		sub bn_tta.half bn_tta by bn_tt_tta;
 
+		# _dda
+		sub bn_dda.half bn_dda by bn_dd_dda;
+
+		# _nna
+		sub bn_nna.half bn_tta by bn_nn_tta;
+		sub bn_nna.half bn_ttha by bn_nn_ttha;
+		sub bn_nna.half bn_dda by bn_nn_dda;
+		sub bn_nna.half bn_ddha by bn_nn_ddha;
+		sub bn_nna.half bn_nna by bn_nn_nna;
+		sub bn_nna.half bn_ba by bn_nn_ba;
+		sub bn_nna.half bn_ma by bn_nn_ma;
+
+		# _ta
+		sub bn_ta.half bn_ta by bn_t_ta;
+		sub bn_ta.half bn_tha by bn_t_tha;
+		sub bn_ta.half bn_na by bn_t_na;
+		sub bn_ta.half bn_ma by bn_t_ma;
+		sub bn_ta.half bn_ta by bn_t_ta;
+
+		# _tha
+		sub bn_tha.half bn_la by bn_th_la;
+
+		# _da
+		sub bn_da.half bn_ga by bn_d_ga;
+		sub bn_da.half bn_gha by bn_d_gha;
+		sub bn_da.half bn_da by bn_d_da;
+		sub bn_da.half bn_dha by bn_d_dha;
+		sub bn_da.half bn_na by bn_d_na;
+		sub bn_da.half bn_bha by bn_d_bha;
+		sub bn_da.half bn_ma by bn_d_ma;
+
+		# _dha
+		sub bn_dha.half bn_na by bn_dh_na;
+		sub bn_dha.half bn_ba by bn_dh_ba;
+
+		# _na
+		sub bn_na.half bn_jha by bn_n_jha;
+		sub bn_na.half bn_tta by bn_n_tta;
+		sub bn_na.half bn_ttha by bn_n_ttha;
+		sub bn_na.half bn_dda by bn_n_dda;
+		sub bn_na.half bn_ta by bn_n_ta;
+		sub bn_na.half bn_tha by bn_n_tha;
+		sub bn_na.half bn_da by bn_n_da;
+		sub bn_na.half bn_dha by bn_n_dha;
+		sub bn_na.half bn_na by bn_n_na;
+		sub bn_na.half bn_ma by bn_n_ma;
+		sub bn_na.half bn_sa by bn_n_sa;
 
 		# _ta
 		sub bn_ta.half bn_ra by bn_t_ra;
@@ -317,6 +375,27 @@ feature pres {
 		sub bn_ca.half bn_ch_ba by bn_c_ch_ba;
 		sub bn_ca.half bn_ch_ra by bn_c_ch_ra;
 
+		sub bn_ja.half bn_j_ba by bn_j_j_ba;
+
+		sub bn_nna.half bn_dd_ra by bn_nn_dd_ra;
+
+		sub bn_ta.half bn_t_ba by bn_t_t_ba;
+		sub bn_ta.half bn_t_ra by bn_t_t_ra;
+
+		sub bn_da.half bn_d_ba by bn_d_d_ba;
+		sub bn_da.half bn_dh_ba by bn_d_dh_ba;
+		sub bn_da.half bn_bh_ra by bn_d_bh_ra;
+
+		sub bn_na.half bn_k_ta by bn_n_k_ta;
+		sub bn_na.half bn_tt_ra by bn_n_tt_ra;
+		sub bn_na.half bn_dd_ra by bn_n_dd_ra;
+		sub bn_na.half bn_t_ba by bn_n_t_ba;
+		sub bn_na.half bn_t_ra by bn_n_t_ra;
+		sub bn_na.half bn_d_ba by bn_n_d_ba;
+		sub bn_na.half bn_d_ra by bn_n_d_ra;
+		sub bn_na.half bn_dh_ba by bn_n_dh_ba;
+		sub bn_na.half bn_dh_ra by bn_n_dh_ra;
+
 		sub bn_k_ssa.half bn_nna by bn_k_ss_nna;
 		sub bn_k_ssa.half bn_ma by bn_k_ss_ma;
 
@@ -332,10 +411,18 @@ feature pres {
     sub bn_ra bn_ukaar by bn_ra_ukaar; 
     sub bn_ga bn_ukaar by bn_ga_ukaar;
     sub bn_g_ra bn_ukaar by bn_g_ra_ukaar;
+    sub bn_t_ra bn_ukaar by bn_t_ra_ukaar;
+    sub bn_th_ra bn_ukaar by bn_th_ra_ukaar;
+    sub bn_d_ra bn_ukaar by bn_d_ra_ukaar;
+    sub bn_dh_ra bn_ukaar by bn_dh_ra_ukaar;
 
     # _uukaar
     sub bn_da bn_uukaar by bn_da_uukaar;
     sub bn_g_ra bn_uukaar by bn_g_ra_uukaar;
+    sub bn_t_ra bn_uukaar by bn_t_ra_uukaar;
+    sub bn_th_ra bn_uukaar by bn_th_ra_uukaar;
+    sub bn_d_ra bn_uukaar by bn_d_ra_uukaar;
+    sub bn_dh_ra bn_uukaar by bn_dh_ra_uukaar;
 
     # _rikaar
     sub bn_ha bn_rikaar by bn_ha_rikaar;
