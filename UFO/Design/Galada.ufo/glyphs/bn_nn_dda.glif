@@ -4,7 +4,7 @@
   <outline>
     <contour>
       <point x="404" y="499" type="line"/>
-      <point x="418" y="551"/>
+      <point x="422" y="551"/>
       <point x="445" y="600"/>
       <point x="452" y="671" type="curve"/>
       <point x="509" y="671" type="line"/>
@@ -88,7 +88,7 @@
       <point x="548" y="145"/>
     </contour>
     <contour>
-      <point x="456" y="-74" type="move" name="blwm"/>
+      <point x="456.0" y="-74.0" type="move" name="blwm"/>
     </contour>
   </outline>
   <lib>
