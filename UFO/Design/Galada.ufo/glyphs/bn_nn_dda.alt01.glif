@@ -30,57 +30,6 @@
       <point x="148" y="500"/>
       <point x="148" y="455" type="curve"/>
     </contour>
-    <contour>
-      <point x="468" y="479" type="curve" smooth="yes"/>
-      <point x="488" y="539"/>
-      <point x="521" y="567"/>
-      <point x="612" y="567" type="curve" smooth="yes"/>
-      <point x="758" y="567" type="line"/>
-      <point x="742" y="671" type="line"/>
-      <point x="584" y="671" type="line" smooth="yes"/>
-      <point x="447" y="671"/>
-      <point x="371" y="612"/>
-      <point x="349" y="498" type="curve" smooth="yes"/>
-      <point x="334" y="421" type="line" smooth="yes"/>
-      <point x="311" y="302"/>
-      <point x="389" y="220"/>
-      <point x="485" y="219" type="curve"/>
-      <point x="531" y="219"/>
-      <point x="576" y="243"/>
-      <point x="607" y="293" type="curve"/>
-      <point x="612" y="183"/>
-      <point x="522" y="118"/>
-      <point x="417" y="118" type="curve"/>
-      <point x="327" y="120"/>
-      <point x="254" y="154"/>
-      <point x="207" y="200" type="curve" smooth="yes"/>
-      <point x="164" y="242"/>
-      <point x="145" y="296"/>
-      <point x="157" y="345" type="curve"/>
-      <point x="146" y="358"/>
-      <point x="130" y="366"/>
-      <point x="112" y="366" type="curve" smooth="yes"/>
-      <point x="45.1870282036" y="366.0"/>
-      <point x="81.5693231494" y="221.817974563"/>
-      <point x="145" y="136" type="curve" smooth="yes"/>
-      <point x="208" y="53"/>
-      <point x="307" y="-8"/>
-      <point x="427" y="-8" type="curve"/>
-      <point x="546" y="-8"/>
-      <point x="663" y="69"/>
-      <point x="664" y="257" type="curve"/>
-      <point x="663" y="348"/>
-      <point x="636" y="405"/>
-      <point x="600" y="448" type="curve"/>
-      <point x="508" y="329"/>
-      <point x="480" y="300"/>
-      <point x="454" y="300" type="curve" smooth="yes"/>
-      <point x="437" y="300"/>
-      <point x="431" y="316"/>
-      <point x="431" y="331" type="curve"/>
-      <point x="431" y="372"/>
-      <point x="450" y="424"/>
-    </contour>
   </outline>
   <lib>
     <dict>
