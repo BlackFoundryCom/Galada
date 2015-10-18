@@ -176,6 +176,8 @@
 		<string>Back</string>
 		<string>New_01</string>
 	</array>
+	<key>com.typemytype.robofont.mask.layerShow</key>
+	<true/>
 	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
 	<array>
 		<real>1.0</real>
@@ -937,6 +939,7 @@
 				<string>bn_k_ssa.half</string>
 				<string>bn_j_nya.half</string>
 				<string>bn_ukaar.alt</string>
+				<string>bn_uukaar.alt</string>
 				<string>bn_reph.alt</string>
 				<string>uni200C</string>
 				<string>uni200D</string>
@@ -1692,6 +1695,7 @@
 		<string>bn_k_ssa.half</string>
 		<string>bn_j_nya.half</string>
 		<string>bn_ukaar.alt</string>
+		<string>bn_uukaar.alt</string>
 		<string>bn_reph.alt</string>
 		<string>uni200C</string>
 		<string>uni200D</string>

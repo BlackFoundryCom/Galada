@@ -3,13 +3,15 @@ languagesystem bng2 dflt;
 languagesystem beng dflt;
 
 @COMBINING_MARKS = [
-    bn_ukaar
-    bn_uukaar
-    bn_nukta
-    bn_ra_phala
-    bn_ba_phala
-    bn_halanth
-    bn_chandrabindu
+bn_ukaar
+bn_uukaar
+bn_nukta
+bn_ra_phala
+bn_ba_phala
+bn_halanth
+bn_chandrabindu
+bn_reph
+bn_reph.alt
 ];
 
 @CONSONANT_SPUR = [
@@ -76,6 +78,7 @@ bn_lli
 asa_ra
 asa_ba
 
+bn_rra.half
 bn_sh_ca
 ];
 
@@ -534,9 +537,10 @@ feature pres {
     sub bn_ha bn_rikaar by bn_ha_rikaar;
 
     # _ukaar alternative
-    sub [bn_rra bn_rha] bn_ukaar' by bn_ukaar.alt;
+    sub [bn_cha bn_ja bn_tta bn_ttha bn_dda bn_ddha bn_ta bn_bha bn_ha bn_rra bn_rha] [bn_ukaar bn_uukaar]' by [bn_ukaar.alt bn_uukaar.alt];
       
 } pres;
+
 
 feature abvm{
     markClass [bn_reph.alt bn_reph] <anchor -148 750> @REPH_MARKS;
@@ -554,14 +558,16 @@ feature abvm{
 	position base [bn_dha] <anchor 468 750> mark @CHANDRABINDU_MARKS <anchor 468 750> mark @REPH_MARKS;
 	position base [bn_jha] <anchor 603 750> mark @CHANDRABINDU_MARKS <anchor 603 750> mark @REPH_MARKS;
 	position base [bn_ja] <anchor 398 750> mark @CHANDRABINDU_MARKS <anchor 398 750> mark @REPH_MARKS;
+	position base [bn_rra.half] <anchor 338 750> mark @CHANDRABINDU_MARKS <anchor 338 750> mark @REPH_MARKS;
 	position base [bn_gha] <anchor 498 750> mark @CHANDRABINDU_MARKS <anchor 498 750> mark @REPH_MARKS;
 	position base [bn_ttha] <anchor 382 669> mark @CHANDRABINDU_MARKS <anchor 278 750> mark @REPH_MARKS;
 	position base [bn_tta] <anchor 307 828> mark @CHANDRABINDU_MARKS <anchor 178 750> mark @REPH_MARKS;
 	position base [bn_ssa] <anchor 418 750> mark @CHANDRABINDU_MARKS <anchor 418 750> mark @REPH_MARKS;
 	position base [bn_nga] <anchor 328 750> mark @CHANDRABINDU_MARKS <anchor 328 750> mark @REPH_MARKS;
 	position base [bn_sha] <anchor 464 750> mark @CHANDRABINDU_MARKS <anchor 464 750> mark @REPH_MARKS;
-	position base [bn_pha] <anchor 388 750> mark @CHANDRABINDU_MARKS <anchor 388 750> mark @REPH_MARKS;
+	position base [bn_rra] <anchor 338 750> mark @CHANDRABINDU_MARKS <anchor 338 750> mark @REPH_MARKS;
 	position base [bn_da] <anchor 208 750> mark @CHANDRABINDU_MARKS <anchor 208 750> mark @REPH_MARKS;
+	position base [bn_pha] <anchor 388 750> mark @CHANDRABINDU_MARKS <anchor 388 750> mark @REPH_MARKS;
 	position base [bn_cha] <anchor 208 750> mark @CHANDRABINDU_MARKS <anchor 208 750> mark @REPH_MARKS;
 	position base [bn_ca] <anchor 201 750> mark @CHANDRABINDU_MARKS <anchor 201 750> mark @REPH_MARKS;
 	position base [bn_ta] <anchor 278 750> mark @CHANDRABINDU_MARKS <anchor 278 750> mark @REPH_MARKS;
@@ -574,53 +580,56 @@ feature abvm{
 	position base [bn_ga] <anchor 491 750> mark @CHANDRABINDU_MARKS <anchor 491 750> mark @REPH_MARKS;
 	position base [bn_nna] <anchor 407 750> mark @CHANDRABINDU_MARKS <anchor 407 750> mark @REPH_MARKS;
 	position base [bn_nya] <anchor 508 750> mark @CHANDRABINDU_MARKS <anchor 508 750> mark @REPH_MARKS;
+
      
 }abvm;
 
 
 feature blwm{
 
-	markClass [bn_rikaar bn_ba_phala bn_rrikaar bn_ukaar.alt bn_ra_phala bn_uukaar bn_ukaar] <anchor 0 0> @BLWM_MARKS;
+	markClass [bn_ukaar.alt bn_uukaar.alt bn_uukaar bn_ukaar] <anchor -375 -100> @BLWM_MARKS;
+	markClass [bn_rrikaar bn_rikaar] <anchor -375 -200> @BLWM_MARKS;
+	markClass [bn_halanth] <anchor -292 0> @HALN_MARKS;
 	markClass [bn_nukta] <anchor -375 -193> @NUKT_MARKS;
 
-	position base [bn_bha] <anchor 225 -120> mark @NUKT_MARKS <anchor 244 0> mark @BLWM_MARKS;
-	position base [bn_ddha] <anchor 115 -120> mark @NUKT_MARKS <anchor 165 0> mark @BLWM_MARKS;
-	position base [bn_dda] <anchor 215 -120> mark @NUKT_MARKS <anchor 270 0> mark @BLWM_MARKS;
-	position base [bn_sa] <anchor 145 0> mark @NUKT_MARKS <anchor 361 0> mark @BLWM_MARKS;
-	position base [bn_ba] <anchor 35 0> mark @NUKT_MARKS <anchor 256 0> mark @BLWM_MARKS;
-	position base [bn_la] <anchor 255 0> mark @NUKT_MARKS <anchor 441 0> mark @BLWM_MARKS;
-	position base [bn_kha] <anchor 166 0> mark @NUKT_MARKS <anchor 401 0> mark @BLWM_MARKS;
-	position base [bn_ha] <anchor 105 -120> mark @NUKT_MARKS <anchor 225 0> mark @BLWM_MARKS;
-	position base [bn_na] <anchor 45 0> mark @NUKT_MARKS <anchor 257 0> mark @BLWM_MARKS;
-	position base [bn_dha] <anchor 85 0> mark @NUKT_MARKS <anchor 301 0> mark @BLWM_MARKS;
-	position base [bn_jha] <anchor 45 0> mark @NUKT_MARKS <anchor 256 0> mark @BLWM_MARKS;
-	position base [bn_ja] <anchor 215 -120> mark @NUKT_MARKS <anchor 203 0> mark @BLWM_MARKS;
-	position base [bn_gha] <anchor 85 0> mark @NUKT_MARKS <anchor 321 0> mark @BLWM_MARKS;
-	position base [bn_ttha] <anchor 115 -120> mark @NUKT_MARKS <anchor 173 0> mark @BLWM_MARKS;
-	position base [bn_tta] <anchor 105 -120> mark @NUKT_MARKS <anchor 175 0> mark @BLWM_MARKS;
-	position base [bn_ssa] <anchor 35 0> mark @NUKT_MARKS <anchor 272 0> mark @BLWM_MARKS;
-	position base [bn_nga] <anchor 175 -120> mark @NUKT_MARKS <anchor 319 0> mark @BLWM_MARKS;
-	position base [bn_sha] <anchor 105 0> mark @NUKT_MARKS <anchor 347 0> mark @BLWM_MARKS;
-	position base [bn_rra] <anchor 675 0> mark @BLWM_MARKS;
-	position base [bn_rha] <anchor 475 0> mark @BLWM_MARKS;
-	position base [bn_da] <anchor 105 0> mark @NUKT_MARKS <anchor 299 0> mark @BLWM_MARKS;
-	position base [bn_pha] <anchor 85 0> mark @NUKT_MARKS <anchor 301 0> mark @BLWM_MARKS;
-	position base [bn_cha] <anchor 135 -170> mark @NUKT_MARKS <anchor 196 -53> mark @BLWM_MARKS;
-	position base [asa_ra] <anchor 42 0> mark @NUKT_MARKS <anchor 258 0> mark @BLWM_MARKS;
-	position base [bn_ca] <anchor 115 -120> mark @NUKT_MARKS <anchor 173 0> mark @BLWM_MARKS;
-	position base [bn_ta] <anchor 245 -120> mark @NUKT_MARKS <anchor 280 0> mark @BLWM_MARKS;
-	position base [bn_pa] <anchor 225 0> mark @NUKT_MARKS <anchor 437 0> mark @BLWM_MARKS;
-	position base [bn_ma] <anchor 105 0> mark @NUKT_MARKS <anchor 326 0> mark @BLWM_MARKS;
-	position base [bn_yya] <anchor 272 0> mark @BLWM_MARKS;
-	position base [bn_ra] <anchor 258 0> mark @BLWM_MARKS;
+	position base [bn_bha] <anchor 225 -120> mark @NUKT_MARKS <anchor 244 0> mark @HALN_MARKS <anchor 244 0> mark @BLWM_MARKS;
+	position base [bn_ddha] <anchor 115 -120> mark @NUKT_MARKS <anchor 165 0> mark @HALN_MARKS <anchor 165 0> mark @BLWM_MARKS;
+	position base [bn_dda] <anchor 215 -120> mark @NUKT_MARKS <anchor 270 0> mark @HALN_MARKS <anchor 270 0> mark @BLWM_MARKS;
+	position base [bn_sa] <anchor 145 0> mark @NUKT_MARKS <anchor 361 0> mark @HALN_MARKS <anchor 361 0> mark @BLWM_MARKS;
+	position base [bn_ba] <anchor 35 0> mark @NUKT_MARKS <anchor 258 0> mark @HALN_MARKS <anchor 258 0> mark @BLWM_MARKS;
+	position base [bn_la] <anchor 255 0> mark @NUKT_MARKS <anchor 441 0> mark @HALN_MARKS <anchor 441 0> mark @BLWM_MARKS;
+	position base [bn_kha] <anchor 166 0> mark @NUKT_MARKS <anchor 401 0> mark @HALN_MARKS <anchor 401 0> mark @BLWM_MARKS;
+	position base [bn_ha] <anchor 105 -120> mark @NUKT_MARKS <anchor 111 0> mark @HALN_MARKS <anchor 225 0> mark @BLWM_MARKS;
+	position base [bn_na] <anchor 45 0> mark @NUKT_MARKS <anchor 257 0> mark @HALN_MARKS <anchor 257 0> mark @BLWM_MARKS;
+	position base [bn_dha] <anchor 85 0> mark @NUKT_MARKS <anchor 301 0> mark @HALN_MARKS <anchor 301 0> mark @BLWM_MARKS;
+	position base [bn_jha] <anchor 45 0> mark @NUKT_MARKS <anchor 256 0> mark @HALN_MARKS <anchor 256 0> mark @BLWM_MARKS;
+	position base [bn_ja] <anchor 215 -120> mark @NUKT_MARKS <anchor 203 0> mark @HALN_MARKS <anchor 203 0> mark @BLWM_MARKS;
+	position base [bn_gha] <anchor 85 0> mark @NUKT_MARKS <anchor 321 0> mark @HALN_MARKS <anchor 321 0> mark @BLWM_MARKS;
+	position base [bn_ttha] <anchor 115 -120> mark @NUKT_MARKS <anchor 173 0> mark @HALN_MARKS <anchor 173 0> mark @BLWM_MARKS;
+	position base [bn_tta] <anchor 105 -120> mark @NUKT_MARKS <anchor 175 0> mark @HALN_MARKS <anchor 175 0> mark @BLWM_MARKS;
+	position base [bn_ssa] <anchor 35 0> mark @NUKT_MARKS <anchor 272 0> mark @HALN_MARKS <anchor 272 0> mark @BLWM_MARKS;
+	position base [bn_nga] <anchor 175 -120> mark @NUKT_MARKS <anchor 291 0> mark @HALN_MARKS <anchor 319 0> mark @BLWM_MARKS;
+	position base [bn_sha] <anchor 105 0> mark @NUKT_MARKS <anchor 347 0> mark @HALN_MARKS <anchor 347 0> mark @BLWM_MARKS;
+	position base [bn_rra] <anchor 451 0> mark @HALN_MARKS <anchor 675 0> mark @BLWM_MARKS;
+	position base [bn_rha] <anchor 271 0> mark @HALN_MARKS <anchor 475 0> mark @BLWM_MARKS;
+	position base [bn_da] <anchor 105 0> mark @NUKT_MARKS <anchor 179 0> mark @HALN_MARKS <anchor 299 0> mark @BLWM_MARKS;
+	position base [bn_pha] <anchor 85 0> mark @NUKT_MARKS <anchor 301 0> mark @HALN_MARKS <anchor 301 0> mark @BLWM_MARKS;
+	position base [bn_cha] <anchor 135 -170> mark @NUKT_MARKS <anchor 111 0> mark @HALN_MARKS <anchor 196 -53> mark @BLWM_MARKS;
+	position base [asa_ra] <anchor 42 0> mark @NUKT_MARKS <anchor 258 0> mark @HALN_MARKS <anchor 258 0> mark @BLWM_MARKS;
+	position base [bn_ca] <anchor 115 -120> mark @NUKT_MARKS <anchor 173 0> mark @HALN_MARKS <anchor 173 0> mark @BLWM_MARKS;
+	position base [bn_ta] <anchor 245 -120> mark @NUKT_MARKS <anchor 250 0> mark @HALN_MARKS <anchor 280 0> mark @BLWM_MARKS;
+	position base [bn_pa] <anchor 225 0> mark @NUKT_MARKS <anchor 437 0> mark @HALN_MARKS <anchor 437 0> mark @BLWM_MARKS;
+	position base [bn_ma] <anchor 105 0> mark @NUKT_MARKS <anchor 326 0> mark @HALN_MARKS <anchor 326 0> mark @BLWM_MARKS;
+	position base [bn_yya] <anchor 272 0> mark @HALN_MARKS <anchor 272 0> mark @BLWM_MARKS;
+	position base [bn_ra] <anchor 258 0> mark @HALN_MARKS <anchor 258 0> mark @BLWM_MARKS;
 	position base [bn_k_ssa] <anchor 427 -73> mark @BLWM_MARKS;
-	position base [bn_ka] <anchor 39 0> mark @NUKT_MARKS <anchor 256 0> mark @BLWM_MARKS;
-	position base [bn_ya] <anchor 35 0> mark @NUKT_MARKS <anchor 272 0> mark @BLWM_MARKS;
-	position base [bn_tha] <anchor 145 0> mark @NUKT_MARKS <anchor 379 0> mark @BLWM_MARKS;
-	position base [bn_ga] <anchor 148 0> mark @NUKT_MARKS <anchor 374 0> mark @BLWM_MARKS;
-	position base [bn_nna] <anchor 85 0> mark @NUKT_MARKS <anchor 290 0> mark @BLWM_MARKS;
-	position base [bn_nya] <anchor 85 0> mark @NUKT_MARKS <anchor 370 0> mark @BLWM_MARKS;
-	position base [asa_ba] <anchor 258 0> mark @BLWM_MARKS;
+	position base [bn_ka] <anchor 39 0> mark @NUKT_MARKS <anchor 256 0> mark @HALN_MARKS <anchor 256 0> mark @BLWM_MARKS;
+	position base [bn_ya] <anchor 35 0> mark @NUKT_MARKS <anchor 272 0> mark @HALN_MARKS <anchor 272 0> mark @BLWM_MARKS;
+	position base [bn_tha] <anchor 145 0> mark @NUKT_MARKS <anchor 379 0> mark @HALN_MARKS <anchor 379 0> mark @BLWM_MARKS;
+	position base [bn_ga] <anchor 148 0> mark @NUKT_MARKS <anchor 374 0> mark @HALN_MARKS <anchor 374 0> mark @BLWM_MARKS;
+	position base [bn_nna] <anchor 85 0> mark @NUKT_MARKS <anchor 290 0> mark @HALN_MARKS <anchor 290 0> mark @BLWM_MARKS;
+	position base [bn_nya] <anchor 85 0> mark @NUKT_MARKS <anchor 370 0> mark @HALN_MARKS <anchor 370 0> mark @BLWM_MARKS;
+	position base [asa_ba] <anchor 258 0> mark @HALN_MARKS <anchor 258 0> mark @BLWM_MARKS;
 
 }blwm;
 
