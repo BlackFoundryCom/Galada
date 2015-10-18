@@ -345,6 +345,38 @@ feature pres {
 		sub bn_na.half bn_ma by bn_n_ma;
 		sub bn_na.half bn_sa by bn_n_sa;
 
+		# _pa
+		sub bn_pa.half bn_tta by bn_p_tta;
+		sub bn_pa.half bn_ta by bn_p_ta;
+		sub bn_pa.half bn_na by bn_p_na;
+		sub bn_pa.half bn_pa by bn_p_pa;
+		sub bn_pa.half bn_ra by bn_p_ra;
+		sub bn_pa.half bn_la by bn_p_la;
+		sub bn_pa.half bn_sa by bn_p_sa;
+
+		# _pha
+		sub bn_pha.half bn_tta by bn_ph_tta;
+		sub bn_pha.half bn_la by bn_ph_la;
+
+		# _ba
+		sub bn_ba.half bn_ja by bn_b_ja;
+		sub bn_ba.half bn_da by bn_b_da;
+		sub bn_ba.half bn_dha by bn_b_dha;
+		sub bn_ba.half bn_ba by bn_b_ba;
+		sub bn_ba.half bn_bha by bn_b_bha;
+		sub bn_ba.half bn_la by bn_b_la;
+
+		# _bha
+		sub bn_bha.half bn_la by bn_b_la;
+
+		# _ma
+		sub bn_ma.half bn_na by bn_m_na;
+		sub bn_ma.half bn_pa by bn_m_pa;
+		sub bn_ma.half bn_pha by bn_m_pha;
+		sub bn_ma.half bn_bha by bn_m_bha;
+		sub bn_ma.half bn_ma by bn_m_ma;
+		sub bn_ma.half bn_la by bn_m_la;
+
 		# _ta
 		sub bn_ta.half bn_ra by bn_t_ra;
 
@@ -396,6 +428,11 @@ feature pres {
 		sub bn_na.half bn_dh_ba by bn_n_dh_ba;
 		sub bn_na.half bn_dh_ra by bn_n_dh_ra;
 
+		sub bn_pa.half bn_t_ra by bn_p_t_ra;
+
+		sub bn_ma.half bn_p_ra by bn_m_p_ra;
+		sub bn_ma.half bn_bh_ra by bn_m_bh_ra;
+
 		sub bn_k_ssa.half bn_nna by bn_k_ss_nna;
 		sub bn_k_ssa.half bn_ma by bn_k_ss_ma;
 
@@ -415,6 +452,9 @@ feature pres {
     sub bn_th_ra bn_ukaar by bn_th_ra_ukaar;
     sub bn_d_ra bn_ukaar by bn_d_ra_ukaar;
     sub bn_dh_ra bn_ukaar by bn_dh_ra_ukaar;
+    sub bn_p_ra bn_ukaar by bn_p_ra_ukaar;
+    sub bn_b_da bn_ukaar by bn_b_da_ukaar;
+    sub bn_bh_ra bn_ukaar by bn_bh_ra_ukaar;
 
     # _uukaar
     sub bn_da bn_uukaar by bn_da_uukaar;
@@ -423,6 +463,9 @@ feature pres {
     sub bn_th_ra bn_uukaar by bn_th_ra_uukaar;
     sub bn_d_ra bn_uukaar by bn_d_ra_uukaar;
     sub bn_dh_ra bn_uukaar by bn_dh_ra_uukaar;
+    sub bn_p_ra bn_uukaar by bn_p_ra_uukaar;
+    sub bn_b_da bn_uukaar by bn_b_da_uukaar;
+    sub bn_bh_ra bn_uukaar by bn_bh_ra_uukaar;
 
     # _rikaar
     sub bn_ha bn_rikaar by bn_ha_rikaar;
