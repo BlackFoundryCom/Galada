@@ -38,10 +38,10 @@
       <point x="49" y="358" type="curve"/>
       <point x="66" y="241" type="line"/>
       <point x="207" y="244"/>
-      <point x="354" y="163"/>
-      <point x="315" y="0" type="curve"/>
-      <point x="341" y="26" type="line"/>
-      <point x="383" y="210"/>
+      <point x="327" y="204"/>
+      <point x="345" y="87" type="curve"/>
+      <point x="356" y="63" type="line"/>
+      <point x="394" y="223"/>
       <point x="274" y="300"/>
     </contour>
     <contour>
@@ -51,10 +51,10 @@
       <point x="287.0" y="8.0"/>
       <point x="220.0" y="48.0" type="curve"/>
       <point x="250.0" y="69.0"/>
-      <point x="286.0" y="88.0"/>
-      <point x="325.0" y="102.0" type="curve"/>
-      <point x="292.0" y="201.0" type="line"/>
-      <point x="212.0" y="180.0"/>
+      <point x="322" y="105"/>
+      <point x="361" y="119" type="curve"/>
+      <point x="309" y="206" type="line"/>
+      <point x="229" y="185"/>
       <point x="138.0" y="140.0"/>
       <point x="74.0" y="82.0" type="curve"/>
       <point x="91.0" y="-22.0" type="line"/>
@@ -877,9 +877,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.4711</real>
         <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
+        <real>0.1481</real>
         <real>1.0</real>
       </array>
     </dict>
