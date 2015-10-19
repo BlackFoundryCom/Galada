@@ -8,6 +8,26 @@
       <point x="754" y="671" type="line"/>
       <point x="605" y="671" type="line"/>
     </contour>
+    <contour>
+      <point x="635" y="296" type="curve"/>
+      <point x="640" y="335" type="line"/>
+      <point x="562" y="205"/>
+      <point x="547" y="86"/>
+      <point x="538" y="7" type="curve"/>
+      <point x="537" y="-8"/>
+      <point x="610" y="-49"/>
+      <point x="619" y="-40" type="curve"/>
+      <point x="623" y="78"/>
+      <point x="645" y="192"/>
+      <point x="705" y="290" type="curve"/>
+      <point x="648" y="394" type="line"/>
+      <point x="588" y="388"/>
+      <point x="500" y="328"/>
+      <point x="482" y="305" type="curve"/>
+      <point x="475" y="196" type="line"/>
+      <point x="518" y="243"/>
+      <point x="567" y="286"/>
+    </contour>
     <component base="bn_th_ra"/>
   </outline>
   <lib>
