@@ -80,6 +80,7 @@ asa_ba
 
 bn_rra.half
 bn_sh_ca
+bn_sh_ra
 ];
 
 
@@ -105,7 +106,6 @@ feature akhn{
 feature rphf{
     sub bn_ra bn_halanth by bn_reph; 
     sub asa_ra bn_halanth by bn_reph; 
-    sub bn_reph' @CONSONANT_SPUR by bn_reph.alt;
 }rphf;
 
 feature blwf{
@@ -174,81 +174,6 @@ feature half {
 } half;
 
 feature pres {
-	lookup pres_ba {
-		sub bn_ka bn_ba_phala by bn_k_ba;
-		sub bn_kha bn_ba_phala by bn_kh_ba;
-		sub bn_ga bn_ba_phala by bn_g_ba;
-		sub bn_gha bn_ba_phala by bn_gh_ba;
-		# sub bn_nga bn_ba_phala by bn_ng_ba;
-		# sub bn_ca bn_ba_phala by bn_c_ba;
-		sub bn_cha bn_ba_phala by bn_ch_ba;
-		sub bn_ja bn_ba_phala by bn_j_ba;
-		#sub bn_jha bn_ba_phala by bn_jh_ba;
-		#sub bn_nya bn_ba_phala by bn_ny_ba;
-		sub bn_tta bn_ba_phala by bn_tt_ba;
-		#sub bn_ttha bn_ba_phala by bn_tth_ba;
-		# sub bn_dda bn_ba_phala by bn_dd_ba;
-		# sub bn_ddha bn_ba_phala by bn_ddh_ba;
-		sub bn_nna bn_ba_phala by bn_nn_ba;
-		sub bn_ta bn_ba_phala by bn_t_ba;
-		sub bn_tha bn_ba_phala by bn_th_ba;
-		sub bn_da bn_ba_phala by bn_d_ba;
-		sub bn_dha bn_ba_phala by bn_dh_ba;
-		sub bn_na bn_ba_phala by bn_n_ba;
-		# sub bn_pa bn_ba_phala by bn_p_ba;
-		# sub bn_pha bn_ba_phala by bn_ph_ba;
-		sub bn_ba bn_ba_phala by bn_b_ba;
-		# sub bn_bha bn_ba_phala by bn_bh_ba;
-		sub bn_ma bn_ba_phala by bn_m_ba;
-		# sub bn_ya bn_ba_phala by bn_y_ba;
-		# sub bn_ra bn_ba_phala by bn_r_ba;
-		sub bn_la bn_ba_phala by bn_l_ba;
-		sub bn_sha bn_ba_phala by bn_sh_ba;
-		sub bn_ssa bn_ba_phala by bn_ss_ba;
-		sub bn_sa bn_ba_phala by bn_s_ba;
-		sub bn_ha bn_ba_phala by bn_h_ba;
-
-		sub bn_k_ssa bn_ba_phala by bn_k_ss_ba;
-	} pres_ba;
-
-	lookup pres_ra {
-
-		sub bn_ka bn_ra_phala by bn_k_ra;
-		sub bn_kha bn_ra_phala by bn_kh_ra;
-		sub bn_ga bn_ra_phala by bn_g_ra;
-		sub bn_gha bn_ra_phala by bn_gh_ra;
-		sub bn_nga bn_ra_phala by bn_ng_ra;
-		sub bn_ca bn_ra_phala by bn_c_ra;
-		sub bn_cha bn_ra_phala by bn_ch_ra;
-		sub bn_ja bn_ra_phala by bn_j_ra;
-		sub bn_jha bn_ra_phala by bn_jh_ra;
-		sub bn_nya bn_ra_phala by bn_ny_ra;
-		sub bn_tta bn_ra_phala by bn_tt_ra;
-		sub bn_ttha bn_ra_phala by bn_tth_ra;
-		sub bn_dda bn_ra_phala by bn_dd_ra;
-		sub bn_ddha bn_ra_phala by bn_ddh_ra;
-		sub bn_nna bn_ra_phala by bn_nn_ra;
-		sub bn_ta bn_ra_phala by bn_t_ra;
-		sub bn_tha bn_ra_phala by bn_th_ra;
-		sub bn_da bn_ra_phala by bn_d_ra;
-		sub bn_dha bn_ra_phala by bn_dh_ra;
-		sub bn_na bn_ra_phala by bn_n_ra;
-		sub bn_pa bn_ra_phala by bn_p_ra;
-		sub bn_pha bn_ra_phala by bn_ph_ra;
-		sub bn_ba bn_ra_phala by bn_b_ra;
-		sub bn_bha bn_ra_phala by bn_bh_ra;
-		sub bn_ma bn_ra_phala by bn_m_ra;
-		sub bn_ya bn_ra_phala by bn_y_ra;
-		# sub bn_ra bn_ra_phala by bn_r_ra;
-		sub bn_la bn_ra_phala by bn_l_ra;
-		sub bn_sha bn_ra_phala by bn_sh_ra;
-		sub bn_ssa bn_ra_phala by bn_ss_ra;
-		sub bn_sa bn_ra_phala by bn_s_ra;
-		sub bn_ha bn_ra_phala by bn_h_ra;
-
-		sub bn_k_ssa bn_ra_phala by bn_k_ss_ra;
-
-	} pres_ra;
 	
 	lookup pres_conjuncts {
 		# _ka
@@ -267,7 +192,7 @@ feature pres {
 		sub bn_ga.half bn_la by bn_g_la;
 
 		# _gha
-		sub bn_gha bn_na by bn_gh_na;
+		sub bn_gha.half bn_na by bn_gh_na;
 
 		# _nga
 		sub bn_nga.half bn_ka by bn_ng_ka;
@@ -499,11 +424,90 @@ feature pres {
     sub bn_ikaar' bn_tta by bn_ikaar.fl.wi1;
     sub bn_ikaar' bn_ss_tta by bn_ikaar.fl.wi2;
 
-    # _iikaar
-    sub bn_sh_ra bn_iikaar by bn_sh_ra_iikaar;
-    sub [bn_reph bn_reph.alt] bn_iikaar by bn_iikaar_reph;
+} pres;
 
-    # _ukaar
+feature abvs {
+	sub @CONSONANT_SPUR bn_reph' by bn_reph.alt;	
+} abvs;
+
+feature blws {
+	lookup blws_ba {
+		sub bn_ka bn_ba_phala by bn_k_ba;
+		sub bn_kha bn_ba_phala by bn_kh_ba;
+		sub bn_ga bn_ba_phala by bn_g_ba;
+		sub bn_gha bn_ba_phala by bn_gh_ba;
+		# sub bn_nga bn_ba_phala by bn_ng_ba;
+		# sub bn_ca bn_ba_phala by bn_c_ba;
+		sub bn_cha bn_ba_phala by bn_ch_ba;
+		sub bn_ja bn_ba_phala by bn_j_ba;
+		#sub bn_jha bn_ba_phala by bn_jh_ba;
+		#sub bn_nya bn_ba_phala by bn_ny_ba;
+		sub bn_tta bn_ba_phala by bn_tt_ba;
+		#sub bn_ttha bn_ba_phala by bn_tth_ba;
+		# sub bn_dda bn_ba_phala by bn_dd_ba;
+		# sub bn_ddha bn_ba_phala by bn_ddh_ba;
+		sub bn_nna bn_ba_phala by bn_nn_ba;
+		sub bn_ta bn_ba_phala by bn_t_ba;
+		sub bn_tha bn_ba_phala by bn_th_ba;
+		sub bn_da bn_ba_phala by bn_d_ba;
+		sub bn_dha bn_ba_phala by bn_dh_ba;
+		sub bn_na bn_ba_phala by bn_n_ba;
+		# sub bn_pa bn_ba_phala by bn_p_ba;
+		# sub bn_pha bn_ba_phala by bn_ph_ba;
+		sub bn_ba bn_ba_phala by bn_b_ba;
+		# sub bn_bha bn_ba_phala by bn_bh_ba;
+		sub bn_ma bn_ba_phala by bn_m_ba;
+		# sub bn_ya bn_ba_phala by bn_y_ba;
+		# sub bn_ra bn_ba_phala by bn_r_ba;
+		sub bn_la bn_ba_phala by bn_l_ba;
+		sub bn_sha bn_ba_phala by bn_sh_ba;
+		sub bn_ssa bn_ba_phala by bn_ss_ba;
+		sub bn_sa bn_ba_phala by bn_s_ba;
+		sub bn_ha bn_ba_phala by bn_h_ba;
+
+		sub bn_k_ssa bn_ba_phala by bn_k_ss_ba;
+	} blws_ba;
+
+	lookup blws_ra {
+
+		sub bn_ka bn_ra_phala by bn_k_ra;
+		sub bn_kha bn_ra_phala by bn_kh_ra;
+		sub bn_ga bn_ra_phala by bn_g_ra;
+		sub bn_gha bn_ra_phala by bn_gh_ra;
+		sub bn_nga bn_ra_phala by bn_ng_ra;
+		sub bn_ca bn_ra_phala by bn_c_ra;
+		sub bn_cha bn_ra_phala by bn_ch_ra;
+		sub bn_ja bn_ra_phala by bn_j_ra;
+		sub bn_jha bn_ra_phala by bn_jh_ra;
+		sub bn_nya bn_ra_phala by bn_ny_ra;
+		sub bn_tta bn_ra_phala by bn_tt_ra;
+		sub bn_ttha bn_ra_phala by bn_tth_ra;
+		sub bn_dda bn_ra_phala by bn_dd_ra;
+		sub bn_ddha bn_ra_phala by bn_ddh_ra;
+		sub bn_nna bn_ra_phala by bn_nn_ra;
+		sub bn_ta bn_ra_phala by bn_t_ra;
+		sub bn_tha bn_ra_phala by bn_th_ra;
+		sub bn_da bn_ra_phala by bn_d_ra;
+		sub bn_dha bn_ra_phala by bn_dh_ra;
+		sub bn_na bn_ra_phala by bn_n_ra;
+		sub bn_pa bn_ra_phala by bn_p_ra;
+		sub bn_pha bn_ra_phala by bn_ph_ra;
+		sub bn_ba bn_ra_phala by bn_b_ra;
+		sub bn_bha bn_ra_phala by bn_bh_ra;
+		sub bn_ma bn_ra_phala by bn_m_ra;
+		sub bn_ya bn_ra_phala by bn_y_ra;
+		# sub bn_ra bn_ra_phala by bn_r_ra;
+		sub bn_la bn_ra_phala by bn_l_ra;
+		sub bn_sha bn_ra_phala by bn_sh_ra;
+		sub bn_ssa bn_ra_phala by bn_ss_ra;
+		sub bn_sa bn_ra_phala by bn_s_ra;
+		sub bn_ha bn_ra_phala by bn_h_ra;
+
+		sub bn_k_ssa bn_ra_phala by bn_k_ss_ra;
+
+	} blws_ra;
+
+	# _ukaar
     sub bn_da bn_ukaar by bn_da_ukaar;
     sub bn_ra bn_ukaar by bn_ra_ukaar; 
     sub bn_ga bn_ukaar by bn_ga_ukaar;
@@ -536,11 +540,18 @@ feature pres {
     # _rikaar
     sub bn_ha bn_rikaar by bn_ha_rikaar;
 
-    # _ukaar alternative
-    sub [bn_cha bn_ja bn_tta bn_ttha bn_dda bn_ddha bn_ta bn_bha bn_ha bn_rra bn_rha] [bn_ukaar bn_uukaar]' by [bn_ukaar.alt bn_uukaar.alt];
-      
-} pres;
+	# _ukaar _uukaar alternative
+    sub [bn_ca bn_cha bn_ja bn_tta bn_ttha bn_dda bn_ddha bn_ta bn_bha bn_ha bn_rra bn_rha] [bn_ukaar bn_uukaar]' by [bn_ukaar.alt bn_uukaar.alt];
 
+} blws;
+
+feature psts {
+	# _iikaar
+    sub bn_sh_ra bn_iikaar by bn_sh_ra_iikaar;
+    sub bn_tta bn_iikaar by bn_tta_iikaar;
+    sub bn_ttha bn_iikaar' by bn_iikaar.alt;
+    sub [bn_reph bn_reph.alt] bn_iikaar by bn_iikaar_reph;
+} psts;
 
 feature abvm{
     markClass [bn_reph.alt bn_reph] <anchor -148 750> @REPH_MARKS;
