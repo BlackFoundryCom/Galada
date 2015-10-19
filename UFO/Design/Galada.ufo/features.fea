@@ -301,6 +301,7 @@ feature blws {
     sub bn_dh_ra bn_ukaar by bn_dh_ra_ukaar;
     sub bn_p_ra bn_ukaar by bn_p_ra_ukaar;
     sub bn_b_da bn_ukaar by bn_b_da_ukaar;
+    sub bn_b_ra bn_ukaar by bn_b_ra_ukaar;
     sub bn_bh_ra bn_ukaar by bn_bh_ra_ukaar;
     sub bn_l_ga bn_ukaar by bn_l_ga_ukaar;
     sub bn_sh_ra bn_ukaar by bn_sh_ra_ukaar;
@@ -316,6 +317,7 @@ feature blws {
     sub bn_dh_ra bn_uukaar by bn_dh_ra_uukaar;
     sub bn_p_ra bn_uukaar by bn_p_ra_uukaar;
     sub bn_b_da bn_uukaar by bn_b_da_uukaar;
+    sub bn_b_ra bn_uukaar by bn_b_ra_uukaar;
     sub bn_bh_ra bn_uukaar by bn_bh_ra_uukaar;
     sub bn_sh_ra bn_uukaar by bn_sh_ra_uukaar;
     sub bn_s_ra bn_uukaar by bn_s_ra_uukaar;
