@@ -73,17 +73,6 @@
       <point x="-3" y="181"/>
     </contour>
     <contour>
-      <point x="571" y="538" type="curve"/>
-      <point x="442" y="-73" type="line" smooth="yes"/>
-      <point x="557" y="-73" type="line"/>
-      <point x="689" y="567" type="line"/>
-      <point x="763" y="567" type="line"/>
-      <point x="747" y="671" type="line"/>
-      <point x="717" y="671" type="line" smooth="yes"/>
-      <point x="634" y="671"/>
-      <point x="588" y="617"/>
-    </contour>
-    <contour>
       <point x="291.0" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
