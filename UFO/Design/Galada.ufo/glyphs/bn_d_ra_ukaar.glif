@@ -84,15 +84,15 @@
     </contour>
     <contour>
       <point x="488" y="354" type="line"/>
-      <point x="487.956063269" y="352.804920914"/>
-      <point x="487.934287947" y="351.607293652"/>
-      <point x="487.934287947" y="350.407438483" type="curve" smooth="yes"/>
-      <point x="487.934287947" y="268.147536427"/>
-      <point x="590.283217984" y="175.415969609"/>
-      <point x="670.568707785" y="175.415969609" type="curve" smooth="yes"/>
-      <point x="722.378345834" y="175.415969609"/>
-      <point x="765.0" y="214.032619239"/>
-      <point x="765.0" y="319.0" type="curve" smooth="yes"/>
+      <point x="488" y="353"/>
+      <point x="488" y="352"/>
+      <point x="488" y="350" type="curve" smooth="yes"/>
+      <point x="488" y="268"/>
+      <point x="537" y="175"/>
+      <point x="671" y="175" type="curve" smooth="yes"/>
+      <point x="722" y="175"/>
+      <point x="765" y="214"/>
+      <point x="765" y="319" type="curve" smooth="yes"/>
       <point x="765" y="385"/>
       <point x="724" y="458"/>
       <point x="656" y="458" type="curve" smooth="yes"/>
