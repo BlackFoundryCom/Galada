@@ -90,21 +90,6 @@
       <point x="532" y="-43" type="curve"/>
     </contour>
     <contour>
-      <point x="967" y="671" type="line"/>
-      <point x="957" y="671" type="line" smooth="yes"/>
-      <point x="908" y="671"/>
-      <point x="882" y="674"/>
-      <point x="882" y="798" type="curve"/>
-      <point x="848" y="798" type="line"/>
-      <point x="672" y="-20" type="line" smooth="yes"/>
-      <point x="787" y="-20" type="line"/>
-      <point x="922" y="621" type="line"/>
-      <point x="933" y="589"/>
-      <point x="952" y="567"/>
-      <point x="976" y="567" type="curve" smooth="yes"/>
-      <point x="983" y="567" type="line"/>
-    </contour>
-    <contour>
       <point x="374.0" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
