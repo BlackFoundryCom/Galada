@@ -74,6 +74,37 @@
       <point x="370" y="8"/>
       <point x="399" y="-75"/>
     </contour>
+    <contour>
+      <point x="471" y="317" type="line"/>
+      <point x="464" y="227"/>
+      <point x="509" y="134"/>
+      <point x="609" y="133" type="curve"/>
+      <point x="679" y="133"/>
+      <point x="735" y="173"/>
+      <point x="735" y="279" type="curve" smooth="yes"/>
+      <point x="735" y="345"/>
+      <point x="703" y="420"/>
+      <point x="635" y="420" type="curve" smooth="yes"/>
+      <point x="588" y="420"/>
+      <point x="562" y="389"/>
+      <point x="562" y="349" type="curve" smooth="yes"/>
+      <point x="562" y="307"/>
+      <point x="591" y="281"/>
+      <point x="628" y="281" type="curve" smooth="yes"/>
+      <point x="662" y="281"/>
+      <point x="682" y="304"/>
+      <point x="682" y="336" type="curve"/>
+      <point x="666" y="324" type="line"/>
+      <point x="676" y="311"/>
+      <point x="682" y="298"/>
+      <point x="682" y="285" type="curve" smooth="yes"/>
+      <point x="681.033181397" y="253.094986108"/>
+      <point x="645.71473355" y="227.032086032"/>
+      <point x="605.641561485" y="227.032086032" type="curve" smooth="yes"/>
+      <point x="562.817751741" y="227.032086032"/>
+      <point x="514.564083752" y="256.795716128"/>
+      <point x="497.0" y="341.0" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
