@@ -40,6 +40,23 @@
       <point x="446" y="-31"/>
       <point x="516" y="-66"/>
     </contour>
+    <contour>
+      <point x="323" y="73" type="line"/>
+      <point x="219" y="54"/>
+      <point x="126" y="12"/>
+      <point x="64" y="-49" type="curve"/>
+      <point x="105" y="-139" type="line"/>
+      <point x="159" y="-136"/>
+      <point x="230" y="-148"/>
+      <point x="273" y="-184" type="curve"/>
+      <point x="269" y="-139" type="line"/>
+      <point x="252" y="-111"/>
+      <point x="208" y="-85"/>
+      <point x="178" y="-78" type="curve"/>
+      <point x="203" y="-48"/>
+      <point x="260" y="-28"/>
+      <point x="308" y="-25" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
