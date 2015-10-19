@@ -8,6 +8,40 @@
       <point x="754.0" y="671.0" type="line"/>
       <point x="605" y="671" type="line"/>
     </contour>
+    <contour>
+      <point x="464" y="297" type="line"/>
+      <point x="462.68798752" y="288.404056162"/>
+      <point x="462.061660189" y="280.043496779"/>
+      <point x="462.061660189" y="271.940546306" type="curve" smooth="yes"/>
+      <point x="462.061660189" y="184.866102041"/>
+      <point x="534.387988285" y="127.539531905"/>
+      <point x="605.382543897" y="127.539531905" type="curve" smooth="yes"/>
+      <point x="673.809870788" y="127.539531905"/>
+      <point x="741.0" y="180.795099498"/>
+      <point x="741.0" y="312.0" type="curve" smooth="yes"/>
+      <point x="741" y="378"/>
+      <point x="703" y="443"/>
+      <point x="635" y="443" type="curve" smooth="yes"/>
+      <point x="591" y="443"/>
+      <point x="553" y="413"/>
+      <point x="553" y="364" type="curve" smooth="yes"/>
+      <point x="553" y="308"/>
+      <point x="592" y="283"/>
+      <point x="629" y="283" type="curve" smooth="yes"/>
+      <point x="663" y="283"/>
+      <point x="700" y="299"/>
+      <point x="702" y="336" type="curve"/>
+      <point x="686" y="329" type="line"/>
+      <point x="689" y="320"/>
+      <point x="690" y="312"/>
+      <point x="690" y="304" type="curve" smooth="yes"/>
+      <point x="690" y="260"/>
+      <point x="655" y="220"/>
+      <point x="605" y="220" type="curve"/>
+      <point x="573" y="220"/>
+      <point x="499" y="245"/>
+      <point x="493" y="320" type="curve"/>
+    </contour>
     <component base="bn_th_ra"/>
   </outline>
   <lib>
