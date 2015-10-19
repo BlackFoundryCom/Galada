@@ -2,6 +2,18 @@
 <glyph name="bn_d_ra" format="1">
   <advance width="596"/>
   <outline>
+    <contour>
+      <point x="-7" y="567" type="line"/>
+      <point x="126" y="567" type="line" smooth="yes"/>
+      <point x="176" y="567"/>
+      <point x="197" y="551"/>
+      <point x="212" y="526" type="curve"/>
+      <point x="230" y="540" type="line"/>
+      <point x="216" y="622"/>
+      <point x="182" y="671"/>
+      <point x="111" y="671" type="curve" smooth="yes"/>
+      <point x="-23" y="671" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
