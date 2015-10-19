@@ -793,6 +793,8 @@
 				<string>bn_b_ba</string>
 				<string>bn_b_bha</string>
 				<string>bn_b_ra</string>
+				<string>bn_b_ra_ukaar</string>
+				<string>bn_b_ra_uukaar</string>
 				<string>bn_b_da_ukaar</string>
 				<string>bn_b_da_uukaar</string>
 				<string>bn_b_la</string>
@@ -943,6 +945,8 @@
 				<string>bn_reph.alt</string>
 				<string>uni200C</string>
 				<string>uni200D</string>
+				<string>bn_tta_iikaar</string>
+				<string>bn_iikaar.alt</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1549,6 +1553,8 @@
 		<string>bn_b_ba</string>
 		<string>bn_b_bha</string>
 		<string>bn_b_ra</string>
+		<string>bn_b_ra_ukaar</string>
+		<string>bn_b_ra_uukaar</string>
 		<string>bn_b_da_ukaar</string>
 		<string>bn_b_da_uukaar</string>
 		<string>bn_b_la</string>
@@ -1699,6 +1705,8 @@
 		<string>bn_reph.alt</string>
 		<string>uni200C</string>
 		<string>uni200D</string>
+		<string>bn_tta_iikaar</string>
+		<string>bn_iikaar.alt</string>
 	</array>
 </dict>
 </plist>
