@@ -15,7 +15,7 @@
       <point x="-23" y="671" type="line"/>
     </contour>
     <contour>
-      <point x="386" y="276" type="curve"/>
+      <point x="386" y="276" type="line"/>
       <point x="270" y="247"/>
       <point x="141" y="186"/>
       <point x="81" y="126" type="curve"/>
@@ -30,8 +30,6 @@
       <point x="222" y="109"/>
       <point x="298" y="142"/>
       <point x="374" y="162" type="curve"/>
-      <point x="660.17205732" y="202.276067326"/>
-      <point x="779.267309723" y="310.197157367"/>
     </contour>
     <contour>
       <point x="422" y="-96" type="curve"/>
