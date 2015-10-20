@@ -301,6 +301,7 @@ feature blws {
     sub bn_dh_ra bn_ukaar by bn_dh_ra_ukaar;
     sub bn_p_ra bn_ukaar by bn_p_ra_ukaar;
     sub bn_b_da bn_ukaar by bn_b_da_ukaar;
+    sub bn_b_ra bn_ukaar by bn_b_ra_ukaar;
     sub bn_bh_ra bn_ukaar by bn_bh_ra_ukaar;
     sub bn_l_ga bn_ukaar by bn_l_ga_ukaar;
     sub bn_sh_ra bn_ukaar by bn_sh_ra_ukaar;
@@ -316,6 +317,7 @@ feature blws {
     sub bn_dh_ra bn_uukaar by bn_dh_ra_uukaar;
     sub bn_p_ra bn_uukaar by bn_p_ra_uukaar;
     sub bn_b_da bn_uukaar by bn_b_da_uukaar;
+    sub bn_b_ra bn_uukaar by bn_b_ra_uukaar;
     sub bn_bh_ra bn_uukaar by bn_bh_ra_uukaar;
     sub bn_sh_ra bn_uukaar by bn_sh_ra_uukaar;
     sub bn_s_ra bn_uukaar by bn_s_ra_uukaar;
@@ -582,12 +584,15 @@ feature pres {
 
 	} deepconjuncts; 
 
-    # _ikaar
-    sub bn_ikaar' bn_ttha by bn_ikaar.fl.wi1;
-    sub bn_ikaar' bn_tta by bn_ikaar.fl.wi1;
-    sub bn_ikaar' bn_ss_tta by bn_ikaar.fl.wi2;
-
 } pres;
+
+feature psts {
+	# _ikaar
+    sub bn_ikaar' [bn_ttha bn_tth_ra bn_ss_ttha] by bn_ikaar.fl.wi1;
+    sub bn_ikaar' [bn_tta bn_tt_ba bn_tt_ra bn_tt_tta] by bn_ikaar.fl.wi1;
+    sub bn_ikaar' [bn_k_tta bn_ss_tta bn_s_tta bn_s_tt_ra bn_ss_tt_ra] by bn_ikaar.fl.wi2;
+    sub bn_ikaar' [bn_n_tta bn_n_tt_ra] by bn_ikaar.fl.wi2;
+} psts;
 
 feature abvm{
     markClass [bn_reph.alt bn_reph] <anchor -148 750> @REPH_MARKS;
