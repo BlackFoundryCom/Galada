@@ -2,39 +2,6 @@
 <glyph name="bn_n_tt_ra" format="1">
   <advance width="688"/>
   <outline>
-    <contour>
-      <point x="100" y="45" type="curve" smooth="yes"/>
-      <point x="44.1306271595" y="57.7421376654"/>
-      <point x="17.0" y="64.4634146341"/>
-      <point x="17" y="102" type="curve" smooth="yes"/>
-      <point x="17" y="126"/>
-      <point x="33" y="152"/>
-      <point x="61" y="168" type="curve"/>
-      <point x="54" y="191"/>
-      <point x="42" y="204"/>
-      <point x="17" y="204" type="curve" smooth="yes"/>
-      <point x="-11" y="204"/>
-      <point x="-37" y="165"/>
-      <point x="-37" y="108" type="curve"/>
-      <point x="-37.0" y="0.574468085106"/>
-      <point x="19.2360884755" y="-71.4333504797"/>
-      <point x="146" y="-96" type="curve" smooth="yes"/>
-      <point x="276.267075036" y="-121.643125007"/>
-      <point x="275.700286729" y="-132.684239681"/>
-      <point x="270" y="-162" type="curve"/>
-      <point x="279" y="-136" type="line"/>
-      <point x="283" y="-118"/>
-      <point x="285" y="-101"/>
-      <point x="285" y="-85" type="curve" smooth="yes"/>
-      <point x="285.0" y="-4.0"/>
-      <point x="211.847272963" y="19.1890908546"/>
-    </contour>
-    <contour>
-      <point x="311" y="29" type="line"/>
-      <point x="270" y="-162" type="line" smooth="yes"/>
-      <point x="385" y="-162" type="line"/>
-      <point x="426" y="29" type="line"/>
-    </contour>
     <component base="bn_n_tta"/>
   </outline>
 </glyph>
