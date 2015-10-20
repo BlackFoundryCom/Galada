@@ -48,9 +48,11 @@
       <point x="579.0" y="798.0" type="curve"/>
       <point x="545.0" y="798.0" type="line"/>
       <point x="404.0" y="144.0" type="line"/>
-      <point x="518.0" y="144.0" type="line"/>
-      <point x="619.0" y="621.0" type="line"/>
-      <point x="630.0" y="589.0"/>
+      <point x="518" y="144" type="line"/>
+      <point x="551" y="303"/>
+      <point x="584" y="462"/>
+      <point x="619" y="621" type="curve"/>
+      <point x="630" y="589"/>
       <point x="649.0" y="567.0"/>
       <point x="673.0" y="567.0" type="curve" smooth="yes"/>
       <point x="680.0" y="567.0" type="line"/>
