@@ -84,7 +84,7 @@
       <point x="143" y="110"/>
       <point x="76" y="110" type="curve"/>
     </contour>
-    <component base="bn_dha"/>
+    <component base="bn_dha" xOffset="661"/>
     <contour>
       <point x="315" y="0" type="move" name="blwm"/>
     </contour>
