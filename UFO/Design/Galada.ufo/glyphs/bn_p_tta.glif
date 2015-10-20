@@ -135,6 +135,18 @@
       <point x="1265" y="675"/>
       <point x="1248" y="666" type="curve"/>
     </contour>
+    <contour>
+      <point x="918" y="567" type="line"/>
+      <point x="927" y="567" type="line" smooth="yes"/>
+      <point x="977" y="567"/>
+      <point x="998" y="551"/>
+      <point x="1013" y="526" type="curve"/>
+      <point x="1031" y="540" type="line"/>
+      <point x="1017.03268156" y="621.941601535"/>
+      <point x="983.0" y="671.0"/>
+      <point x="912" y="671" type="curve" smooth="yes"/>
+      <point x="902" y="671" type="line"/>
+    </contour>
     <component base="bn_tta" xOffset="925"/>
   </outline>
 </glyph>
