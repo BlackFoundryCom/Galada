@@ -8,9 +8,9 @@
       <point x="187" y="366"/>
       <point x="156" y="338" type="curve"/>
       <point x="163" y="376"/>
-      <point x="148" y="415"/>
-      <point x="119" y="417" type="curve"/>
-      <point x="184" y="501"/>
+      <point x="141" y="414"/>
+      <point x="112" y="416" type="curve"/>
+      <point x="177" y="500"/>
       <point x="373" y="379"/>
       <point x="350" y="224" type="curve"/>
       <point x="382" y="267" type="line"/>
@@ -110,7 +110,7 @@
       <point x="224" y="187"/>
     </contour>
     <contour>
-      <point x="596" y="0" type="move" name="blwm"/>
+      <point x="596.0" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
   <lib>
