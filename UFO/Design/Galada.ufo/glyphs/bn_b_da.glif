@@ -70,4 +70,15 @@
       <point x="281" y="300" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4711</real>
+        <real>1.0</real>
+        <real>0.1481</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>
