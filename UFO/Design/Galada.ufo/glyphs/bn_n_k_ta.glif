@@ -142,17 +142,17 @@
       <point x="383" y="-50"/>
       <point x="404" y="-44"/>
       <point x="424" y="-33" type="curve"/>
-      <point x="424.838484317" y="-38.8294623916"/>
-      <point x="425.244931984" y="-44.4373266496"/>
-      <point x="425.244931984" y="-49.8221287277" type="curve" smooth="yes"/>
-      <point x="425.244931984" y="-112.428911705"/>
-      <point x="370.30249459" y="-144.882784898"/>
-      <point x="300.63445854" y="-144.882784898" type="curve" smooth="yes"/>
-      <point x="226.220351718" y="-144.882784898"/>
-      <point x="135.005970672" y="-107.856516421"/>
+      <point x="425" y="-39"/>
+      <point x="425" y="-44"/>
+      <point x="425" y="-50" type="curve" smooth="yes"/>
+      <point x="425" y="-112"/>
+      <point x="370" y="-145"/>
+      <point x="301" y="-145" type="curve" smooth="yes"/>
+      <point x="226" y="-145"/>
+      <point x="135" y="-108"/>
     </contour>
     <contour>
-      <point x="441.0" y="-74.0" type="move" name="blwm"/>
+      <point x="441" y="-74.0" type="move" name="blwm"/>
     </contour>
   </outline>
   <lib>
