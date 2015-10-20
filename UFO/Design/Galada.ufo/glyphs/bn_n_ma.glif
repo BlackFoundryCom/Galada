@@ -2,6 +2,20 @@
 <glyph name="bn_n_ma" format="1">
   <advance width="687"/>
   <outline>
+    <contour>
+      <point x="497" y="538" type="curve"/>
+      <point x="368" y="-73" type="line" smooth="yes"/>
+      <point x="483" y="-73" type="line" smooth="yes"/>
+      <point x="600" y="494" type="line" smooth="yes"/>
+      <point x="611" y="546"/>
+      <point x="633" y="567"/>
+      <point x="663" y="567" type="curve" smooth="yes"/>
+      <point x="689" y="567" type="line"/>
+      <point x="673" y="671" type="line"/>
+      <point x="643" y="671" type="line" smooth="yes"/>
+      <point x="560" y="671"/>
+      <point x="514" y="617"/>
+    </contour>
   </outline>
   <lib>
     <dict>
