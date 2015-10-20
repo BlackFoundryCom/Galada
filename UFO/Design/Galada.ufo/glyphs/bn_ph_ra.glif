@@ -32,6 +32,31 @@
       <point x="103" y="57"/>
       <point x="59" y="71"/>
     </contour>
+    <contour>
+      <point x="311" y="430" type="line"/>
+      <point x="237" y="394"/>
+      <point x="174" y="349"/>
+      <point x="118" y="293" type="curve"/>
+      <point x="134" y="191" type="line"/>
+      <point x="227" y="192"/>
+      <point x="390" y="140"/>
+      <point x="360" y="0" type="curve"/>
+      <point x="386" y="26" type="line"/>
+      <point x="419.25" y="175.625"/>
+      <point x="312.923076923" y="243.222222222"/>
+      <point x="272" y="258" type="curve"/>
+      <point x="310" y="296"/>
+      <point x="359" y="331"/>
+      <point x="414" y="360" type="curve"/>
+      <point x="332" y="431"/>
+      <point x="317" y="521"/>
+      <point x="317" y="600" type="curve"/>
+      <point x="156" y="600" type="line"/>
+      <point x="156.0" y="542.0"/>
+      <point x="193.003248208" y="479.997834528"/>
+      <point x="262" y="434" type="curve" smooth="yes"/>
+      <point x="343" y="380" type="line"/>
+    </contour>
     <component base="bn_pha" xOffset="123"/>
   </outline>
 </glyph>
