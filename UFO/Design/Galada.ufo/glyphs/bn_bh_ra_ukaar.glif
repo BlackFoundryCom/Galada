@@ -88,6 +88,12 @@
       <point x="548" y="239"/>
       <point x="542" y="314" type="curve"/>
     </contour>
+    <contour>
+      <point x="782" y="567" type="line"/>
+      <point x="766" y="671" type="line"/>
+      <point x="-34" y="671" type="line"/>
+      <point x="-13" y="567" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
