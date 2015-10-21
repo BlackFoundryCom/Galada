@@ -86,8 +86,11 @@
     </contour>
     <contour>
       <point x="561" y="199" type="move"/>
-      <point x="417.901960784" y="199.0"/>
-      <point x="274.0" y="129.394736842"/>
+      <point x="479" y="199"/>
+      <point x="395" y="158"/>
+      <point x="344" y="158" type="curve" smooth="yes"/>
+      <point x="306" y="158"/>
+      <point x="274" y="171"/>
       <point x="274" y="202" type="curve"/>
       <point x="274" y="229"/>
       <point x="287" y="243"/>
