@@ -2,6 +2,12 @@
 <glyph name="bn_bh_ra" format="1">
   <advance width="532"/>
   <outline>
+    <contour>
+      <point x="534" y="567" type="line"/>
+      <point x="518" y="671" type="line"/>
+      <point x="-192" y="671" type="line"/>
+      <point x="-171" y="567" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
