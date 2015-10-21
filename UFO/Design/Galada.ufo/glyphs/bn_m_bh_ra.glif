@@ -47,30 +47,6 @@
       <point x="583" y="567" type="line"/>
     </contour>
     <contour>
-      <point x="88" y="78" type="curve" smooth="yes"/>
-      <point x="4" y="84"/>
-      <point x="-14" y="93"/>
-      <point x="-14" y="117" type="curve" smooth="yes"/>
-      <point x="-14" y="131"/>
-      <point x="-4" y="147"/>
-      <point x="26" y="155" type="curve"/>
-      <point x="19" y="178"/>
-      <point x="7" y="191"/>
-      <point x="-18" y="191" type="curve" smooth="yes"/>
-      <point x="-44" y="191"/>
-      <point x="-68" y="161"/>
-      <point x="-68" y="115" type="curve"/>
-      <point x="-68" y="32"/>
-      <point x="-24" y="-23"/>
-      <point x="113" y="-39" type="curve" smooth="yes"/>
-      <point x="234" y="-53"/>
-      <point x="265" y="-47"/>
-      <point x="260" y="-72" type="curve"/>
-      <point x="269" y="-46" type="line"/>
-      <point x="270" y="42"/>
-      <point x="191" y="71"/>
-    </contour>
-    <contour>
       <point x="314.0" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
