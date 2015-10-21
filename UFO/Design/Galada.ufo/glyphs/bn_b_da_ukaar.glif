@@ -83,10 +83,8 @@
       <point x="512" y="370" type="line"/>
       <point x="460" y="295"/>
       <point x="414" y="203"/>
-      <point x="414" y="110" type="curve" smooth="yes"/>
-      <point x="414.0" y="-98.3767577853"/>
-      <point x="482.0" y="-64.394108234"/>
-      <point x="482" y="83" type="curve" smooth="yes"/>
+      <point x="414" y="110" type="curve"/>
+      <point x="482" y="83" type="line"/>
       <point x="482" y="198"/>
       <point x="559" y="297"/>
       <point x="628" y="374" type="curve"/>
