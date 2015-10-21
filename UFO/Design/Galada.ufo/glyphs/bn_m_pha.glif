@@ -120,6 +120,12 @@
       <point x="1177" y="434" type="curve" smooth="yes"/>
       <point x="1258" y="380" type="line"/>
     </contour>
+    <contour>
+      <point x="1741" y="567" type="line"/>
+      <point x="1725" y="671" type="line"/>
+      <point x="1015" y="671" type="line"/>
+      <point x="1031" y="567" type="line"/>
+    </contour>
     <component base="bn_pha" xOffset="1038"/>
     <contour>
       <point x="591.0" y="-162.0" type="move" name="blwm"/>
