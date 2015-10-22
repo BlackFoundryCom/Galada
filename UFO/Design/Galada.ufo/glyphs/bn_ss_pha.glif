@@ -95,7 +95,7 @@
       <point x="872" y="671" type="line"/>
       <point x="-23" y="671" type="line"/>
     </contour>
-    <component base="bn_pha"/>
+    <component base="bn_pha" xOffset="201"/>
     <contour>
       <point x="451" y="-162" type="move" name="blwm"/>
     </contour>
