@@ -76,7 +76,7 @@
       <point x="185" y="448"/>
       <point x="215.171872234" y="422.85776091"/>
     </contour>
-    <component base="bn_ttha"/>
+    <component base="bn_ttha" xOffset="62"/>
     <contour>
       <point x="266" y="0" type="move" name="blwm"/>
     </contour>
