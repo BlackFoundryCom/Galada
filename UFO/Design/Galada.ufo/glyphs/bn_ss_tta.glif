@@ -2,6 +2,12 @@
 <glyph name="bn_ss_tta" format="1">
   <advance width="543"/>
   <outline>
+    <contour>
+      <point x="-7" y="567" type="line"/>
+      <point x="545" y="567" type="line"/>
+      <point x="529" y="671" type="line"/>
+      <point x="-23" y="671" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
