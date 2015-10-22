@@ -140,6 +140,18 @@
       <point x="700" y="227"/>
       <point x="808" y="138"/>
     </contour>
+    <contour>
+      <point x="747" y="567" type="line" smooth="yes"/>
+      <point x="840.680555556" y="567.0"/>
+      <point x="864.093630167" y="544.846446527"/>
+      <point x="889" y="504" type="curve"/>
+      <point x="908" y="533" type="line"/>
+      <point x="872.227132913" y="619.607994001"/>
+      <point x="797.0" y="671.0"/>
+      <point x="680" y="671" type="curve" smooth="yes"/>
+      <point x="562" y="671" type="line"/>
+      <point x="578" y="567" type="line"/>
+    </contour>
     <component base="bn_ka" xOffset="585"/>
   </outline>
   <lib>
