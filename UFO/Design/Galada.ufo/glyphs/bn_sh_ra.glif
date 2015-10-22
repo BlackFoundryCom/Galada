@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_sh_ra" format="1">
-  <advance width="656"/>
+  <advance width="588"/>
   <outline>
     <contour>
       <point x="-3" y="219" type="curve" smooth="yes"/>
@@ -58,23 +58,23 @@
       <point x="215" y="681"/>
       <point x="149" y="615"/>
       <point x="125" y="533" type="curve"/>
-      <point x="27.8873624351" y="509.835517645"/>
+      <point x="28" y="510"/>
       <point x="-28" y="455"/>
       <point x="-28" y="401" type="curve" smooth="yes"/>
       <point x="-28" y="365"/>
-      <point x="-2.31578947368" y="337.0"/>
+      <point x="-2" y="337"/>
       <point x="33" y="337" type="curve" smooth="yes"/>
       <point x="76" y="337"/>
-      <point x="114.975911846" y="356.542188431"/>
+      <point x="115" y="357"/>
       <point x="136" y="407" type="curve"/>
-      <point x="151.260641985" y="355.4953333"/>
+      <point x="151" y="355"/>
       <point x="185" y="327"/>
       <point x="232" y="327" type="curve" smooth="yes"/>
-      <point x="271.513157895" y="327.0"/>
+      <point x="272" y="327"/>
       <point x="309" y="363"/>
       <point x="309" y="407" type="curve" smooth="yes"/>
       <point x="309" y="451"/>
-      <point x="290.939543154" y="477.9198886"/>
+      <point x="291" y="478"/>
       <point x="260" y="508" type="curve"/>
       <point x="277" y="548"/>
       <point x="298" y="577"/>
@@ -828,7 +828,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>656</integer>
+          <integer>588</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
