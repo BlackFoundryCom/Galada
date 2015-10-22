@@ -3,7 +3,7 @@
   <advance width="588"/>
   <outline>
     <contour>
-      <point x="99" y="226" type="curve"/>
+      <point x="99" y="226" type="line"/>
       <point x="226" y="188"/>
       <point x="301" y="82"/>
       <point x="283" y="0" type="curve"/>
@@ -23,8 +23,6 @@
       <point x="179" y="217"/>
       <point x="169" y="257"/>
       <point x="107" y="257" type="curve"/>
-      <point x="105.0" y="249.25"/>
-      <point x="99" y="209"/>
     </contour>
     <component base="bn_sha"/>
   </outline>
