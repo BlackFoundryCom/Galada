@@ -101,7 +101,7 @@
       <point x="323" y="0" type="line" smooth="yes"/>
       <point x="462" y="671" type="line"/>
     </contour>
-    <component base="bn_ssa"/>
+    <component base="bn_ssa" yOffset="-1"/>
     <contour>
       <point x="272.0" y="0.0" type="move" name="blwm"/>
     </contour>
