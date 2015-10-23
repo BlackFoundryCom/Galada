@@ -35,6 +35,12 @@
       <point x="502" y="-300" type="line"/>
       <point x="572" y="40" type="line"/>
     </contour>
+    <contour>
+      <point x="-7" y="567" type="line"/>
+      <point x="634" y="567" type="line"/>
+      <point x="618" y="671" type="line"/>
+      <point x="-23" y="671" type="line"/>
+    </contour>
     <component base="bn_s_tta"/>
   </outline>
 </glyph>
