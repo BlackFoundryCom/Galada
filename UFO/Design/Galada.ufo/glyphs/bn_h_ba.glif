@@ -50,6 +50,12 @@
       <point x="144" y="453" type="curve"/>
     </contour>
     <contour>
+      <point x="165" y="52" type="line"/>
+      <point x="97" y="-270" type="line" smooth="yes"/>
+      <point x="203" y="-270" type="line" smooth="yes"/>
+      <point x="270" y="52" type="line"/>
+    </contour>
+    <contour>
       <point x="95.0" y="0.0" type="move" name="blwm"/>
     </contour>
   </outline>
