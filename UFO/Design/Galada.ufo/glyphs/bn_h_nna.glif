@@ -50,13 +50,13 @@
       <point x="144" y="453" type="curve"/>
     </contour>
     <contour>
-      <point x="537" y="256" type="line"/>
+      <point x="537" y="256" type="move"/>
       <point x="537" y="327"/>
       <point x="499" y="396"/>
       <point x="430" y="396" type="curve"/>
     </contour>
     <contour>
-      <point x="430" y="396" type="line"/>
+      <point x="430" y="396" type="move"/>
       <point x="359" y="396"/>
       <point x="324" y="318"/>
       <point x="284" y="234" type="curve"/>
