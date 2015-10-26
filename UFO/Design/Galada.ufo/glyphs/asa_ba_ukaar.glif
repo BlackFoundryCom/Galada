@@ -18,6 +18,40 @@
       <point x="99" y="31"/>
       <point x="141" y="-4" type="curve"/>
     </contour>
+    <contour>
+      <point x="351" y="328" type="line"/>
+      <point x="350" y="319"/>
+      <point x="349" y="311"/>
+      <point x="349" y="303" type="curve" smooth="yes"/>
+      <point x="349" y="216"/>
+      <point x="421" y="159"/>
+      <point x="492" y="159" type="curve" smooth="yes"/>
+      <point x="561" y="159"/>
+      <point x="628" y="212"/>
+      <point x="628" y="343" type="curve" smooth="yes"/>
+      <point x="628" y="409"/>
+      <point x="590" y="474"/>
+      <point x="522" y="474" type="curve" smooth="yes"/>
+      <point x="478" y="474"/>
+      <point x="440" y="444"/>
+      <point x="440" y="395" type="curve" smooth="yes"/>
+      <point x="440" y="339"/>
+      <point x="479" y="314"/>
+      <point x="516" y="314" type="curve" smooth="yes"/>
+      <point x="550" y="314"/>
+      <point x="587" y="330"/>
+      <point x="589" y="367" type="curve"/>
+      <point x="573" y="360" type="line"/>
+      <point x="576" y="351"/>
+      <point x="577" y="343"/>
+      <point x="577" y="335" type="curve" smooth="yes"/>
+      <point x="577" y="291"/>
+      <point x="542" y="251"/>
+      <point x="492" y="251" type="curve"/>
+      <point x="460" y="251"/>
+      <point x="386" y="276"/>
+      <point x="380" y="351" type="curve"/>
+    </contour>
     <component base="bn_ba"/>
     <contour>
       <point x="256" y="0" type="move" name="blwm"/>
