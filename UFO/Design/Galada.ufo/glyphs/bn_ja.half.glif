@@ -48,6 +48,29 @@
       <point x="67" y="127"/>
     </contour>
     <contour>
+      <point x="457" y="120" type="curve" smooth="yes"/>
+      <point x="482" y="113"/>
+      <point x="494" y="119"/>
+      <point x="501" y="138" type="curve"/>
+      <point x="495.690411406" y="147.203286895"/>
+      <point x="493.168671771" y="158.818533002"/>
+      <point x="493.168671771" y="171.914355692" type="curve" smooth="yes"/>
+      <point x="493.168671771" y="232.811964656"/>
+      <point x="547.698628645" y="325.725478885"/>
+      <point x="630.0" y="357.0" type="curve"/>
+      <point x="578" y="480" type="line"/>
+      <point x="513" y="455"/>
+      <point x="399" y="468"/>
+      <point x="389" y="593" type="curve"/>
+      <point x="328" y="583" type="line"/>
+      <point x="337" y="417"/>
+      <point x="451" y="357"/>
+      <point x="550" y="378" type="curve"/>
+      <point x="548" y="412" type="line"/>
+      <point x="458" y="374"/>
+      <point x="397" y="137"/>
+    </contour>
+    <contour>
       <point x="203.0" y="0.0" type="move" name="blwm"/>
     </contour>
     <contour>
