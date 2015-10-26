@@ -47,6 +47,21 @@
       <point x="990" y="577"/>
       <point x="874" y="691"/>
     </contour>
+    <contour>
+      <point x="1121" y="671" type="line"/>
+      <point x="1111" y="671" type="line" smooth="yes"/>
+      <point x="1053.578125" y="671.0"/>
+      <point x="1036.0" y="704.005649718"/>
+      <point x="1036" y="798" type="curve"/>
+      <point x="1002" y="798" type="line"/>
+      <point x="830" y="0" type="line" smooth="yes"/>
+      <point x="945" y="0" type="line"/>
+      <point x="1076" y="621" type="line"/>
+      <point x="1087" y="589"/>
+      <point x="1106" y="567"/>
+      <point x="1130" y="567" type="curve" smooth="yes"/>
+      <point x="1137" y="567" type="line"/>
+    </contour>
     <component base="bn_rra"/>
     <component base="bn_ga" xOffset="520"/>
   </outline>
