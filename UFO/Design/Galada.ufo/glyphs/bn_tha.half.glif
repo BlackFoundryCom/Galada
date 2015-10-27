@@ -20,12 +20,12 @@
     <contour>
       <point x="161" y="412" type="curve"/>
       <point x="174" y="350" type="line"/>
-      <point x="324.770389228" y="371.608785427"/>
-      <point x="386.060099516" y="454.238087759"/>
-      <point x="386.060099516" y="532.740710531" type="curve" smooth="yes"/>
-      <point x="386.060099516" y="614.085822547"/>
-      <point x="320.251574339" y="691.0"/>
-      <point x="220.0" y="691.0" type="curve" smooth="yes"/>
+      <point x="325" y="372"/>
+      <point x="386" y="454"/>
+      <point x="386" y="533" type="curve" smooth="yes"/>
+      <point x="386" y="614"/>
+      <point x="320" y="691"/>
+      <point x="220" y="691" type="curve" smooth="yes"/>
       <point x="96" y="691"/>
       <point x="20" y="639"/>
       <point x="20" y="557" type="curve" smooth="yes"/>
@@ -60,7 +60,7 @@
       <point x="281" y="379"/>
     </contour>
     <contour>
-      <point x="379.0" y="0.0" type="move" name="blwm"/>
+      <point x="379" y="0.0" type="move" name="blwm"/>
     </contour>
     <contour>
       <point x="145.0" y="0.0" type="move" name="nukt"/>
