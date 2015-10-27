@@ -34,7 +34,7 @@
       <point x="400" y="239" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="210" y="481" type="line"/>
+      <point x="210" y="481" type="move"/>
       <point x="103" y="508"/>
       <point x="126.960784314" y="635.156862745"/>
       <point x="202" y="602" type="curve"/>
@@ -54,6 +54,7 @@
       <point x="21.5555555556" y="695.0"/>
       <point x="6" y="515"/>
       <point x="129" y="458" type="curve"/>
+      <point x="210" y="481" type="line"/>
     </contour>
     <contour>
       <point x="301.0" y="0.0" type="move" name="blwm"/>
