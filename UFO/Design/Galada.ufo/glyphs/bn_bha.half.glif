@@ -9,6 +9,12 @@
       <point x="-7" y="567" type="line"/>
     </contour>
     <contour>
+      <point x="45" y="515" type="move"/>
+      <point x="11" y="515"/>
+      <point x="-9" y="493"/>
+      <point x="-9" y="417" type="curve"/>
+    </contour>
+    <contour>
       <point x="-9" y="417" type="move"/>
       <point x="-9" y="250"/>
       <point x="139" y="145"/>
@@ -41,12 +47,6 @@
       <point x="155.806451613" y="256.0"/>
       <point x="5" y="348"/>
       <point x="88" y="495" type="curve"/>
-      <point x="79" y="505"/>
-      <point x="63" y="515"/>
-      <point x="45" y="515" type="curve" smooth="yes"/>
-      <point x="11" y="515"/>
-      <point x="-9" y="493"/>
-      <point x="-9" y="417" type="curve"/>
     </contour>
     <contour>
       <point x="244.0" y="0.0" type="move" name="blwm"/>
