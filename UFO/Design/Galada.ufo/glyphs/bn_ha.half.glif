@@ -42,15 +42,15 @@
       <point x="11" y="347"/>
       <point x="60" y="322"/>
       <point x="103" y="322" type="curve" smooth="yes"/>
-      <point x="154.367112051" y="322.0"/>
-      <point x="182.726390407" y="363.135217816"/>
-      <point x="182.726390407" y="404.034869706" type="curve" smooth="yes"/>
-      <point x="182.726390407" y="432.406577882"/>
-      <point x="169.079713154" y="460.664930135"/>
-      <point x="140.0" y="475.0" type="curve"/>
+      <point x="154" y="322"/>
+      <point x="183" y="363"/>
+      <point x="183" y="404" type="curve" smooth="yes"/>
+      <point x="183" y="432"/>
+      <point x="169" y="461"/>
+      <point x="140" y="475" type="curve"/>
     </contour>
     <contour>
-      <point x="225.0" y="0.0" type="move" name="blwm"/>
+      <point x="225" y="0.0" type="move" name="blwm"/>
     </contour>
     <contour>
       <point x="105.0" y="-120.0" type="move" name="nukt"/>
