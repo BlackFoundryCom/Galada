@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_d_ma" format="1">
-  <advance width="681"/>
+  <advance width="676"/>
   <outline>
     <contour>
       <point x="-7" y="567" type="line"/>
@@ -71,8 +71,8 @@
       <point x="606" y="546"/>
       <point x="628" y="567"/>
       <point x="658" y="567" type="curve" smooth="yes"/>
-      <point x="684" y="567" type="line"/>
-      <point x="668" y="671" type="line"/>
+      <point x="678" y="567" type="line"/>
+      <point x="662" y="671" type="line"/>
       <point x="638" y="671" type="line" smooth="yes"/>
       <point x="555" y="671"/>
       <point x="509" y="617"/>
@@ -829,7 +829,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>681</integer>
+          <integer>676</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

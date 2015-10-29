@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_m_bh_ra" format="1">
-  <advance width="641"/>
+  <advance width="637"/>
   <outline>
     <contour>
       <point x="-7" y="567" type="line"/>
       <point x="-23" y="671" type="line"/>
-      <point x="627" y="671" type="line"/>
-      <point x="643" y="567" type="line"/>
+      <point x="623" y="671" type="line"/>
+      <point x="639" y="567" type="line"/>
     </contour>
     <contour>
       <point x="49" y="115" type="curve" smooth="yes"/>
@@ -351,7 +351,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>641</integer>
+          <integer>637</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

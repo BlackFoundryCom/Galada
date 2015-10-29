@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ttha" format="1">
-  <advance width="459.0"/>
+  <advance width="483.0"/>
   <unicode hex="09A0"/>
   <outline>
     <contour>
-      <point x="473" y="567" type="line"/>
-      <point x="457" y="671" type="line"/>
+      <point x="497" y="567" type="line"/>
+      <point x="481" y="671" type="line"/>
       <point x="-23" y="671" type="line"/>
       <point x="-7" y="567" type="line"/>
     </contour>
     <contour>
-      <point x="149" y="630" type="line"/>
-      <point x="259" y="459"/>
-      <point x="87" y="302"/>
-      <point x="-43" y="278" type="curve"/>
-      <point x="-43" y="138"/>
-      <point x="24" y="0"/>
-      <point x="154" y="0" type="curve" smooth="yes"/>
-      <point x="265" y="0"/>
-      <point x="378" y="78"/>
-      <point x="378" y="254" type="curve" smooth="yes"/>
-      <point x="378" y="486"/>
-      <point x="128" y="671"/>
-      <point x="128" y="817" type="curve" smooth="yes"/>
-      <point x="128" y="887"/>
-      <point x="176" y="937"/>
-      <point x="249" y="937" type="curve" smooth="yes"/>
-      <point x="262" y="937"/>
-      <point x="276" y="935"/>
-      <point x="291" y="932" type="curve"/>
-      <point x="287" y="979"/>
-      <point x="265" y="1015"/>
-      <point x="207" y="1015" type="curve" smooth="yes"/>
-      <point x="122" y="1015"/>
-      <point x="52" y="937"/>
-      <point x="52" y="838" type="curve" smooth="yes"/>
-      <point x="52" y="647"/>
-      <point x="291" y="524"/>
-      <point x="291" y="300" type="curve" smooth="yes"/>
-      <point x="291" y="192"/>
-      <point x="213" y="93"/>
-      <point x="125" y="93" type="curve" smooth="yes"/>
-      <point x="63" y="93"/>
-      <point x="39" y="122"/>
-      <point x="45" y="184" type="curve"/>
-      <point x="242" y="254"/>
-      <point x="282" y="401"/>
-      <point x="233" y="526" type="curve"/>
+      <point x="173" y="630" type="line"/>
+      <point x="283" y="459"/>
+      <point x="111" y="302"/>
+      <point x="-19" y="278" type="curve"/>
+      <point x="-19" y="138"/>
+      <point x="48" y="0"/>
+      <point x="178" y="0" type="curve" smooth="yes"/>
+      <point x="289" y="0"/>
+      <point x="402" y="78"/>
+      <point x="402" y="254" type="curve" smooth="yes"/>
+      <point x="402" y="486"/>
+      <point x="152" y="671"/>
+      <point x="152" y="817" type="curve" smooth="yes"/>
+      <point x="152" y="887"/>
+      <point x="200" y="937"/>
+      <point x="273" y="937" type="curve" smooth="yes"/>
+      <point x="286" y="937"/>
+      <point x="300" y="935"/>
+      <point x="315" y="932" type="curve"/>
+      <point x="311" y="979"/>
+      <point x="289" y="1015"/>
+      <point x="231" y="1015" type="curve" smooth="yes"/>
+      <point x="146" y="1015"/>
+      <point x="76" y="937"/>
+      <point x="76" y="838" type="curve" smooth="yes"/>
+      <point x="76" y="647"/>
+      <point x="315" y="524"/>
+      <point x="315" y="300" type="curve" smooth="yes"/>
+      <point x="315" y="192"/>
+      <point x="237" y="93"/>
+      <point x="149" y="93" type="curve" smooth="yes"/>
+      <point x="87" y="93"/>
+      <point x="63" y="122"/>
+      <point x="69" y="184" type="curve"/>
+      <point x="266" y="254"/>
+      <point x="306" y="401"/>
+      <point x="257" y="526" type="curve"/>
     </contour>
     <contour>
-      <point x="161" y="0" type="move" name="blwm"/>
+      <point x="185" y="0" type="move" name="blwm"/>
     </contour>
     <contour>
-      <point x="103" y="-120" type="move" name="nukt"/>
+      <point x="127" y="-120" type="move" name="nukt"/>
     </contour>
     <contour>
-      <point x="266" y="750" type="move" name="reph"/>
+      <point x="290" y="750" type="move" name="reph"/>
     </contour>
     <contour>
-      <point x="370" y="669" type="move" name="chandrabindu"/>
+      <point x="394" y="669" type="move" name="chandrabindu"/>
     </contour>
     <contour>
-      <point x="161" y="0" type="move" name="haln"/>
+      <point x="185" y="0" type="move" name="haln"/>
     </contour>
   </outline>
   <lib>
@@ -87,7 +87,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>563.0</real>
+                  <real>587.0</real>
                   <key>y</key>
                   <integer>627</integer>
                 </dict>
@@ -97,7 +97,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>547.0</real>
+                  <real>571.0</real>
                   <key>y</key>
                   <integer>751</integer>
                 </dict>
@@ -107,7 +107,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>-35.0</real>
+                  <real>-11.0</real>
                   <key>y</key>
                   <integer>751</integer>
                 </dict>
@@ -117,7 +117,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>-19.0</real>
+                  <real>5.0</real>
                   <key>y</key>
                   <integer>627</integer>
                 </dict>
@@ -133,7 +133,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>459.0</real>
+          <real>483.0</real>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

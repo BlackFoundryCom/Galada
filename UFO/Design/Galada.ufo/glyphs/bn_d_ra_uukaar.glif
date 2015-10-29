@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_d_ra_uukaar" format="1">
-  <advance width="701"/>
+  <advance width="689"/>
   <outline>
     <contour>
       <point x="515" y="567" type="line"/>
-      <point x="703" y="567" type="line"/>
-      <point x="687" y="671" type="line"/>
+      <point x="691" y="567" type="line"/>
+      <point x="675" y="671" type="line"/>
       <point x="515" y="671" type="line"/>
     </contour>
     <contour>
@@ -872,7 +872,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>701</integer>
+          <integer>689</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

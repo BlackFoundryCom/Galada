@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_cha" format="1">
-  <advance width="512"/>
+  <advance width="522"/>
   <unicode hex="099B"/>
   <outline>
     <contour>
@@ -59,8 +59,8 @@
       <point x="152" y="535"/>
       <point x="181" y="567"/>
       <point x="272" y="567" type="curve" smooth="yes"/>
-      <point x="514" y="567" type="line"/>
-      <point x="498" y="671" type="line"/>
+      <point x="524" y="567" type="line"/>
+      <point x="508" y="671" type="line"/>
       <point x="299" y="671" type="line" smooth="yes"/>
       <point x="127" y="671"/>
       <point x="58" y="623"/>
@@ -77,19 +77,19 @@
       <point x="282" y="425" type="curve"/>
     </contour>
     <contour>
-      <point x="172" y="-53" type="move" name="blwm"/>
+      <point x="172.0" y="-53.0" type="move" name="blwm"/>
     </contour>
     <contour>
-      <point x="111" y="-170" type="move" name="nukt"/>
+      <point x="111.0" y="-170.0" type="move" name="nukt"/>
     </contour>
     <contour>
-      <point x="184" y="750" type="move" name="reph"/>
+      <point x="184.0" y="750.0" type="move" name="reph"/>
     </contour>
     <contour>
-      <point x="184" y="750" type="move" name="chandrabindu"/>
+      <point x="184.0" y="750.0" type="move" name="chandrabindu"/>
     </contour>
     <contour>
-      <point x="87" y="0" type="move" name="haln"/>
+      <point x="87.0" y="0.0" type="move" name="haln"/>
     </contour>
   </outline>
   <lib>
@@ -714,7 +714,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>512</integer>
+          <integer>522</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -1326,7 +1326,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>512</integer>
+          <integer>522</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
