@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_ta" format="1">
-  <advance width="563"/>
+  <advance width="575"/>
   <unicode hex="09A4"/>
   <outline>
     <contour>
-      <point x="565" y="567" type="line"/>
-      <point x="549" y="671" type="line"/>
+      <point x="577" y="567" type="line"/>
+      <point x="561" y="671" type="line"/>
       <point x="-23" y="671" type="line"/>
       <point x="-7" y="567" type="line"/>
     </contour>
     <contour>
-      <point x="292" y="10" type="curve" smooth="yes"/>
-      <point x="409" y="10"/>
-      <point x="506" y="117"/>
+      <point x="285" y="12" type="curve"/>
+      <point x="401" y="12"/>
+      <point x="506" y="98"/>
       <point x="506" y="261" type="curve" smooth="yes"/>
       <point x="506" y="404"/>
       <point x="409" y="510"/>
@@ -34,22 +34,22 @@
       <point x="434" y="349"/>
       <point x="434" y="278" type="curve" smooth="yes"/>
       <point x="434" y="201"/>
-      <point x="369" y="128"/>
-      <point x="268" y="128" type="curve" smooth="yes"/>
-      <point x="154" y="128"/>
-      <point x="42" y="228"/>
-      <point x="42" y="396" type="curve" smooth="yes"/>
-      <point x="42" y="433"/>
-      <point x="51" y="466"/>
-      <point x="69" y="489" type="curve"/>
-      <point x="60" y="500"/>
-      <point x="44" y="510"/>
-      <point x="26" y="510" type="curve" smooth="yes"/>
-      <point x="-8" y="510"/>
-      <point x="-32" y="486"/>
-      <point x="-32" y="426" type="curve" smooth="yes"/>
-      <point x="-32" y="233"/>
-      <point x="115" y="10"/>
+      <point x="376" y="132"/>
+      <point x="286" y="132" type="curve"/>
+      <point x="187" y="132"/>
+      <point x="62" y="217"/>
+      <point x="62" y="396" type="curve" smooth="yes"/>
+      <point x="62" y="433"/>
+      <point x="71" y="466"/>
+      <point x="89" y="489" type="curve"/>
+      <point x="80" y="500"/>
+      <point x="64" y="510"/>
+      <point x="46" y="510" type="curve" smooth="yes"/>
+      <point x="12" y="510"/>
+      <point x="-12" y="486"/>
+      <point x="-12" y="426" type="curve" smooth="yes"/>
+      <point x="-12" y="233"/>
+      <point x="92" y="12"/>
     </contour>
     <contour>
       <point x="280" y="0" type="move" name="blwm"/>
@@ -489,7 +489,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>563</integer>
+          <integer>575</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -917,7 +917,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>563</integer>
+          <integer>575</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
