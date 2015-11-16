@@ -58,39 +58,7 @@
       <point x="377" y="691"/>
     </contour>
     <contour>
-      <point x="184" y="-58" type="move"/>
-      <point x="200" y="-31" type="line"/>
-      <point x="221" y="59"/>
-      <point x="161" y="161"/>
-      <point x="78" y="159" type="curve"/>
-      <point x="10" y="159"/>
-      <point x="-39" y="95"/>
-      <point x="-39" y="9" type="curve"/>
-      <point x="-39" y="-96"/>
-      <point x="19" y="-148"/>
-      <point x="72" y="-148" type="curve"/>
-      <point x="111" y="-148"/>
-      <point x="139" y="-119"/>
-      <point x="139" y="-83" type="curve"/>
-      <point x="139" y="-51"/>
-      <point x="116" y="-24"/>
-      <point x="80" y="-23" type="curve"/>
-      <point x="45" y="-24"/>
-      <point x="23" y="-47"/>
-      <point x="23" y="-92" type="curve"/>
-      <point x="49" y="-99" type="line"/>
-      <point x="33" y="-89"/>
-      <point x="28" y="-55"/>
-      <point x="28" y="-36" type="curve"/>
-      <point x="27" y="12"/>
-      <point x="50" y="48"/>
-      <point x="94" y="48" type="curve"/>
-      <point x="140" y="48"/>
-      <point x="183" y="-2"/>
       <point x="184" y="-58" type="curve"/>
-    </contour>
-    <contour>
-      <point x="184" y="-58" type="move"/>
       <point x="184" y="-58"/>
       <point x="228" y="-77"/>
       <point x="228" y="-77" type="curve"/>
@@ -107,15 +75,74 @@
       <point x="216" y="113"/>
       <point x="187" y="40"/>
       <point x="184" y="-58" type="curve"/>
+      <point x="200" y="-31" type="line"/>
+      <point x="221" y="59"/>
+      <point x="161" y="160"/>
+      <point x="78" y="159" type="curve" smooth="yes"/>
+      <point x="10" y="158"/>
+      <point x="-39" y="95"/>
+      <point x="-39" y="9" type="curve"/>
+      <point x="-39" y="-96"/>
+      <point x="19" y="-148"/>
+      <point x="72" y="-148" type="curve"/>
+      <point x="111" y="-148"/>
+      <point x="139" y="-119"/>
+      <point x="139" y="-83" type="curve"/>
+      <point x="139" y="-51"/>
+      <point x="116" y="-23"/>
+      <point x="80" y="-23" type="curve" smooth="yes"/>
+      <point x="45" y="-23"/>
+      <point x="23" y="-47"/>
+      <point x="23" y="-92" type="curve"/>
+      <point x="49" y="-99" type="line"/>
+      <point x="33" y="-89"/>
+      <point x="28" y="-55"/>
+      <point x="28" y="-36" type="curve"/>
+      <point x="27" y="12"/>
+      <point x="50" y="48"/>
+      <point x="94" y="48" type="curve" smooth="yes"/>
+      <point x="140" y="48"/>
+      <point x="183" y="-2"/>
     </contour>
     <contour>
-      <point x="397" y="0" type="move" name="blwm"/>
+      <point x="362" y="-162" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="328" y="-162" type="move" name="haln"/>
+    </contour>
+    <contour>
+      <point x="514" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="514" y="750" type="move" name="chandrabindu"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_g_la</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>638</integer>
+        </dict>
         <key>New_01</key>
         <dict>
           <key>anchors</key>
@@ -1368,10 +1395,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.4711</real>
         <real>1.0</real>
-        <real>0.1481</real>
-        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
       </array>
     </dict>
   </lib>

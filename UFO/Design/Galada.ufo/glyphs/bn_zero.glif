@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bn_zero" format="1">
-  <advance width="601"/>
+  <advance width="529"/>
   <unicode hex="09E6"/>
   <outline>
-    <component base="bn_zero.pnum" xOffset="35"/>
+    <contour>
+      <point x="351" y="93"/>
+      <point x="455" y="194"/>
+      <point x="455" y="337" type="curve" smooth="yes"/>
+      <point x="455" y="469"/>
+      <point x="370" y="568"/>
+      <point x="244" y="568" type="curve" smooth="yes"/>
+      <point x="102" y="568"/>
+      <point x="-6" y="462"/>
+      <point x="-6" y="322" type="curve" smooth="yes"/>
+      <point x="-6" y="189"/>
+      <point x="83" y="93"/>
+      <point x="212" y="93" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="88" y="298" type="curve" smooth="yes"/>
+      <point x="88" y="371"/>
+      <point x="174" y="452"/>
+      <point x="265" y="452" type="curve" smooth="yes"/>
+      <point x="326" y="452"/>
+      <point x="366" y="414"/>
+      <point x="366" y="362" type="curve" smooth="yes"/>
+      <point x="366" y="288"/>
+      <point x="280" y="208"/>
+      <point x="189" y="208" type="curve" smooth="yes"/>
+      <point x="128" y="208"/>
+      <point x="88" y="245"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.3739</real>
-        <real>0.9739</real>
-        <real>0.9829</real>
-        <real>0.8</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

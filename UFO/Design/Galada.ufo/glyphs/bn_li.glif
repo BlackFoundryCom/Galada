@@ -66,14 +66,55 @@
       <point x="182.796116505" y="553.0"/>
       <point x="155" y="564"/>
     </contour>
-    <contour>
-      <point x="188.0" y="0.0" type="move" name="blwm"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_li</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>614</integer>
+        </dict>
+        <key>New_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_li</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>614</integer>
+        </dict>
         <key>mask</key>
         <dict>
           <key>anchors</key>
@@ -631,9 +672,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>0.502</real>
-        <real>0.0</real>
         <real>1.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
       </array>
     </dict>
   </lib>

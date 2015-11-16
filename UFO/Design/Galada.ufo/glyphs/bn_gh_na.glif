@@ -97,11 +97,67 @@
       <point x="82" y="362"/>
       <point x="21" y="344" type="curve"/>
     </contour>
+    <contour>
+      <point x="304" y="-120" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="278" y="-120" type="move" name="haln"/>
+    </contour>
+    <contour>
+      <point x="481" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="481" y="750" type="move" name="chandrabindu"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_gh_na</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>571</integer>
+        </dict>
+        <key>New_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_gh_na</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>571</integer>
+        </dict>
         <key>mask</key>
         <dict>
           <key>anchors</key>
@@ -905,10 +961,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.4711</real>
         <real>1.0</real>
-        <real>0.1481</real>
-        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
       </array>
     </dict>
   </lib>

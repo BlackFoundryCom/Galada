@@ -112,9 +112,6 @@
       <point x="144" y="863"/>
       <point x="127" y="880"/>
     </contour>
-    <contour>
-      <point x="439.0" y="0.0" type="move" name="blwm"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -2864,10 +2861,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.4711</real>
         <real>1.0</real>
-        <real>0.1481</real>
         <real>1.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
       </array>
     </dict>
   </lib>

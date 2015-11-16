@@ -57,8 +57,8 @@
       <point x="-50" y="231"/>
       <point x="-50" y="205" type="curve" smooth="yes"/>
       <point x="-50" y="133"/>
-      <point x="41" y="46"/>
-      <point x="126" y="45" type="curve"/>
+      <point x="37" y="45"/>
+      <point x="126" y="45" type="curve" smooth="yes"/>
       <point x="318" y="45"/>
       <point x="383" y="452"/>
       <point x="591" y="425" type="curve"/>
@@ -107,14 +107,33 @@
       <point x="486" y="-47"/>
       <point x="438" y="35"/>
     </contour>
-    <contour>
-      <point x="132" y="30" type="move" name="blwm"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_ii</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>605</integer>
+        </dict>
         <key>New_01</key>
         <dict>
           <key>anchors</key>
@@ -1798,10 +1817,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.4711</real>
         <real>1.0</real>
-        <real>0.1481</real>
         <real>1.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
       </array>
     </dict>
   </lib>

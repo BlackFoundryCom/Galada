@@ -19,22 +19,63 @@
     </contour>
     <component base="bn_dda"/>
     <contour>
-      <point x="675" y="0" type="move" name="blwm"/>
-    </contour>
-    <contour>
       <point x="338" y="750" type="move" name="reph"/>
     </contour>
     <contour>
-      <point x="338" y="750" type="move" name="chandrabindu"/>
+      <point x="338.0" y="750.0" type="move" name="chandrabindu"/>
     </contour>
     <contour>
-      <point x="451" y="0" type="move" name="haln"/>
+      <point x="160" y="-234" type="move" name="haln"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_rra</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>531</integer>
+        </dict>
+        <key>New_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_rra</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>531</integer>
+        </dict>
         <key>mask</key>
         <dict>
           <key>anchors</key>
@@ -406,13 +447,6 @@
           <integer>531</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.502</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

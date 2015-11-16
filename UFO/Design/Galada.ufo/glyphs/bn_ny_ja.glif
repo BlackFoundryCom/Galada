@@ -147,6 +147,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_ny_ja</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>788.0</real>
+        </dict>
         <key>New_01</key>
         <dict>
           <key>anchors</key>
@@ -2309,13 +2331,6 @@
           <real>788.0</real>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.4711</real>
-        <real>1.0</real>
-        <real>0.1481</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>
