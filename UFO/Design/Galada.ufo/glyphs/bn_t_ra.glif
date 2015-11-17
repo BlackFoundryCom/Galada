@@ -66,35 +66,22 @@
       <point x="272" y="180"/>
     </contour>
     <contour>
-      <point x="411" y="0" type="move" name="blwm"/>
+      <point x="390" y="-73" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="352" y="-73" type="move" name="haln"/>
+    </contour>
+    <contour>
+      <point x="375" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="375" y="750" type="move" name="chandrabindu"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>Back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bn_t_ra</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>597</integer>
-        </dict>
         <key>New_01</key>
         <dict>
           <key>anchors</key>
@@ -1114,6 +1101,13 @@
           <integer>597</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
+      </array>
     </dict>
   </lib>
 </glyph>

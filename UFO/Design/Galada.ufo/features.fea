@@ -44,6 +44,54 @@ bn_nna
 bn_tha
 bn_pa
 bn_sha
+bn_kh_ba
+bn_kh_ra
+bn_g_ga
+bn_g_da
+bn_g_dha
+bn_g_dh_ba
+bn_g_dh_ra
+bn_g_na
+bn_g_ba
+bn_g_ma
+bn_g_ra
+bn_g_ra_ukaar
+bn_g_ra_uukaar
+bn_g_la
+bn_ng_kha
+bn_jh_ra
+bn_nn_nna
+bn_nn_ba
+bn_nn_ma
+bn_nn_ra
+bn_t_tha
+bn_th_ba
+bn_th_ra
+bn_th_ra_ukaar
+bn_th_ra_uukaar
+bn_th_la
+bn_p_ta
+bn_p_t_ra
+bn_p_na
+bn_p_pa
+bn_p_ra
+bn_p_ra_ukaar
+bn_p_ra_uukaar
+bn_p_la
+bn_sh_na
+bn_sh_ba
+bn_sh_ma
+bn_sh_ra
+bn_sh_ra_ukaar
+bn_sh_ra_uukaar
+bn_sh_la
+bn_ss_pa
+bn_ss_p_ra
+bn_s_kha
+bn_s_pa
+bn_s_p_ra
+bn_s_p_la
+bn_rr_ga
 ];
 
 @CONSONANTS = [
@@ -103,6 +151,72 @@ asa_ba
 bn_rra.half
 bn_sh_ca
 bn_sh_ra
+];
+
+@BASE_UKAAR_ALT = [
+bn_nga
+bn_ca
+bn_cha
+bn_ja
+bn_tta
+bn_ttha
+bn_dda
+bn_ddha
+bn_ta
+bn_bha
+bn_ha
+bn_rra
+bn_rha
+bn_g_ga
+bn_g_da
+bn_ng_ga
+bn_ng_g_ra
+bn_c_ca
+bn_c_cha
+bn_c_ch_ba
+bn_c_ra
+bn_ch_ba
+bn_ch_ra
+bn_j_ja
+bn_j_jha
+bn_j_nya
+bn_j_ba
+bn_j_ra
+bn_ny_cha
+bn_tt_ta
+bn_tt_ba
+bn_tt_ra
+bn_tth_ra
+bn_dd_dda
+bn_dd_ra
+bn_ddh_ra
+bn_nn_tta
+bn_nn_ttha
+bn_nn_dda
+bn_nn_dda.alt01
+bn_nn_dd_ra
+bn_nn_ddha
+bn_t_ta
+bn_t_t_ba
+bn_t_na
+bn_t_ba
+bn_t_ra.alt01
+bn_d_da
+bn_d_d_ba
+bn_d_dha
+bn_d_dh_ba
+bn_d_na
+bn_d_ba
+bn_d_bha
+bn_d_bh_ra
+bn_d_ra
+bn_d_ra_ukaar
+bn_d_ra_uukaar
+bn_n_k_ta
+bn_n_jha
+bn_n_tta
+bn_n_tt_ra
+bn_n_ttha
 ];
 
 
@@ -578,7 +692,7 @@ feature pres {
     sub bn_ha bn_rikaar by bn_ha_rikaar;
 
 	# _ukaar _uukaar alternative
-    sub [bn_ca bn_cha bn_ja bn_tta bn_ttha bn_dda bn_ddha bn_ta bn_bha bn_ha bn_rra bn_rha bn_g_ga bn_g_da] [bn_ukaar bn_uukaar]' by [bn_ukaar.alt bn_uukaar.alt];
+    sub @BASE_UKAAR_ALT [bn_ukaar bn_uukaar]' by [bn_ukaar.alt bn_uukaar.alt];
 
 
 } pres;
@@ -590,6 +704,11 @@ feature psts {
     sub bn_ikaar' [bn_k_tta bn_ss_tta bn_s_tta bn_s_tt_ra bn_ss_tt_ra] by bn_ikaar.fl.wi2;
     sub bn_ikaar' [bn_n_tta bn_n_tt_ra] by bn_ikaar.fl.wi2;
 } psts;
+
+feature ss01 {
+	sub bn_nn_dda by bn_nn_dda.alt01;
+	sub bn_t_ra by bn_t_ra.alt01;
+} ss01;
 
 feature abvm{
     markClass [bn_reph.alt bn_reph] <anchor -148 750> @REPH_MARKS;

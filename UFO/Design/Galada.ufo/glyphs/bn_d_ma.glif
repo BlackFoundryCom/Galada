@@ -39,14 +39,14 @@
       <point x="187" y="452" type="line" smooth="yes"/>
       <point x="212" y="537"/>
       <point x="258" y="567"/>
-      <point x="341" y="567" type="curve"/>
+      <point x="341" y="567" type="curve" smooth="yes"/>
       <point x="463" y="567"/>
       <point x="482" y="539"/>
       <point x="503" y="504" type="curve"/>
       <point x="522" y="533" type="line"/>
       <point x="488" y="614"/>
       <point x="472" y="671"/>
-      <point x="319" y="671" type="curve"/>
+      <point x="319" y="671" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="388" y="-47" type="line"/>
@@ -80,55 +80,23 @@
       <point x="362" y="-73" type="line" smooth="yes"/>
       <point x="477" y="-73" type="line" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="572" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="572" y="750" type="move" name="chandrabindu"/>
+    </contour>
+    <contour>
+      <point x="426" y="-73" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="394" y="-73" type="move" name="haln"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>Back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bn_d_ma</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>676</integer>
-        </dict>
-        <key>New_01</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bn_d_ma</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>676</integer>
-        </dict>
         <key>mask</key>
         <dict>
           <key>anchors</key>
@@ -876,6 +844,13 @@
           <integer>676</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -21,7 +21,7 @@
       <point x="-23" y="671" type="line"/>
       <point x="-7" y="567" type="line"/>
       <point x="242" y="567" type="line"/>
-      <point x="369" y="673" type="line"/>
+      <point x="369" y="671" type="line"/>
     </contour>
     <contour>
       <point x="419" y="261" type="line"/>
@@ -54,9 +54,9 @@
       <point x="498" y="489"/>
       <point x="498" y="553" type="curve" smooth="yes"/>
       <point x="498" y="618"/>
-      <point x="433" y="673"/>
-      <point x="369" y="673" type="curve" smooth="yes"/>
-      <point x="294" y="673"/>
+      <point x="433" y="671"/>
+      <point x="369" y="671" type="curve" smooth="yes"/>
+      <point x="294" y="671"/>
       <point x="90" y="603"/>
       <point x="90" y="457" type="curve" smooth="yes"/>
       <point x="90" y="377"/>
@@ -118,55 +118,23 @@
       <point x="385" y="254"/>
       <point x="356" y="219" type="curve"/>
     </contour>
+    <contour>
+      <point x="536" y="-298" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="514" y="-298" type="move" name="haln"/>
+    </contour>
+    <contour>
+      <point x="717" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="717" y="750" type="move" name="chandrabindu"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>Back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bn_ng_kha</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>843</integer>
-        </dict>
-        <key>New_01</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bn_ng_kha</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>843</integer>
-        </dict>
         <key>mask</key>
         <dict>
           <key>anchors</key>
@@ -1253,6 +1221,13 @@
           <integer>843</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
+      </array>
     </dict>
   </lib>
 </glyph>

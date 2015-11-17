@@ -37,45 +37,48 @@
       <point x="204" y="478" type="curve"/>
     </contour>
     <contour>
-      <point x="410" y="-45" type="curve"/>
-      <point x="539" y="-45"/>
-      <point x="618" y="48"/>
-      <point x="618" y="198" type="curve" smooth="yes"/>
-      <point x="618" y="266"/>
-      <point x="587" y="324"/>
-      <point x="550" y="370" type="curve"/>
-      <point x="511" y="297"/>
-      <point x="480" y="265"/>
-      <point x="444" y="265" type="curve" smooth="yes"/>
-      <point x="430" y="265"/>
-      <point x="416" y="272"/>
-      <point x="416" y="294" type="curve"/>
-      <point x="416" y="345"/>
-      <point x="487" y="567"/>
-      <point x="666" y="567" type="curve"/>
-      <point x="965" y="567" type="line"/>
-      <point x="949" y="671" type="line"/>
-      <point x="645" y="671" type="line"/>
-      <point x="394" y="671"/>
-      <point x="301" y="370"/>
-      <point x="305" y="287" type="curve" smooth="yes"/>
-      <point x="308" y="215"/>
-      <point x="386" y="167"/>
-      <point x="462" y="167" type="curve" smooth="yes"/>
-      <point x="498" y="167"/>
-      <point x="530" y="177"/>
-      <point x="560" y="205" type="curve"/>
-      <point x="551" y="103"/>
-      <point x="467" y="78"/>
-      <point x="403" y="77" type="curve"/>
-      <point x="211" y="76"/>
-      <point x="50" y="276"/>
-      <point x="92" y="473" type="curve"/>
-      <point x="58" y="485"/>
-      <point x="16" y="481"/>
-      <point x="16" y="410" type="curve" smooth="yes"/>
-      <point x="16" y="219"/>
-      <point x="180" y="-45"/>
+      <point x="410.0" y="-45.0" type="curve" smooth="yes"/>
+      <point x="539.0" y="-45.0"/>
+      <point x="618.0" y="48.0"/>
+      <point x="618.0" y="198.0" type="curve" smooth="yes"/>
+      <point x="618.0" y="266.0"/>
+      <point x="587.0" y="324.0"/>
+      <point x="550.0" y="370.0" type="curve"/>
+      <point x="511.0" y="297.0"/>
+      <point x="480.0" y="265.0"/>
+      <point x="444.0" y="265.0" type="curve" smooth="yes"/>
+      <point x="430.0" y="265.0"/>
+      <point x="416.0" y="272.0"/>
+      <point x="416.0" y="294.0" type="curve"/>
+      <point x="416.0" y="345.0"/>
+      <point x="487.0" y="567.0"/>
+      <point x="666.0" y="567.0" type="curve" smooth="yes"/>
+      <point x="965.0" y="567.0" type="line"/>
+      <point x="949.0" y="671.0" type="line"/>
+      <point x="645.0" y="671.0" type="line" smooth="yes"/>
+      <point x="394.0" y="671.0"/>
+      <point x="301.0" y="370.0"/>
+      <point x="305.0" y="287.0" type="curve" smooth="yes"/>
+      <point x="308.0" y="215.0"/>
+      <point x="386.0" y="167.0"/>
+      <point x="462.0" y="167.0" type="curve" smooth="yes"/>
+      <point x="498.0" y="167.0"/>
+      <point x="530.0" y="177.0"/>
+      <point x="560.0" y="205.0" type="curve"/>
+      <point x="551.0" y="103.0"/>
+      <point x="467.0" y="77.0"/>
+      <point x="403.0" y="77.0" type="curve" smooth="yes"/>
+      <point x="231.0" y="77.0"/>
+      <point x="85" y="236"/>
+      <point x="85.0" y="410.0" type="curve" smooth="yes"/>
+      <point x="85" y="432"/>
+      <point x="88.0" y="452.0"/>
+      <point x="92.0" y="473.0" type="curve"/>
+      <point x="58.0" y="485.0"/>
+      <point x="16.0" y="481.0"/>
+      <point x="16.0" y="410.0" type="curve" smooth="yes"/>
+      <point x="16.0" y="219.0"/>
+      <point x="180.0" y="-45.0"/>
     </contour>
     <contour>
       <point x="649" y="-26"/>
@@ -103,33 +106,23 @@
       <point x="649" y="153"/>
       <point x="649" y="47" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="552" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="552" y="750" type="move" name="chandrabindu"/>
+    </contour>
+    <contour>
+      <point x="414" y="-34" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="326" y="-31" type="move" name="haln"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>Back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bn_n_jha</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>963</integer>
-        </dict>
         <key>New_01</key>
         <dict>
           <key>anchors</key>
@@ -1853,6 +1846,13 @@
           <integer>963</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
+      </array>
     </dict>
   </lib>
 </glyph>

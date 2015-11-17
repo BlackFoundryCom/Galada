@@ -66,26 +66,7 @@
       <point x="434" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="179" y="-53" type="move"/>
-      <point x="179" y="-53"/>
-      <point x="219" y="-66"/>
-      <point x="219" y="-66" type="curve"/>
-      <point x="223" y="-36"/>
-      <point x="235" y="-8"/>
-      <point x="264" y="-8" type="curve"/>
-      <point x="293" y="-8"/>
-      <point x="310" y="-36"/>
-      <point x="294" y="-125" type="curve"/>
-      <point x="301" y="-123" type="line"/>
-      <point x="333" y="-37"/>
-      <point x="324" y="93"/>
-      <point x="255" y="93" type="curve"/>
-      <point x="211" y="93"/>
-      <point x="185" y="33"/>
       <point x="179" y="-53" type="curve"/>
-    </contour>
-    <contour>
-      <point x="179" y="-53" type="move"/>
       <point x="195" y="-26" type="line"/>
       <point x="216" y="64"/>
       <point x="160" y="152"/>
@@ -115,34 +96,39 @@
       <point x="143" y="38"/>
       <point x="179" y="11"/>
       <point x="179" y="-53" type="curve"/>
+      <point x="179" y="-53"/>
+      <point x="219" y="-66"/>
+      <point x="219" y="-66" type="curve"/>
+      <point x="223" y="-36"/>
+      <point x="235" y="-8"/>
+      <point x="264" y="-8" type="curve"/>
+      <point x="293" y="-8"/>
+      <point x="310" y="-36"/>
+      <point x="294" y="-125" type="curve"/>
+      <point x="301" y="-123" type="line"/>
+      <point x="333" y="-37"/>
+      <point x="324" y="93"/>
+      <point x="255" y="93" type="curve"/>
+      <point x="211" y="93"/>
+      <point x="185" y="33"/>
+    </contour>
+    <contour>
+      <point x="500" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="500" y="750" type="move" name="chandrabindu"/>
+    </contour>
+    <contour>
+      <point x="348" y="-162" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="316" y="-162" type="move" name="haln"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>Back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bn_th_la</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>624</integer>
-        </dict>
         <key>New_01</key>
         <dict>
           <key>anchors</key>
@@ -1082,29 +1068,14 @@
           <key>width</key>
           <integer>624</integer>
         </dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bn_th_la</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>624</integer>
-        </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
+      </array>
     </dict>
   </lib>
 </glyph>
