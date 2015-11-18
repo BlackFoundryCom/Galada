@@ -37,50 +37,62 @@
       <point x="178" y="469" type="curve"/>
     </contour>
     <contour>
-      <point x="447" y="464" type="line" smooth="yes"/>
-      <point x="465" y="546"/>
-      <point x="514" y="567"/>
-      <point x="605" y="567" type="curve" smooth="yes"/>
-      <point x="729" y="567" type="line"/>
-      <point x="713" y="671" type="line"/>
-      <point x="577" y="671" type="line" smooth="yes"/>
-      <point x="440" y="671"/>
-      <point x="366" y="612"/>
-      <point x="342" y="498" type="curve" smooth="yes"/>
-      <point x="321" y="397" type="line" smooth="yes"/>
-      <point x="296" y="278"/>
-      <point x="380" y="211"/>
-      <point x="466" y="211" type="curve"/>
-      <point x="512" y="211"/>
-      <point x="569" y="243"/>
-      <point x="600" y="293" type="curve"/>
-      <point x="605" y="183"/>
-      <point x="505" y="118"/>
-      <point x="400" y="118" type="curve"/>
-      <point x="157" y="122"/>
-      <point x="33" y="376"/>
-      <point x="101" y="521" type="curve"/>
-      <point x="51" y="550"/>
-      <point x="12" y="511"/>
-      <point x="12" y="454" type="curve"/>
-      <point x="12" y="286"/>
-      <point x="147" y="-8"/>
-      <point x="410" y="-8" type="curve"/>
-      <point x="529" y="-8"/>
-      <point x="656" y="69"/>
-      <point x="657" y="257" type="curve"/>
-      <point x="656" y="348"/>
-      <point x="629" y="405"/>
-      <point x="593" y="448" type="curve"/>
-      <point x="501" y="329"/>
-      <point x="475" y="305"/>
-      <point x="449" y="305" type="curve" smooth="yes"/>
-      <point x="417" y="305"/>
-      <point x="417" y="325"/>
-      <point x="434" y="402" type="curve" smooth="yes"/>
+      <point x="447.0" y="464.0" type="line" smooth="yes"/>
+      <point x="465.0" y="546.0"/>
+      <point x="514.0" y="567.0"/>
+      <point x="605.0" y="567.0" type="curve" smooth="yes"/>
+      <point x="729.0" y="567.0" type="line"/>
+      <point x="713.0" y="671.0" type="line"/>
+      <point x="577.0" y="671.0" type="line" smooth="yes"/>
+      <point x="440.0" y="671.0"/>
+      <point x="366.0" y="612.0"/>
+      <point x="342.0" y="498.0" type="curve" smooth="yes"/>
+      <point x="321.0" y="397.0" type="line" smooth="yes"/>
+      <point x="296.0" y="278.0"/>
+      <point x="380.0" y="211.0"/>
+      <point x="466.0" y="211.0" type="curve" smooth="yes"/>
+      <point x="512.0" y="211.0"/>
+      <point x="569.0" y="243.0"/>
+      <point x="600.0" y="293.0" type="curve"/>
+      <point x="605.0" y="183.0"/>
+      <point x="505.0" y="118.0"/>
+      <point x="400.0" y="118.0" type="curve" smooth="yes"/>
+      <point x="202.0" y="118.0"/>
+      <point x="83" y="289"/>
+      <point x="83.0" y="431.0" type="curve" smooth="yes"/>
+      <point x="83" y="463"/>
+      <point x="88.0" y="494.0"/>
+      <point x="101.0" y="521.0" type="curve"/>
+      <point x="51.0" y="550.0"/>
+      <point x="12.0" y="511.0"/>
+      <point x="12.0" y="454.0" type="curve"/>
+      <point x="12.0" y="286.0"/>
+      <point x="147.0" y="-8.0"/>
+      <point x="410.0" y="-8.0" type="curve" smooth="yes"/>
+      <point x="529.0" y="-8.0"/>
+      <point x="657.0" y="69.0"/>
+      <point x="657.0" y="257.0" type="curve" smooth="yes"/>
+      <point x="657.0" y="348.0"/>
+      <point x="629.0" y="405.0"/>
+      <point x="593.0" y="448.0" type="curve"/>
+      <point x="501.0" y="329.0"/>
+      <point x="475.0" y="305.0"/>
+      <point x="449.0" y="305.0" type="curve" smooth="yes"/>
+      <point x="417.0" y="305.0"/>
+      <point x="417.0" y="325.0"/>
+      <point x="434.0" y="402.0" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="527" y="0" type="move" name="blwm"/>
+      <point x="418" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="372" y="0" type="move" name="haln"/>
+    </contour>
+    <contour>
+      <point x="467" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="467" y="750" type="move" name="chandrabindu"/>
     </contour>
   </outline>
   <lib>
@@ -676,6 +688,13 @@
           <integer>727</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
+      </array>
     </dict>
   </lib>
 </glyph>

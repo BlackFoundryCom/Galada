@@ -3,26 +3,7 @@
   <advance width="778"/>
   <outline>
     <contour>
-      <point x="160" y="-65" type="move"/>
-      <point x="160" y="-65"/>
-      <point x="200" y="-78"/>
-      <point x="200" y="-78" type="curve"/>
-      <point x="204" y="-48"/>
-      <point x="220" y="-15"/>
-      <point x="249" y="-15" type="curve"/>
-      <point x="278" y="-15"/>
-      <point x="305" y="-43"/>
-      <point x="289" y="-132" type="curve"/>
-      <point x="296" y="-130" type="line"/>
-      <point x="328" y="-44"/>
-      <point x="314" y="87"/>
-      <point x="245" y="87" type="curve"/>
-      <point x="201" y="87"/>
-      <point x="166" y="21"/>
       <point x="160" y="-65" type="curve"/>
-    </contour>
-    <contour>
-      <point x="160" y="-65" type="move"/>
       <point x="187" y="-29" type="line"/>
       <point x="208" y="61"/>
       <point x="146" y="138"/>
@@ -52,6 +33,21 @@
       <point x="117" y="31"/>
       <point x="160" y="-1"/>
       <point x="160" y="-65" type="curve"/>
+      <point x="160" y="-65"/>
+      <point x="200" y="-78"/>
+      <point x="200" y="-78" type="curve"/>
+      <point x="204" y="-48"/>
+      <point x="220" y="-15"/>
+      <point x="249" y="-15" type="curve"/>
+      <point x="278" y="-15"/>
+      <point x="305" y="-43"/>
+      <point x="289" y="-132" type="curve"/>
+      <point x="296" y="-130" type="line"/>
+      <point x="328" y="-44"/>
+      <point x="314" y="87"/>
+      <point x="245" y="87" type="curve"/>
+      <point x="201" y="87"/>
+      <point x="166" y="21"/>
     </contour>
     <contour>
       <point x="280" y="-162" type="line" smooth="yes"/>
@@ -109,6 +105,18 @@
       <point x="764" y="671" type="line"/>
       <point x="-23" y="671" type="line"/>
       <point x="-7" y="567" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="-162" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="302" y="-162" type="move" name="haln"/>
+    </contour>
+    <contour>
+      <point x="507" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="507" y="750" type="move" name="chandrabindu"/>
     </contour>
   </outline>
   <lib>
@@ -571,6 +579,13 @@
           <integer>778</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
+      </array>
     </dict>
   </lib>
 </glyph>
