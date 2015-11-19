@@ -47,7 +47,7 @@
       <point x="283" y="413"/>
     </contour>
     <contour>
-      <point x="279" y="307" type="move"/>
+      <point x="279" y="307" type="curve"/>
       <point x="300" y="347" type="line"/>
       <point x="317" y="437"/>
       <point x="256" y="529"/>
@@ -76,10 +76,9 @@
       <point x="178" y="421" type="curve"/>
       <point x="227" y="421"/>
       <point x="279" y="385"/>
-      <point x="279" y="307" type="curve"/>
     </contour>
     <contour>
-      <point x="390" y="-356" type="move"/>
+      <point x="390" y="-356" type="curve" smooth="yes"/>
       <point x="538" y="-356"/>
       <point x="614" y="-270"/>
       <point x="614" y="-149" type="curve" smooth="yes"/>
@@ -151,8 +150,8 @@
       <point x="546" y="-121" type="curve" smooth="yes"/>
       <point x="546" y="-182"/>
       <point x="495" y="-229"/>
-      <point x="382" y="-229" type="curve"/>
-      <point x="139" y="-224"/>
+      <point x="382" y="-229" type="curve" smooth="yes"/>
+      <point x="139" y="-229"/>
       <point x="42" y="36"/>
       <point x="42" y="128" type="curve" smooth="yes"/>
       <point x="42" y="160"/>
@@ -166,13 +165,15 @@
       <point x="-23" y="146" type="curve" smooth="yes"/>
       <point x="-23" y="-12"/>
       <point x="84" y="-356"/>
-      <point x="390" y="-356" type="curve"/>
     </contour>
     <contour>
-      <point x="425" y="-342" type="move" name="blwm"/>
+      <point x="324" y="-351" type="move" name="haln"/>
     </contour>
     <contour>
-      <point x="424" y="-342" type="move" name="blwm"/>
+      <point x="594" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="594" y="750" type="move" name="chandrabindu"/>
     </contour>
   </outline>
   <lib>
@@ -2786,6 +2787,13 @@
           <integer>709</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.7</real>
+      </array>
     </dict>
   </lib>
 </glyph>
