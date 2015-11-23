@@ -108,28 +108,34 @@
       <point x="487" y="115" type="line"/>
     </contour>
     <contour>
-      <point x="80" y="9" type="curve" smooth="yes"/>
-      <point x="80" y="36"/>
-      <point x="95" y="53"/>
-      <point x="115" y="60" type="curve"/>
-      <point x="108" y="83"/>
-      <point x="100" y="96"/>
-      <point x="76" y="96" type="curve"/>
-      <point x="44" y="96"/>
-      <point x="19" y="52"/>
-      <point x="19" y="-9" type="curve"/>
-      <point x="19" y="-107"/>
-      <point x="105" y="-151"/>
-      <point x="198" y="-143" type="curve" smooth="yes"/>
-      <point x="278" y="-136"/>
-      <point x="332" y="-139"/>
-      <point x="325" y="-189" type="curve"/>
-      <point x="341" y="-188" type="line"/>
-      <point x="349" y="-66"/>
-      <point x="301" y="-19"/>
-      <point x="198" y="-27" type="curve" smooth="yes"/>
-      <point x="120" y="-33"/>
-      <point x="80" y="-27"/>
+      <point x="80.0" y="9.0" type="curve" smooth="yes"/>
+      <point x="80.0" y="36.0"/>
+      <point x="95.0" y="53.0"/>
+      <point x="115.0" y="60.0" type="curve"/>
+      <point x="108.0" y="83.0"/>
+      <point x="100.0" y="96.0"/>
+      <point x="76.0" y="96.0" type="curve"/>
+      <point x="44.0" y="96.0"/>
+      <point x="19.0" y="52.0"/>
+      <point x="19.0" y="-9.0" type="curve"/>
+      <point x="19.0" y="-100.0"/>
+      <point x="93.0" y="-144.0"/>
+      <point x="178.0" y="-144.0" type="curve" smooth="yes"/>
+      <point x="199.36749817" y="-144.0"/>
+      <point x="227" y="-140"/>
+      <point x="248.0" y="-140.0" type="curve" smooth="yes"/>
+      <point x="299" y="-140"/>
+      <point x="330.0" y="-150.0"/>
+      <point x="325.0" y="-189.0" type="curve"/>
+      <point x="341.0" y="-188.0" type="line"/>
+      <point x="348.0" y="-75.0"/>
+      <point x="308" y="-26"/>
+      <point x="223" y="-26" type="curve" smooth="yes"/>
+      <point x="205" y="-26"/>
+      <point x="181" y="-29"/>
+      <point x="159.0" y="-29.0" type="curve" smooth="yes"/>
+      <point x="107" y="-29"/>
+      <point x="80.0" y="-20.0"/>
     </contour>
     <contour>
       <point x="-7" y="567" type="line"/>
@@ -137,5 +143,28 @@
       <point x="636" y="671" type="line"/>
       <point x="-23" y="671" type="line"/>
     </contour>
+    <contour>
+      <point x="238" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="338" y="840" type="move" name="chandrabindu"/>
+    </contour>
+    <contour>
+      <point x="381" y="-197" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="351" y="-197" type="move" name="haln"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.4</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

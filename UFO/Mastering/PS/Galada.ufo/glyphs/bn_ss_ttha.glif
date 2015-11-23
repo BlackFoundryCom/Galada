@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_ss_ttha" format="1">
+  <advance width="555"/>
+  <outline>
+    <contour>
+      <point x="557" y="567" type="line"/>
+      <point x="541" y="671" type="line"/>
+      <point x="-23" y="671" type="line"/>
+      <point x="-7" y="567" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="605" type="line"/>
+      <point x="378" y="397"/>
+      <point x="202" y="249"/>
+      <point x="32" y="221" type="curve"/>
+      <point x="32" y="99"/>
+      <point x="128" y="-19"/>
+      <point x="259" y="-19" type="curve" smooth="yes"/>
+      <point x="375" y="-19"/>
+      <point x="480" y="78"/>
+      <point x="480" y="254" type="curve" smooth="yes"/>
+      <point x="480" y="486"/>
+      <point x="219" y="671"/>
+      <point x="219" y="817" type="curve" smooth="yes"/>
+      <point x="219" y="887"/>
+      <point x="263" y="937"/>
+      <point x="331" y="937" type="curve" smooth="yes"/>
+      <point x="344" y="937"/>
+      <point x="358" y="935"/>
+      <point x="373" y="932" type="curve"/>
+      <point x="369" y="979"/>
+      <point x="347" y="1015"/>
+      <point x="289" y="1015" type="curve" smooth="yes"/>
+      <point x="209" y="1015"/>
+      <point x="143" y="937"/>
+      <point x="143" y="838" type="curve" smooth="yes"/>
+      <point x="143" y="670"/>
+      <point x="402" y="487"/>
+      <point x="402" y="298" type="curve" smooth="yes"/>
+      <point x="402" y="190"/>
+      <point x="333" y="68"/>
+      <point x="227" y="68" type="curve"/>
+      <point x="169" y="68"/>
+      <point x="124" y="94"/>
+      <point x="124" y="135" type="curve"/>
+      <point x="314" y="164"/>
+      <point x="400" y="355"/>
+      <point x="340" y="500" type="curve"/>
+    </contour>
+    <contour>
+      <point x="276" y="343" type="curve"/>
+      <point x="301" y="401" type="line"/>
+      <point x="261" y="449"/>
+      <point x="184" y="530"/>
+      <point x="97" y="596" type="curve"/>
+      <point x="40" y="567" type="line"/>
+      <point x="133" y="502"/>
+      <point x="58" y="419"/>
+      <point x="-14" y="379" type="curve"/>
+      <point x="7" y="318"/>
+      <point x="82" y="250"/>
+      <point x="133" y="250" type="curve" smooth="yes"/>
+      <point x="219" y="250"/>
+      <point x="262" y="298"/>
+      <point x="290" y="359" type="curve"/>
+      <point x="266" y="380" type="line"/>
+      <point x="245" y="321"/>
+      <point x="216" y="301"/>
+      <point x="171" y="301" type="curve" smooth="yes"/>
+      <point x="133" y="301"/>
+      <point x="91" y="334"/>
+      <point x="91" y="376" type="curve"/>
+      <point x="70" y="325" type="line"/>
+      <point x="122" y="352"/>
+      <point x="167" y="407"/>
+      <point x="147" y="503" type="curve"/>
+      <point x="128" y="484" type="line"/>
+      <point x="189" y="445"/>
+      <point x="255" y="375"/>
+    </contour>
+    <contour>
+      <point x="287" y="-11" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="187" y="-11" type="move" name="haln"/>
+    </contour>
+    <contour>
+      <point x="351" y="750" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="412" y="662" type="move" name="chandrabindu"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>645</integer>
+                  <key>y</key>
+                  <integer>627</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>629</integer>
+                  <key>y</key>
+                  <integer>751</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>47</integer>
+                  <key>y</key>
+                  <integer>751</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>63</integer>
+                  <key>y</key>
+                  <integer>627</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bn_ss_ttha</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>555</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

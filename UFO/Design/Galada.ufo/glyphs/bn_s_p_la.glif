@@ -85,22 +85,22 @@
       <point x="713" y="366"/>
     </contour>
     <contour>
-      <point x="996" y="646" type="line"/>
-      <point x="986" y="646" type="line" smooth="yes"/>
-      <point x="929" y="646"/>
-      <point x="911" y="679"/>
-      <point x="911" y="773" type="curve"/>
-      <point x="877" y="773" type="line"/>
+      <point x="1001" y="671" type="line"/>
+      <point x="991" y="671" type="line" smooth="yes"/>
+      <point x="934" y="671"/>
+      <point x="916" y="704"/>
+      <point x="916" y="798" type="curve"/>
+      <point x="882" y="798" type="line"/>
       <point x="684" y="-123" type="line" smooth="yes"/>
       <point x="799" y="-123" type="line"/>
-      <point x="951" y="596" type="line"/>
-      <point x="962" y="564"/>
-      <point x="981" y="542"/>
-      <point x="1005" y="542" type="curve" smooth="yes"/>
-      <point x="1012" y="542" type="line"/>
+      <point x="956" y="621" type="line"/>
+      <point x="967" y="589"/>
+      <point x="986" y="567"/>
+      <point x="1010" y="567" type="curve" smooth="yes"/>
+      <point x="1017" y="567" type="line"/>
     </contour>
     <contour>
-      <point x="573" y="14" type="move"/>
+      <point x="573" y="14" type="curve"/>
       <point x="573" y="14"/>
       <point x="613" y="1"/>
       <point x="613" y="1" type="curve"/>
@@ -116,10 +116,9 @@
       <point x="651" y="171" type="curve"/>
       <point x="607" y="171"/>
       <point x="579" y="100"/>
-      <point x="573" y="14" type="curve"/>
     </contour>
     <contour>
-      <point x="573" y="14" type="move"/>
+      <point x="573" y="14" type="curve"/>
       <point x="600" y="50" type="line"/>
       <point x="621" y="140"/>
       <point x="559" y="228"/>
@@ -148,7 +147,18 @@
       <point x="483" y="110" type="curve" smooth="yes"/>
       <point x="530" y="110"/>
       <point x="573" y="78"/>
-      <point x="573" y="14" type="curve"/>
+    </contour>
+    <contour>
+      <point x="891.0" y="750.0" type="move" name="reph"/>
+    </contour>
+    <contour>
+      <point x="891.0" y="750.0" type="move" name="chandrabindu"/>
+    </contour>
+    <contour>
+      <point x="748" y="-123" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="708" y="-123" type="move" name="haln"/>
     </contour>
   </outline>
   <lib>
