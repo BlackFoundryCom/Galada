@@ -23,7 +23,7 @@
 	<key>com.typemytype.robofont.binarySource</key>
 	<string>/Users/jeremiehornus/Documents/Typefactory-BitBucket/fonts/Google/Google_LobsterBengali/Lobster/Lobster_1.3.otf</string>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -33,9 +33,9 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Applications/Adobe InDesign CC 2015/Fonts/Galada.otf</string>
+	<string>/Users/jeremiehornus/Typefactory/fontes/Google/Google_Galada/UFO/Mastering/Fonts/Galada.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -579,8 +579,15 @@
 				<string>bn_ssa</string>
 				<string>bn_sa</string>
 				<string>bn_ha</string>
-				<string>bn_nukta</string>
+				<string>bn_rra</string>
+				<string>bn_rha</string>
+				<string>bn_yya</string>
+				<string>asa_ra</string>
+				<string>asa_ba</string>
+				<string>bn_rri</string>
+				<string>bn_lli</string>
 				<string>bn_avagraha</string>
+				<string>bn_nukta</string>
 				<string>bn_aakaar</string>
 				<string>bn_ikaar</string>
 				<string>bn_iikaar</string>
@@ -601,13 +608,6 @@
 				<string>bn_halanth</string>
 				<string>bn_khanda_ta</string>
 				<string>bn_aumark</string>
-				<string>bn_rra</string>
-				<string>bn_rha</string>
-				<string>bn_yya</string>
-				<string>asa_ra</string>
-				<string>asa_ba</string>
-				<string>bn_rri</string>
-				<string>bn_lli</string>
 				<string>bn_likaar</string>
 				<string>bn_llikaar</string>
 				<string>bn_zero</string>
@@ -745,6 +745,8 @@
 				<string>bn_d_ra</string>
 				<string>bn_d_ra_ukaar</string>
 				<string>bn_d_ra_uukaar</string>
+				<string>bn_da_ukaar</string>
+				<string>bn_da_uukaar</string>
 				<string>bn_dh_na</string>
 				<string>bn_dh_ba</string>
 				<string>bn_dh_ra</string>
@@ -903,8 +905,6 @@
 				<string>bn_ikaar.fl</string>
 				<string>bn_iikaar.alt</string>
 				<string>bn_iikaar.alt2</string>
-				<string>bn_da_ukaar</string>
-				<string>bn_da_uukaar</string>
 				<string>bn_ka.half</string>
 				<string>bn_kha.half</string>
 				<string>bn_ga.half</string>
@@ -1332,8 +1332,15 @@
 		<string>bn_ssa</string>
 		<string>bn_sa</string>
 		<string>bn_ha</string>
-		<string>bn_nukta</string>
+		<string>bn_rra</string>
+		<string>bn_rha</string>
+		<string>bn_yya</string>
+		<string>asa_ra</string>
+		<string>asa_ba</string>
+		<string>bn_rri</string>
+		<string>bn_lli</string>
 		<string>bn_avagraha</string>
+		<string>bn_nukta</string>
 		<string>bn_aakaar</string>
 		<string>bn_ikaar</string>
 		<string>bn_iikaar</string>
@@ -1354,13 +1361,6 @@
 		<string>bn_halanth</string>
 		<string>bn_khanda_ta</string>
 		<string>bn_aumark</string>
-		<string>bn_rra</string>
-		<string>bn_rha</string>
-		<string>bn_yya</string>
-		<string>asa_ra</string>
-		<string>asa_ba</string>
-		<string>bn_rri</string>
-		<string>bn_lli</string>
 		<string>bn_likaar</string>
 		<string>bn_llikaar</string>
 		<string>bn_zero</string>
@@ -1498,6 +1498,8 @@
 		<string>bn_d_ra</string>
 		<string>bn_d_ra_ukaar</string>
 		<string>bn_d_ra_uukaar</string>
+		<string>bn_da_ukaar</string>
+		<string>bn_da_uukaar</string>
 		<string>bn_dh_na</string>
 		<string>bn_dh_ba</string>
 		<string>bn_dh_ra</string>
@@ -1656,8 +1658,6 @@
 		<string>bn_ikaar.fl</string>
 		<string>bn_iikaar.alt</string>
 		<string>bn_iikaar.alt2</string>
-		<string>bn_da_ukaar</string>
-		<string>bn_da_uukaar</string>
 		<string>bn_ka.half</string>
 		<string>bn_kha.half</string>
 		<string>bn_ga.half</string>
