@@ -27,6 +27,12 @@ lookup psft_beng {
 @COMBINING_MARKS = [
 bn_ukaar
 bn_uukaar
+bn_rikaar
+bn_rrikaar
+bn_ukaar.alt
+bn_uukaar.alt
+bn_rikaar.alt
+bn_rrikaar.alt
 bn_nukta
 bn_ra_phala
 bn_ba_phala
@@ -551,12 +557,6 @@ feature pres {
 		sub bn_nya.half  bn_ja by bn_ny_ja;
 		sub bn_nya.half  bn_jha by bn_ny_jha;
 
-		# _sha
-		sub bn_sha.half bn_ca by bn_sh_ca;
-
-		# _nya
-		sub bn_nya.half bn_ca by bn_ny_ca;
-
 		# _tta
 		sub bn_tta.half bn_tta by bn_tt_tta;
 
@@ -577,7 +577,6 @@ feature pres {
 		sub bn_ta.half bn_tha by bn_t_tha;
 		sub bn_ta.half bn_na by bn_t_na;
 		sub bn_ta.half bn_ma by bn_t_ma;
-		sub bn_ta.half bn_ta by bn_t_ta;
 
 		# _tha
 		sub bn_tha.half bn_la by bn_th_la;
