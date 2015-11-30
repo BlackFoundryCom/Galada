@@ -24,6 +24,46 @@ lookup psft_beng {
 	sub bn_ya bn_halanth by bn_ya_phala;
 } psft_beng;
 
+lookup swap_rikaar_ba_phala {
+	sub bn_rikaar by bn_ba_phala;
+	sub bn_ba_phala by bn_rikaar;
+} swap_rikaar_ba_phala;
+
+lookup swap_rikaar_ra_phala {
+	sub bn_rikaar by bn_ra_phala;
+	sub bn_ra_phala by bn_rikaar;
+} swap_rikaar_ra_phala;
+
+lookup swap_rrikaar_ba_phala {
+	sub bn_rrikaar by bn_ba_phala;
+	sub bn_ba_phala by bn_rrikaar;
+} swap_rrikaar_ba_phala;
+
+lookup swap_rrikaar_ra_phala {
+	sub bn_rrikaar by bn_ra_phala;
+	sub bn_ra_phala by bn_rrikaar;
+} swap_rrikaar_ra_phala;
+
+lookup swap_ukaar_ba_phala {
+	sub bn_ukaar by bn_ba_phala;
+	sub bn_ba_phala by bn_ukaar;
+} swap_ukaar_ba_phala;
+
+lookup swap_ukaar_ra_phala {
+	sub bn_ukaar by bn_ra_phala;
+	sub bn_ra_phala by bn_ukaar;
+} swap_ukaar_ra_phala;
+
+lookup swap_uukaar_ba_phala {
+	sub bn_uukaar by bn_ba_phala;
+	sub bn_ba_phala by bn_uukaar;
+} swap_uukaar_ba_phala;
+
+lookup swap_uukaar_ra_phala {
+	sub bn_uukaar by bn_ra_phala;
+	sub bn_ra_phala by bn_uukaar;
+} swap_uukaar_ra_phala;
+
 @COMBINING_MARKS = [
 bn_ukaar
 bn_uukaar
@@ -437,6 +477,40 @@ feature half {
 } half;
 
 feature pres {
+
+	lookup pres_reorder{
+		sub 
+			bn_rikaar' lookup swap_rikaar_ba_phala
+			bn_ba_phala' lookup swap_rikaar_ba_phala;
+
+		sub 
+			bn_rikaar' lookup swap_rikaar_ra_phala
+			bn_ra_phala' lookup swap_rikaar_ra_phala;
+
+		sub 
+			bn_rrikaar' lookup swap_rrikaar_ba_phala
+			bn_ba_phala' lookup swap_rrikaar_ba_phala;
+
+		sub 
+			bn_rrikaar' lookup swap_rrikaar_ra_phala
+			bn_ra_phala' lookup swap_rrikaar_ra_phala;
+
+		sub 
+			bn_ukaar' lookup swap_ukaar_ba_phala
+			bn_ba_phala' lookup swap_ukaar_ba_phala;
+
+		sub 
+			bn_ukaar' lookup swap_ukaar_ra_phala
+			bn_ra_phala' lookup swap_ukaar_ra_phala;
+
+		sub 
+			bn_uukaar' lookup swap_uukaar_ba_phala
+			bn_ba_phala' lookup swap_uukaar_ba_phala;
+
+		sub 
+			bn_uukaar' lookup swap_uukaar_ra_phala
+			bn_ra_phala' lookup swap_uukaar_ra_phala;
+	} pres_reorder;
 
 	lookup pres_ba {
 		sub bn_ka bn_ba_phala by bn_k_ba;
