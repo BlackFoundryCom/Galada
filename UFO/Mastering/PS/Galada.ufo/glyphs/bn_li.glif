@@ -66,6 +66,9 @@
       <point x="182.796116505" y="553.0"/>
       <point x="155" y="564"/>
     </contour>
+    <contour>
+      <point x="295" y="670" type="move" name="chandrabindu"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -625,6 +628,13 @@
           <integer>614</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>0.5</real>
+      </array>
     </dict>
   </lib>
 </glyph>

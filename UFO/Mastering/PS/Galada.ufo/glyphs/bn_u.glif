@@ -96,6 +96,9 @@
       <point x="238" y="372"/>
       <point x="257" y="424"/>
     </contour>
+    <contour>
+      <point x="272" y="985" type="move" name="chandrabindu"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -378,6 +381,13 @@
           <integer>531</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>0.5</real>
+      </array>
     </dict>
   </lib>
 </glyph>
