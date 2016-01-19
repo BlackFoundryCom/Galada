@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_currency1" format="1">
+  <advance width="444"/>
+  <unicode hex="09F4"/>
+  <outline>
+    <contour>
+      <point x="-54" y="44" type="line"/>
+      <point x="138" y="179"/>
+      <point x="284" y="359"/>
+      <point x="313" y="605" type="curve"/>
+      <point x="340" y="606"/>
+      <point x="378" y="590"/>
+      <point x="378" y="545" type="curve"/>
+      <point x="378" y="384"/>
+      <point x="237" y="112"/>
+      <point x="65" y="-32" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

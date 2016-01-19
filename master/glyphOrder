@@ -1,0 +1,655 @@
+.notdef .notdef
+.null .null uni0000
+CR CR uni000D
+space space uni0020
+exclam exclam uni0021
+quotedbl quotedbl uni0022
+numbersign numbersign uni0023
+dollar dollar uni0024
+percent percent uni0025
+ampersand ampersand uni0026
+quotesingle quotesingle uni0027
+parenleft parenleft uni0028
+parenright parenright uni0029
+asterisk asterisk uni002A
+plus plus uni002B
+comma comma uni002C
+hyphen hyphen uni002D
+period period uni002E
+slash slash uni002F
+zero zero uni0030
+one one uni0031
+two two uni0032
+three three uni0033
+four four uni0034
+five five uni0035
+six six uni0036
+seven seven uni0037
+eight eight uni0038
+nine nine uni0039
+colon colon uni003A
+semicolon semicolon uni003B
+less less uni003C
+equal equal uni003D
+greater greater uni003E
+question question uni003F
+at at uni0040
+A A uni0041
+B B uni0042
+C C uni0043
+D D uni0044
+E E uni0045
+F F uni0046
+G G uni0047
+H H uni0048
+I I uni0049
+J J uni004A
+K K uni004B
+L L uni004C
+M M uni004D
+N N uni004E
+O O uni004F
+P P uni0050
+Q Q uni0051
+R R uni0052
+S S uni0053
+T T uni0054
+U U uni0055
+V V uni0056
+W W uni0057
+X X uni0058
+Y Y uni0059
+Z Z uni005A
+bracketleft bracketleft uni005B
+backslash backslash uni005C
+bracketright bracketright uni005D
+asciicircum asciicircum uni005E
+underscore underscore uni005F
+grave grave uni0060
+a a uni0061
+b b uni0062
+c c uni0063
+d d uni0064
+e e uni0065
+f f uni0066
+g g uni0067
+h h uni0068
+i i uni0069
+j j uni006A
+k k uni006B
+l l uni006C
+m m uni006D
+n n uni006E
+o o uni006F
+p p uni0070
+q q uni0071
+r r uni0072
+s s uni0073
+t t uni0074
+u u uni0075
+v v uni0076
+w w uni0077
+x x uni0078
+y y uni0079
+z z uni007A
+braceleft braceleft uni007B
+bar bar uni007C
+braceright braceright uni007D
+asciitilde asciitilde uni007E
+exclamdown exclamdown uni00A1
+cent cent uni00A2
+sterling sterling uni00A3
+currency currency uni00A4
+yen yen uni00A5
+brokenbar brokenbar uni00A6
+section section uni00A7
+dieresis dieresis uni00A8
+copyright copyright uni00A9
+ordfeminine ordfeminine uni00AA
+guillemotleft guillemotleft uni00AB
+logicalnot logicalnot uni00AC
+uni00AD uni00AD uni00AD
+registered registered uni00AE
+degree degree uni00B0
+plusminus plusminus uni00B1
+twosuperior twosuperior uni00B2
+threesuperior threesuperior uni00B3
+acute acute uni00B4
+paragraph paragraph uni00B6
+periodcentered periodcentered uni00B7
+cedilla cedilla uni00B8
+onesuperior onesuperior uni00B9
+ordmasculine ordmasculine uni00BA
+guillemotright guillemotright uni00BB
+onequarter onequarter uni00BC
+onehalf onehalf uni00BD
+threequarters threequarters uni00BE
+questiondown questiondown uni00BF
+Agrave Agrave uni00C0
+Aacute Aacute uni00C1
+Acircumflex Acircumflex uni00C2
+Atilde Atilde uni00C3
+Adieresis Adieresis uni00C4
+Aring Aring uni00C5
+AE AE uni00C6
+Ccedilla Ccedilla uni00C7
+Egrave Egrave uni00C8
+Eacute Eacute uni00C9
+Ecircumflex Ecircumflex uni00CA
+Edieresis Edieresis uni00CB
+Igrave Igrave uni00CC
+Iacute Iacute uni00CD
+Icircumflex Icircumflex uni00CE
+Idieresis Idieresis uni00CF
+Eth Eth uni00D0
+Ntilde Ntilde uni00D1
+Ograve Ograve uni00D2
+Oacute Oacute uni00D3
+Ocircumflex Ocircumflex uni00D4
+Otilde Otilde uni00D5
+Odieresis Odieresis uni00D6
+multiply multiply uni00D7
+Oslash Oslash uni00D8
+Ugrave Ugrave uni00D9
+Uacute Uacute uni00DA
+Ucircumflex Ucircumflex uni00DB
+Udieresis Udieresis uni00DC
+Yacute Yacute uni00DD
+Thorn Thorn uni00DE
+germandbls germandbls uni00DF
+agrave agrave uni00E0
+aacute aacute uni00E1
+acircumflex acircumflex uni00E2
+atilde atilde uni00E3
+adieresis adieresis uni00E4
+aring aring uni00E5
+ae ae uni00E6
+ccedilla ccedilla uni00E7
+egrave egrave uni00E8
+eacute eacute uni00E9
+ecircumflex ecircumflex uni00EA
+edieresis edieresis uni00EB
+igrave igrave uni00EC
+iacute iacute uni00ED
+icircumflex icircumflex uni00EE
+idieresis idieresis uni00EF
+eth eth uni00F0
+ntilde ntilde uni00F1
+ograve ograve uni00F2
+oacute oacute uni00F3
+ocircumflex ocircumflex uni00F4
+otilde otilde uni00F5
+odieresis odieresis uni00F6
+divide divide uni00F7
+oslash oslash uni00F8
+ugrave ugrave uni00F9
+uacute uacute uni00FA
+ucircumflex ucircumflex uni00FB
+udieresis udieresis uni00FC
+yacute yacute uni00FD
+thorn thorn uni00FE
+ydieresis ydieresis uni00FF
+Aogonek Aogonek uni0104
+aogonek aogonek uni0105
+Cacute Cacute uni0106
+cacute cacute uni0107
+Ccaron Ccaron uni010C
+ccaron ccaron uni010D
+Eogonek Eogonek uni0118
+eogonek eogonek uni0119
+dotlessi dotlessi uni0131
+Lslash Lslash uni0141
+lslash lslash uni0142
+Nacute Nacute uni0143
+nacute nacute uni0144
+OE OE uni0152
+oe oe uni0153
+Sacute Sacute uni015A
+sacute sacute uni015B
+Scaron Scaron uni0160
+scaron scaron uni0161
+Ydieresis Ydieresis uni0178
+Zacute Zacute uni0179
+zacute zacute uni017A
+Zdotaccent Zdotaccent uni017B
+zdotaccent zdotaccent uni017C
+Zcaron Zcaron uni017D
+zcaron zcaron uni017E
+florin florin uni0192
+circumflex circumflex uni02C6
+caron caron uni02C7
+ring ring uni02DA
+ogonek ogonek uni02DB
+tilde tilde uni02DC
+endash endash uni2013
+emdash emdash uni2014
+quoteleft quoteleft uni2018
+quoteright quoteright uni2019
+quotesinglbase quotesinglbase uni201A
+quotedblleft quotedblleft uni201C
+quotedblright quotedblright uni201D
+quotedblbase quotedblbase uni201E
+dagger dagger uni2020
+daggerdbl daggerdbl uni2021
+bullet bullet uni2022
+ellipsis ellipsis uni2026
+perthousand perthousand uni2030
+guilsinglleft guilsinglleft uni2039
+guilsinglright guilsinglright uni203A
+Euro Euro uni20AC
+trademark trademark uni2122
+fi fi uniFB01
+fl fl uniFB02
+bn_chandrabindu bn_chandrabindu uni0981
+bn_anusvar bn_anusvar uni0982
+bn_bisarga bn_bisarga uni0983
+bn_a bn_a uni0985
+bn_aa bn_aa uni0986
+bn_i bn_i uni0987
+bn_ii bn_ii uni0988
+bn_u bn_u uni0989
+bn_uu bn_uu uni098A
+bn_ri bn_ri uni098B
+bn_li bn_li uni098C
+bn_e bn_e uni098F
+bn_ai bn_ai uni0990
+bn_o bn_o uni0993
+bn_au bn_au uni0994
+bn_ka bn_ka uni0995
+bn_kha bn_kha uni0996
+bn_ga bn_ga uni0997
+bn_gha bn_gha uni0998
+bn_nga bn_nga uni0999
+bn_ca bn_ca uni099A
+bn_cha bn_cha uni099B
+bn_ja bn_ja uni099C
+bn_jha bn_jha uni099D
+bn_nya bn_nya uni099E
+bn_tta bn_tta uni099F
+bn_ttha bn_ttha uni09A0
+bn_dda bn_dda uni09A1
+bn_ddha bn_ddha uni09A2
+bn_nna bn_nna uni09A3
+bn_ta bn_ta uni09A4
+bn_tha bn_tha uni09A5
+bn_da bn_da uni09A6
+bn_dha bn_dha uni09A7
+bn_na bn_na uni09A8
+bn_pa bn_pa uni09AA
+bn_pha bn_pha uni09AB
+bn_ba bn_ba uni09AC
+bn_bha bn_bha uni09AD
+bn_ma bn_ma uni09AE
+bn_ya bn_ya uni09AF
+bn_ra bn_ra uni09B0
+bn_la bn_la uni09B2
+bn_sha bn_sha uni09B6
+bn_ssa bn_ssa uni09B7
+bn_sa bn_sa uni09B8
+bn_ha bn_ha uni09B9
+bn_rra bn_rra uni09DC
+bn_rha bn_rha uni09DD
+bn_yya bn_yya uni09DF
+asa_ra asa_ra uni09F0
+asa_ba asa_ba uni09F1
+bn_rri bn_rri uni09E0
+bn_lli bn_lli uni09E1
+bn_avagraha bn_avagraha uni09BD
+bn_nukta bn_nukta uni09BC
+bn_aakaar bn_aakaar uni09BE
+bn_ikaar bn_ikaar uni09BF
+bn_iikaar bn_iikaar uni09C0
+bn_ukaar bn_ukaar uni09C1
+bn_uukaar bn_uukaar uni09C2
+bn_rikaar bn_rikaar uni09C3
+bn_rrikaar bn_rrikaar uni09C4
+bn_ukaar.alt bn_ukaar.alt
+bn_uukaar.alt bn_uukaar.alt
+bn_rikaar.alt bn_rikaar.alt
+bn_rrikaar.alt bn_rrikaar.alt
+bn_ekaar bn_ekaar uni09C7
+bn_ekaar.init bn_ekaar.init
+bn_aikaar bn_aikaar uni09C8
+bn_aikaar.init bn_aikaar.init
+bn_okaar bn_okaar uni09CB
+bn_aukaar bn_aukaar uni09CC
+bn_halanth bn_halanth uni09CD
+bn_khanda_ta bn_khanda_ta uni09CE
+bn_aumark bn_aumark uni09D7
+bn_likaar bn_likaar uni09E2
+bn_llikaar bn_llikaar uni09E3
+bn_zero bn_zero uni09E6
+bn_one bn_one uni09E7
+bn_two bn_two uni09E8
+bn_three bn_three uni09E9
+bn_four bn_four uni09EA
+bn_five bn_five uni09EB
+bn_six bn_six uni09EC
+bn_seven bn_seven uni09ED
+bn_eight bn_eight uni09EE
+bn_nine bn_nine uni09EF
+bn_rupeemark bn_rupeemark uni09F2
+bn_rupeesign bn_rupeesign uni09F3
+bn_danda bn_danda uni0964
+bn_doubledanda bn_doubledanda uni0965
+bn_currency1 bn_currency1 uni09F4
+bn_currency2 bn_currency2 uni09F5
+bn_currency3 bn_currency3 uni09F6
+bn_currency4 bn_currency4 uni09F7
+bn_currencyless bn_currencyless uni09F8
+bn_currency16 bn_currency16 uni09F9
+bn_isshar bn_isshar uni09FA
+bn_k_ka bn_k_ka
+bn_k_tta bn_k_tta
+bn_k_tt_ra bn_k_tt_ra
+bn_k_ta bn_k_ta
+bn_k_t_ba bn_k_t_ba
+bn_k_t_ra bn_k_t_ra
+bn_k_na bn_k_na
+bn_k_ba bn_k_ba
+bn_k_ma bn_k_ma
+bn_k_ra bn_k_ra
+bn_k_ra.alt01 bn_k_ra.alt01
+bn_k_la bn_k_la
+bn_k_ssa bn_k_ssa
+bn_k_ss_nna bn_k_ss_nna
+bn_k_ss_ba bn_k_ss_ba
+bn_k_ss_ma bn_k_ss_ma
+bn_k_ss_ra bn_k_ss_ra
+bn_k_sa bn_k_sa
+bn_kh_ba bn_kh_ba
+bn_kh_ra bn_kh_ra
+bn_ga_ukaar bn_ga_ukaar
+bn_g_ga bn_g_ga
+bn_g_da bn_g_da
+bn_g_dha bn_g_dha
+bn_g_dh_ba bn_g_dh_ba
+bn_g_dh_ra bn_g_dh_ra
+bn_g_na bn_g_na
+bn_g_ba bn_g_ba
+bn_g_ma bn_g_ma
+bn_g_ra bn_g_ra
+bn_g_ra_ukaar bn_g_ra_ukaar
+bn_g_ra_uukaar bn_g_ra_uukaar
+bn_g_la bn_g_la
+bn_gh_na bn_gh_na
+bn_gh_ba bn_gh_ba
+bn_gh_ra bn_gh_ra
+bn_ng_ka bn_ng_ka
+bn_ng_k_ra bn_ng_k_ra
+bn_ng_k_ssa bn_ng_k_ssa
+bn_ng_k_ss_ra bn_ng_k_ss_ra
+bn_ng_kha bn_ng_kha
+bn_ng_ga bn_ng_ga
+bn_ng_g_ra bn_ng_g_ra
+bn_ng_gha bn_ng_gha
+bn_ng_gh_ra bn_ng_gh_ra
+bn_ng_ma bn_ng_ma
+bn_ng_ra bn_ng_ra
+bn_c_ca bn_c_ca
+bn_c_cha bn_c_cha
+bn_c_ch_ba bn_c_ch_ba
+bn_c_ch_ra bn_c_ch_ra
+bn_c_nya bn_c_nya
+bn_c_ra bn_c_ra
+bn_ch_ba bn_ch_ba
+bn_ch_ra bn_ch_ra
+bn_j_ja bn_j_ja
+bn_j_j_ba bn_j_j_ba
+bn_j_jha bn_j_jha
+bn_j_nya bn_j_nya
+bn_j_ba bn_j_ba
+bn_j_ra bn_j_ra
+bn_jh_ra bn_jh_ra
+bn_ny_ca bn_ny_ca
+bn_ny_cha bn_ny_cha
+bn_ny_ja bn_ny_ja
+bn_ny_jha bn_ny_jha
+bn_ny_ra bn_ny_ra
+bn_tt_tta bn_tt_tta
+bn_tt_ba bn_tt_ba
+bn_tt_ra bn_tt_ra
+bn_tth_ra bn_tth_ra
+bn_dd_dda bn_dd_dda
+bn_dd_ra bn_dd_ra
+bn_ddh_ra bn_ddh_ra
+bn_nn_tta bn_nn_tta
+bn_nn_ttha bn_nn_ttha
+bn_nn_dda bn_nn_dda
+bn_nn_dda.alt01 bn_nn_dda.alt01
+bn_nn_dd_ra bn_nn_dd_ra
+bn_nn_ddha bn_nn_ddha
+bn_nn_nna bn_nn_nna
+bn_nn_ba bn_nn_ba
+bn_nn_ma bn_nn_ma
+bn_nn_ra bn_nn_ra
+bn_t_ta bn_t_ta
+bn_t_t_ba bn_t_t_ba
+bn_t_t_ra bn_t_t_ra
+bn_t_tha bn_t_tha
+bn_t_na bn_t_na
+bn_t_ba bn_t_ba
+bn_t_ma bn_t_ma
+bn_t_ra bn_t_ra
+bn_t_ra.alt01 bn_t_ra.alt01
+bn_t_ra_ukaar bn_t_ra_ukaar
+bn_t_ra_uukaar bn_t_ra_uukaar
+bn_th_ba bn_th_ba
+bn_th_ra bn_th_ra
+bn_th_ra_ukaar bn_th_ra_ukaar
+bn_th_ra_uukaar bn_th_ra_uukaar
+bn_th_la bn_th_la
+bn_d_ga bn_d_ga
+bn_d_gha bn_d_gha
+bn_d_da bn_d_da
+bn_d_d_ba bn_d_d_ba
+bn_d_dha bn_d_dha
+bn_d_dh_ba bn_d_dh_ba
+bn_d_na bn_d_na
+bn_d_ba bn_d_ba
+bn_d_bha bn_d_bha
+bn_d_bh_ra bn_d_bh_ra
+bn_d_ma bn_d_ma
+bn_d_ra bn_d_ra
+bn_d_ra_ukaar bn_d_ra_ukaar
+bn_d_ra_uukaar bn_d_ra_uukaar
+bn_da_ukaar bn_da_ukaar
+bn_da_uukaar bn_da_uukaar
+bn_dh_na bn_dh_na
+bn_dh_ba bn_dh_ba
+bn_dh_ra bn_dh_ra
+bn_dh_ra_ukaar bn_dh_ra_ukaar
+bn_dh_ra_uukaar bn_dh_ra_uukaar
+bn_n_k_ta bn_n_k_ta
+bn_n_jha bn_n_jha
+bn_n_tta bn_n_tta
+bn_n_tt_ra bn_n_tt_ra
+bn_n_ttha bn_n_ttha
+bn_n_dda bn_n_dda
+bn_n_dd_ra bn_n_dd_ra
+bn_n_ta bn_n_ta
+bn_n_t_ba bn_n_t_ba
+bn_n_t_ra bn_n_t_ra
+bn_n_tha bn_n_tha
+bn_n_da bn_n_da
+bn_n_d_ba bn_n_d_ba
+bn_n_d_ra bn_n_d_ra
+bn_n_dha bn_n_dha
+bn_n_dh_ba bn_n_dh_ba
+bn_n_dh_ra bn_n_dh_ra
+bn_n_na bn_n_na
+bn_n_ba bn_n_ba
+bn_n_ma bn_n_ma
+bn_n_ra bn_n_ra
+bn_n_sa bn_n_sa
+bn_p_tta bn_p_tta
+bn_p_ta bn_p_ta
+bn_p_t_ra bn_p_t_ra
+bn_p_na bn_p_na
+bn_p_pa bn_p_pa
+bn_p_ra bn_p_ra
+bn_p_ra_ukaar bn_p_ra_ukaar
+bn_p_ra_uukaar bn_p_ra_uukaar
+bn_p_la bn_p_la
+bn_p_sa bn_p_sa
+bn_ph_tta bn_ph_tta
+bn_ph_ra bn_ph_ra
+bn_ph_la bn_ph_la
+bn_b_ja bn_b_ja
+bn_b_da bn_b_da
+bn_b_dha bn_b_dha
+bn_b_ba bn_b_ba
+bn_b_bha bn_b_bha
+bn_b_ra bn_b_ra
+bn_b_ra_ukaar bn_b_ra_ukaar
+bn_b_ra_uukaar bn_b_ra_uukaar
+bn_b_da_ukaar bn_b_da_ukaar
+bn_b_da_uukaar bn_b_da_uukaar
+bn_b_la bn_b_la
+bn_bh_ra bn_bh_ra
+bn_bh_ra_ukaar bn_bh_ra_ukaar
+bn_bh_ra_uukaar bn_bh_ra_uukaar
+bn_bh_la bn_bh_la
+bn_m_na bn_m_na
+bn_m_pa bn_m_pa
+bn_m_p_ra bn_m_p_ra
+bn_m_pha bn_m_pha
+bn_m_ba bn_m_ba
+bn_m_b_ra bn_m_b_ra
+bn_m_bha bn_m_bha
+bn_m_bh_ra bn_m_bh_ra
+bn_m_ma bn_m_ma
+bn_m_ra bn_m_ra
+bn_m_la bn_m_la
+bn_y_ra bn_y_ra
+bn_ra_ukaar bn_ra_ukaar
+bn_ra_uukaar bn_ra_uukaar
+bn_l_ka bn_l_ka
+bn_l_ga bn_l_ga
+bn_l_ga_ukaar bn_l_ga_ukaar
+bn_l_tta bn_l_tta
+bn_l_dda bn_l_dda
+bn_l_da bn_l_da
+bn_l_pa bn_l_pa
+bn_l_pha bn_l_pha
+bn_l_ba bn_l_ba
+bn_l_ma bn_l_ma
+bn_l_ra bn_l_ra
+bn_l_la bn_l_la
+bn_l_sa bn_l_sa
+bn_sha_ukaar bn_sha_ukaar
+bn_sh_ca bn_sh_ca
+bn_sh_cha bn_sh_cha
+bn_sh_tta bn_sh_tta
+bn_sh_na bn_sh_na
+bn_sh_ba bn_sh_ba
+bn_sh_ma bn_sh_ma
+bn_sh_ra bn_sh_ra
+bn_sh_ra_iikaar bn_sh_ra_iikaar
+bn_sh_ra_ukaar bn_sh_ra_ukaar
+bn_sh_ra_uukaar bn_sh_ra_uukaar
+bn_sh_la bn_sh_la
+bn_ss_ka bn_ss_ka
+bn_ss_k_ra bn_ss_k_ra
+bn_ss_tta bn_ss_tta
+bn_ss_tt_ra bn_ss_tt_ra
+bn_ss_ttha bn_ss_ttha
+bn_ss_nna bn_ss_nna
+bn_ss_pa bn_ss_pa
+bn_ss_p_ra bn_ss_p_ra
+bn_ss_pha bn_ss_pha
+bn_ss_ba bn_ss_ba
+bn_ss_ma bn_ss_ma
+bn_ss_ra bn_ss_ra
+bn_s_ka bn_s_ka
+bn_s_k_ba bn_s_k_ba
+bn_s_k_ra bn_s_k_ra
+bn_s_kha bn_s_kha
+bn_s_tta bn_s_tta
+bn_s_tt_ra bn_s_tt_ra
+bn_s_ta bn_s_ta
+bn_s_ta_ukaar bn_s_ta_ukaar
+bn_s_t_ba bn_s_t_ba
+bn_s_t_ra bn_s_t_ra
+bn_s_tha bn_s_tha
+bn_s_na bn_s_na
+bn_s_pa bn_s_pa
+bn_s_p_ra bn_s_p_ra
+bn_s_p_la bn_s_p_la
+bn_s_pha bn_s_pha
+bn_s_ba bn_s_ba
+bn_s_ma bn_s_ma
+bn_s_ra bn_s_ra
+bn_s_ra_ukaar bn_s_ra_ukaar
+bn_s_ra_uukaar bn_s_ra_uukaar
+bn_s_la bn_s_la
+bn_ha_ukaar bn_ha_ukaar
+bn_ha_rikaar bn_ha_rikaar
+bn_h_nna bn_h_nna
+bn_h_na bn_h_na
+bn_h_ba bn_h_ba
+bn_h_ma bn_h_ma
+bn_h_ra bn_h_ra
+bn_h_la bn_h_la
+bn_h_yya bn_h_yya
+bn_rr_ga bn_rr_ga
+asa_ra_ukaar asa_ra_ukaar
+asa_ra_uukaar asa_ra_uukaar
+asa_ba_ukaar asa_ba_ukaar
+asa_ba_uukaar asa_ba_uukaar
+bn_reph bn_reph
+bn_reph.alt bn_reph.alt
+bn_iikaar_reph bn_iikaar_reph
+bn_aumark_reph bn_aumark_reph
+bn_ba_phala bn_ba_phala
+bn_ya_phala bn_ya_phala
+bn_ra_phala bn_ra_phala
+uni25CC uni25CC uni25CC
+uni200C uni200C uni200C
+uni200D uni200D uni200D
+uni20B9.rupee uni20B9.rupee uni20B9
+bn_ikaar.fl.wi3 bn_ikaar.fl.wi3
+bn_ikaar.fl.wi2 bn_ikaar.fl.wi2
+bn_ikaar.fl.wi1 bn_ikaar.fl.wi1
+bn_ikaar.fl bn_ikaar.fl
+bn_iikaar.alt bn_iikaar.alt
+bn_iikaar.alt2 bn_iikaar.alt2
+bn_ka.half bn_ka.half
+bn_kha.half bn_kha.half
+bn_ga.half bn_ga.half
+bn_gha.half bn_gha.half
+bn_nga.half bn_nga.half
+bn_ca.half bn_ca.half
+bn_cha.half bn_cha.half
+bn_ja.half bn_ja.half
+bn_jha.half bn_jha.half
+bn_nya.half bn_nya.half
+bn_tta.half bn_tta.half
+bn_ttha.half bn_ttha.half
+bn_dda.half bn_dda.half
+bn_ddha.half bn_ddha.half
+bn_nna.half bn_nna.half
+bn_ta.half bn_ta.half
+bn_tha.half bn_tha.half
+bn_da.half bn_da.half
+bn_dha.half bn_dha.half
+bn_na.half bn_na.half
+bn_pa.half bn_pa.half
+bn_pha.half bn_pha.half
+bn_ba.half bn_ba.half
+bn_bha.half bn_bha.half
+bn_ma.half bn_ma.half
+bn_ya.half bn_ya.half
+bn_ra.half bn_ra.half
+bn_la.half bn_la.half
+bn_sha.half bn_sha.half
+bn_ssa.half bn_ssa.half
+bn_sa.half bn_sa.half
+bn_ha.half bn_ha.half
+bn_rra.half bn_rra.half
+bn_rha.half bn_rha.half
+bn_yya.half bn_yya.half
+asa_ra.half asa_ra.half
+asa_ba.half asa_ba.half
+bn_k_ssa.half bn_k_ssa.half
+bn_j_nya.half bn_j_nya.half
