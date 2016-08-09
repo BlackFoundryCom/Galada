@@ -862,6 +862,8 @@ feature pres {
     sub bn_da bn_ukaar by bn_da_ukaar;
     sub bn_ra bn_ukaar by bn_ra_ukaar; 
     sub bn_ga bn_ukaar by bn_ga_ukaar;
+    sub asa_ba bn_ukaar by asa_ba_ukaar;
+    sub asa_ra bn_ukaar by asa_ra_ukaar;
 
     # _uukaar
     sub bn_ga bn_uukaar bn_ra_phala by bn_g_ra_uukaar;
@@ -876,7 +878,9 @@ feature pres {
     sub bn_sha bn_uukaar bn_ra_phala by bn_sh_ra_uukaar;
     sub bn_sa bn_uukaar bn_ra_phala by bn_s_ra_uukaar;
     sub bn_da bn_uukaar by bn_da_uukaar;
-
+    sub asa_ba bn_uukaar by asa_ba_uukaar;
+    sub asa_ra bn_uukaar by asa_ra_uukaar;
+    
     # _iikaar
     sub bn_sh_ra bn_iikaar by bn_sh_ra_iikaar;
     sub bn_tta bn_iikaar' by bn_iikaar.alt2;
